@@ -9,8 +9,8 @@
                 "lat":44.563871,
                 "lng":-123.262889
             },
-            "summary":"Group show.  Installation and photography from Shar Fagersten, surrealist Cyrus Peery, mathematic art from Jeremy Smith, pop works from Tim Blackburn, metallurgic pieces from Tony Fisher, and more. Treats too.",
-            "description":"Ranging from an examination of marriage and society to surrealism and pop, this group show brings together many walks of life and, mixed material.  Installation and photography from Shar Fagersten,  surrealist painting and sculpture by Cyrus Peery, mathematic flat pieces and origami from Jeremy Smith, urban pop stencil and spray paint by Tim Blackburn, metallurgic landscape pieces from Tony Fisher, and more. Treats too.",
+            "summary":"Patricia Smith's commercial illustrative work graces local brands, but she also maintains artistic interests in interest in fantasy, science fiction and horror. Novel show, with treats.",
+            "description":"You quite likely know illustrator Patricia Smith's commercial work from brands like Block 15 Brewing Company, The Red Fox Cafe, Cloud & Kelly's Public and various studios, but Smith's work also extends into art.\n\nGenres of concentration include fantasy, science fiction and horror. Her work is strongly colorful and explicitly vivid, As always at The Advocate, other guest artists will also be on hand and, there will be treats.",
             "photoUrl":"advocate.jpg"
         },
         {
@@ -32,8 +32,8 @@
                 "lat":44.564372,
                 "lng":-123.262252
             },
-            "summary":"colors made in heaven. Roxanna Hendricks. mixed media works",
-            "description":"colors made in heaven. Roxanna Hendricks. mixed media works. 541-224-6503, ceiworks.org",
+            "summary":"Dig the New Breed Corvallis Pop-Punkers",
+            "description":"THIS IS MUTANT POP!\n\nAn exhibit containing archival ephemera and related artifacts of sonic consequence from the vaults of Corvallis’s Mutant Pop Records... circa 1994-2008\n\nSponsors: OUTPOST1000, ArtWorks (CEI) Collaborative Employment Innovations",
             "photoUrl":"art-works.jpg"
         },
         {
@@ -44,8 +44,7 @@
                 "lat":44.561371,
                 "lng":-123.261053
             },
-            "summary":"Join us in September and explore the boundless exploration of the universe with Stacy Spangler’s collage, where dreams find their way into the waking world.  Then follow us into the ocean depths in Rinee Merritt’s glass coral in the birdcage.",
-            "photoUrl":"azure.jpg"
+            "summary":"In October we spotlight artifacts and illuminated sculptures from Vandy Hall.  Her work, using electronics, resin, wood, cast metal and blown glass engages the viewer by using fantastical and organic elements to create a magic that captures the imagination."
         },
         {
             "id":3,
@@ -55,9 +54,7 @@
                 "lat":44.561258,
                 "lng":-123.261147
             },
-            "summary":"Copper Autumn. Copper is our September focus and our featured jewelry artist is Jeanmarie Denning of Blessing Stones. Her Fall designs incorporate stone & organic elements.",
-            "description":"Copper Autumn\n\nWe are ready for Autumn!  For the September Art Walk and beyond, we will highlight warm, earthy copper and jewelry in Autumn organic colors.  Our featured local jewelry artist is Jeanmarie Denning of Blessing Stones. Her Fall designs incorporate stone and organic elements, often complemented with copper or antique brass.\n\nFall favorite snacks, *free* bracelet project and a copper component sale round out the evening!",
-            "photoUrl":"kaleidoscope.jpg"
+            "summary":"Monsters, Creatures & Ghouls. Join us for a chillingly creative evening featuring Sue Ploeger’s frightfully adorable ceramic monsters in the 3-D gallery paired with the embedded creatures in Rachel Urista’s magical multimedia work. Building-wide art drawing and ghoulish fun project to make & take."
         },
         {
             "id":4,
@@ -67,7 +64,7 @@
                 "lat":44.561122,
                 "lng":-123.260822
             },
-            "summary":"Susan Stogsdill has been revisiting the past with childhood books, turning them into journals.  Come see if your favorite book might be among the stacks!"
+            "summary":"Octoberfest at Cyrano's Book bindery, time for fall colors in books. New designs for small personal journals. 2-D and 3-D effects.\n\nLook for the Leaves!"
         },
         {
             "id":5,
@@ -77,20 +74,9 @@
                 "lat":44.561378,
                 "lng":-123.261429
             },
-            "summary":"Come see thought-provoking activist art promoting a more compassionate coexistence, browse through older work and Eco-Prints for sale!",
-            "description":"Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain and snoop around. All are welcome!",
+            "summary":"Come see all 100 prints from the 100-day art series “Love, Yourself” spilling out into the hallways as well as view recent activist artwork.",
+            "description":"Spilling into the hallways of Britt's studio, you'll find 100 thought-provoking prints from her 100-day art series, “Love, Yourself”. Come view over a decades' worth of oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting imagery intended to inspire a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain and snoop around.",
             "photoUrl":"brittney-west.jpg"
-        },
-        {
-            "id":"pegasus",
-            "name":"Pegasus & Old World Deli",
-            "address":"341 SW 2nd St",
-            "geocode":{
-                "lat":44.561185,
-                "lng":-123.261147
-            },
-            "summary":"\"Safe Places to Fall\" will host paintings of Willamette Valley by artists Margret Hay and William Shumway and several other local image makers.\n\nMixed media pieces by artists Jim Noel, Bill Shumway and Jennifer Bennett will be on display along with metal sculptures by Raymond Hunter",
-            "photoUrl":"pegasus.jpg"
         },
         {
             "id":"studio262",
@@ -100,9 +86,8 @@
                 "lat":44.563996,
                 "lng":-123.26244
             },
-            "summary":"Jennifer Lommers & Carrie Tasman unveil their new Collaborative Paintings. Artists reception, 4-8pm. Meet the artists and see this exciting new project. ",
-            "description":"Botanical Abstracts: Collaborative Works by Carrie Tasman & Jennifer Lommers\n\nPlease join us for our artist reception, 4-8pm, where Carrie & Jennifer will unveil their latest project, creating paintings together. Enjoy their attention to color and design as their styles overlap in new and exciting ways.",
-            "photoUrl":"studio262.jpg"
+            "summary":"Celebrate the art of Ink at Studio262 with opportunities to make art and try out a variety of inking techniques for InkTober.",
+            "description":"Celebrate the art of Ink at Studio262 with opportunities to make art and try out a variety of inking techniques and supplies for InkTober. Leave your masterpieces with us for display or take them home to enjoy. Also on display, it's the last week to enjoy Botanical Abstracts: Collaborative Works by Carrie Tasman & Jennifer Lommers. Enjoy their attention to color and design as their styles overlap in new and exciting ways."
         },
         {
             "id":"studio-beatrice",
@@ -112,8 +97,8 @@
                 "lat":44.566827,
                 "lng":-123.263545
             },
-            "summary":"Studio Beatrice hosts “Injeanious Silks” hand painted silk wall hangings and scarves by Jean Lawrence.  Refreshments, Music.",
-            "description":"“Injeanious Silks”, the September feature show at Studio Beatrice features Jean Lawrence presenting arange of hand painted silk wall hangings and scarves.  Vibrant colors and diverse motifs embellish precious silk fabric.  Refreshments and guitar music by Marshall Adams and add to the festivities at 230 NW 6th Street from 4-8 PM. "
+            "summary":"“Happiness Is.....” an exhibit featuring acrylic paintings by Phyllis Johnson. A joyous and colorful experience. Refreshments. 4-8 PM",
+            "description":"Phyllis Johnson is the October featured artist with a show “Happiness Is.....”, a delightful array of colorful acrylic paintings.  The varied subject matter and exciting textures and hues give special appeal to this exhibit. Landscapes, animals, and figures combine to present the viewer with a fun and interesting experience.  Refreshments include wine tasting with Kathi from Spindrift Cellars. CAW reception from 4-8 PM.\n\nStudio Beatrice is open from 11 AM-2 PM on Fridays."
         },
         {
             "id":"arts-center",
@@ -123,8 +108,8 @@
                 "lat":44.5643109,
                 "lng":-123.266023
             },
-            "summary":"The Arts Center features Contemporary Art Quilts by Bonnie Bucknam and Linda McLaughlin, as part of Quilt County.",
-            "description":"The Arts Center features Contemporary Art Quilts by Bonnie Bucknam and Linda McLaughlin, as part of Quilt County.\n\nBucknam’s quilts are abstract interpretation of landscape and trees; McLaughlin concentrates in the meditative power of the circle."
+            "summary":"The Arts Center features Daily Objects, Sarah Fagan, Sandee McGee, Susan Rochester who explore our daily surroundings.",
+            "description":"The Arts Center features Daily Objects, Sarah Fagan, Sandee McGee, Susan Rochester who explore our daily surroundings.\n\nTAC hosts a “print party” where you create low tech, instant prints on a press depicting those elusive daily objects."
         },
         {
             "id":"majestic",
@@ -135,20 +120,21 @@
                 "lat":44.563638,
                 "lng":-123.259978
             },
-            "summary":"LOLZ: Instances of Humor in Art, a themed community art show! LOLZ celebrates the relationship of comedy and creativity – highlighting how local artists incorporate humor in visual art.",
-            "description":"LOLZ: Instances of Humor in Art is the first of a series of themed community art shows slated for the Majestic Theatre in the coming year. Our objective is to celebrate and explore the relationship when comic meets creativity, and highlight the unique viewpoints of our local artists and how they choose to incorporate humor in visual art. Whether it’s exuberant, smile-inducing slapstick comic strips or bold and snarky insults shouted by Shakespeare’s tragic heroes, there’s no question of the importance of the presence of comedy in art throughout the ages, reminding us of the absurdity of sanity and that if all else fails, laughter is the best medicine.",
-            "photoUrl":"majestic.jpg"
+            "summary":"Come celebrate the production photography of Aladdin! by Mark Hoffman, and share your “inner monster” with us at our drawing table!",
+            "description":"Everyone has little inner monsters that come out at different times with different people, or ones that just haunt ourselves. The Majestic Theatre invites Corvallis Arts Walkers to share their inner monsters with us! We will have an interactive table for you to recreate your monstrous self and to share lovingly share with those so endure your inner ghoul!\n\nOn display in the  South Lobby is Aladdin! Production photography by Mark Hoffman who captured the rehearsal process for the original production now showing at the Majestic. "
         },
         {
             "id":"fairbanks",
             "name":"Fairbanks Art Gallery",
             "address":"220 SW 26th St",
-            "hours":"4-7 p.m.",
+            "hours":"5-6:45 p.m.",
             "geocode":{
                 "lat":44.5648582,
                 "lng":-123.2804139
             },
-            "summary":"This exhibit has a broad diversity of approaches to the making of art, with faculty working in photography, painting, drawing, mixed media, printmaking and video."
+            "summary":"Ben Butler. Diverse Dimensions",
+            "description":"In  a  dimension  where  an  art  practice  is  similar  to  the  scientific  method,  lies  the  work  of contemporary sculptor Ben Butler. With an educational background in both art and neuroscience, Butler’s  time  spent  studying  molecular  and  cellular  structures  of  the  nervous  system  seems clearly relatable to his highly complex drawings and sculptures.\n\nButler gives himself the freedom to fully explore materials and their qualities. The large sculpture, Rounds, in his upcoming exhibition Diverse Dimensions is a great example of Butler’s artistic curiosity. The circular sculpture is made entirely from cedar shingles, of which Butler has utilized the intrinsic structure of each shingle allowing the material to dictate the overall form.\n\n“A  way  of  thinking  that  I’m  drawn  to,  is  considering the  natural  sciences  and  the  rigorous dissection or breaking apart of things in order to understand the basic elements and principles underlying everything” Butler states in an interview.",
+            "photoUrl":"fairbanks.jpg"
         }
     ]
 }
