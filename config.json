@@ -169,6 +169,16 @@
             },
             "summary":"\"Who Am I?\" Self-portrait drawings, paintings, and more. Refreshments and recorded music. www.arcbenton.org",
             "description":"Self-portraits and paintings from The Arc Benton’s ArtFocus program. “Who Am I?” features approximately 30 artists who experience intellectual and/or developmental disabilities studying under the instruction of Elizabeth Black, MFA."
+        },
+        {
+            "id":"corvidopolis",
+            "name":"Corvidopolis",
+            "address":"459 SW Madison Ave",
+            "geocode":{
+                "lat":44.564167,
+                "lng":-123.263268
+            },
+            "summary":"FALL FUNGUS FIESTA - Visit the CORVIDOPOLIS Studio, view & color some new mushroom prints, draw your favorite fungus and talk fall foraging."
         }
     ]
 }
