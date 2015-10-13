@@ -135,6 +135,40 @@
             "summary":"Ben Butler. Diverse Dimensions",
             "description":"In  a  dimension  where  an  art  practice  is  similar  to  the  scientific  method,  lies  the  work  of contemporary sculptor Ben Butler. With an educational background in both art and neuroscience, Butler’s  time  spent  studying  molecular  and  cellular  structures  of  the  nervous  system  seems clearly relatable to his highly complex drawings and sculptures.\n\nButler gives himself the freedom to fully explore materials and their qualities. The large sculpture, Rounds, in his upcoming exhibition Diverse Dimensions is a great example of Butler’s artistic curiosity. The circular sculpture is made entirely from cedar shingles, of which Butler has utilized the intrinsic structure of each shingle allowing the material to dictate the overall form.\n\n“A  way  of  thinking  that  I’m  drawn  to,  is  considering the  natural  sciences  and  the  rigorous dissection or breaking apart of things in order to understand the basic elements and principles underlying everything” Butler states in an interview.",
             "photoUrl":"fairbanks.jpg"
+        },
+        {
+            "id":"humanities",
+            "name":"OSU Center for the Humanities",
+            "address":"811 SW Jefferson Ave",
+            "hours":"4-7 p.m.",
+            "geocode":{
+                "lat":44.564018,
+                "lng":-123.267411
+            },
+            "summary":"Views of the Columbia Coast. Six photographers share their unique perspectives of the Lower Columbia, from Astoria to Oysterville. Drop-in photo editing demos and advice, 5-7pm.",
+            "description":"Views of the Columbia Coast\n\nA multi-faceted portrait of one of the Northwest's most significant historical regions presented by six local photographers: Rich Bergeman, Allan Doerksen, Dave McIntire, Kurt Norlin, John Ritchie and Dan Wise.\n\nMore than 30 color and b+w photographs explore the Lower Columbia Region, from Astoria's historic waterfront and the upriver Brownsmead sloughs, to the mysterious Fort Columbia and the picturesque Washington towns of Ilwaco and Oysterville.\n\nReception with refreshments from 4-7pm; photo editing demos and advice from 5-7pm. You can also bring your questions to ask the experts as they demonstrate techniques from basic image adjustments to more advanced panorama stitching, composites, and HDR.  Bring your own photographs (on paper, thumb drive, pad or phone) for feedback.",
+            "photoUrl":"humanities.jpg"
+        },
+        {
+            "id":"poptart",
+            "name":"Poptart",
+            "address":"460 SW Madison Ave, Suite #7",
+            "geocode":{
+                "lat":44.563757,
+                "lng":-123.2636782
+            },
+            "summary":"Celebrate CAW's 1st Birthday! Our studio will be decked out with party paraphernalia including a birthday suit photo booth, commemorative $25 tattoos & treats! Also, meet the newest member of the Poptart crew!"
+        },
+        {
+            "id":"art-insight",
+            "name":"The Art of Benton InSight Gallery",
+            "address":"414 NW 4th St",
+            "geocode":{
+                "lat":44.5679025,
+                "lng":-123.261082
+            },
+            "summary":"\"Who Am I?\" Self-portrait drawings, paintings, and more. Refreshments and recorded music. www.arcbenton.org",
+            "description":"Self-portraits and paintings from The Arc Benton’s ArtFocus program. “Who Am I?” features approximately 30 artists who experience intellectual and/or developmental disabilities studying under the instruction of Elizabeth Black, MFA."
         }
     ]
 }
