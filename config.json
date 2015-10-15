@@ -180,6 +180,17 @@
                 "lng":-123.263268
             },
             "summary":"FALL FUNGUS FIESTA - Visit the CORVIDOPOLIS Studio, view & color some new mushroom prints, draw your favorite fungus and talk fall foraging."
+        },
+        {
+            "id":"corvallis-swing",
+            "name":"Corvallis Swing",
+            "address":"341 SW 2nd St",
+            "hours":"5-6:45 p.m.",
+            "geocode":{
+                "lat":44.561265, 
+                "lng":-123.261012
+            },
+            "summary":"The folks of the Corvallis Arts Walk have graciously invited the Corvallis Swing Dance Society to participate in their 1-year anniversary walk! A handful of swing dancers will be dancing onstage at the Old World Deli, 5:00-6:45pm. This is our opportunity to share our love of swing dance with the broader Corvallis community while supporting a great local event!"
         }
     ]
 }
