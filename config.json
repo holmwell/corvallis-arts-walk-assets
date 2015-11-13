@@ -1,5 +1,5 @@
 {
-    "assetsUrl":"https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/10/",
+    "assetsUrl":"https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/11/",
     "destinations":[
         {
             "id":0,
@@ -9,8 +9,7 @@
                 "lat":44.563871,
                 "lng":-123.262889
             },
-            "summary":"Patricia Smith's commercial illustrative work graces local brands, but she also maintains artistic interests in interest in fantasy, science fiction and horror. Novel show, with treats.",
-            "description":"You quite likely know illustrator Patricia Smith's commercial work from brands like Block 15 Brewing Company, The Red Fox Cafe, Cloud & Kelly's Public and various studios, but Smith's work also extends into art.\n\nGenres of concentration include fantasy, science fiction and horror. Her work is strongly colorful and explicitly vivid, As always at The Advocate, other guest artists will also be on hand and, there will be treats.",
+            "summary":"Showing this month at The Advocate Loft, painter Sarah Page.  While Page's work sometimes takes on challenging subjects, her work is uncommonly beautiful while remaining accessible. Show includes surrealist Cyrus Peery along with other local artists too.  As always at The Loft, there will be treats.",
             "photoUrl":"advocate.jpg"
         },
         {
@@ -21,8 +20,7 @@
                 "lat":44.5628093,
                 "lng":-123.2603014
             },
-            "summary":"This year round art co-operative shows the work of many local artists.  “Landscapes from La La Land” by Beatrice Rubenfeld is the feature show in October. Refreshments add to the fun for CAW.",
-            "description":"Art in the Valley is the oldest artist run co-operative in Corvallis.  A wide assortment of artwork is displayed in a welcoming little shop.  Refreshments will be served from 4-8 during the CAW event.\n\nBeatrice Rubenfeld is featured artist for the month of October with “Landscapes from La La Land”, an exhibit of oil paintings varying from plein air to imaginary."
+            "summary":"Robert Moore will showcase his oil paintings @ Art in the Valley. Refreshments and festivities. 4-8 PM"
         },
         {
             "id":2,
@@ -32,9 +30,8 @@
                 "lat":44.564372,
                 "lng":-123.262252
             },
-            "summary":"Dig the New Breed Corvallis Pop-Punkers",
-            "description":"THIS IS MUTANT POP!\n\nAn exhibit containing archival ephemera and related artifacts of sonic consequence from the vaults of Corvallis’s Mutant Pop Records... circa 1994-2008\n\nSponsors: OUTPOST1000, ArtWorks (CEI) Collaborative Employment Innovations",
-            "photoUrl":"art-works.jpg"
+            "summary":"Mt. Mazama\nPhotos inspired by Crater Lake\nby Kazuhisa Yokoyama\nand\nRock Stackers\nstop by and create your own rock stack",
+            "photoUrl":"artworks.jpg"
         },
         {
             "id":"azure",
@@ -44,7 +41,8 @@
                 "lat":44.561371,
                 "lng":-123.261053
             },
-            "summary":"In October we spotlight artifacts and illuminated sculptures from Vandy Hall.  Her work, using electronics, resin, wood, cast metal and blown glass engages the viewer by using fantastical and organic elements to create a magic that captures the imagination."
+            "summary":"Be captivated by Sandra Carlson’s intricate imaginative botany etchings. Each unique hand pulled print conveys authenticity through the use of ambiguous metaphors.",
+            "description":"Come be captivated in Sandra Carlson’s intricately details imaginative botany etchings. Each one of a kind hand pulled print conveys authenticity through the use of ambiguous metaphors. And don’t miss Debi Friedlander’s Capella Art, created with and influenced by musical accompaniment."
         },
         {
             "id":3,
@@ -54,7 +52,8 @@
                 "lat":44.561258,
                 "lng":-123.261147
             },
-            "summary":"Monsters, Creatures & Ghouls. Join us for a chillingly creative evening featuring Sue Ploeger’s frightfully adorable ceramic monsters in the 3-D gallery paired with the embedded creatures in Rachel Urista’s magical multimedia work. Building-wide art drawing and ghoulish fun project to make & take."
+            "summary":"Small Art, Big Spirit",
+            "description":"For Nov-Dec, we feature the work of 15+ jewelry artists, 10 bead/pendant artists, & 5 small gift artists. Register for the Old World Center drawing!"
         },
         {
             "id":4,
@@ -64,7 +63,7 @@
                 "lat":44.561122,
                 "lng":-123.260822
             },
-            "summary":"Octoberfest at Cyrano's Book bindery, time for fall colors in books. New designs for small personal journals. 2-D and 3-D effects.\n\nLook for the Leaves!"
+            "summary":"Cyrano's strives to create the unusual in the land of Books, pop thru the blue door and find something new and exciting that you want to share with your family and friends."
         },
         {
             "id":5,
@@ -74,8 +73,8 @@
                 "lat":44.561378,
                 "lng":-123.261429
             },
-            "summary":"Come see all 100 prints from the 100-day art series “Love, Yourself” spilling out into the hallways as well as view recent activist artwork.",
-            "description":"Spilling into the hallways of Britt's studio, you'll find 100 thought-provoking prints from her 100-day art series, “Love, Yourself”. Come view over a decades' worth of oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting imagery intended to inspire a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain and snoop around.",
+            "summary":"Come see thought-provoking activist art, browse through older work and Eco-Prints for sale--perfect for unique holiday gifts!",
+            "description":"Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain, snoop around and browse through her affordable Eco-Prints for unique holiday gifts! All are welcome!",
             "photoUrl":"brittney-west.jpg"
         },
         {
@@ -86,30 +85,21 @@
                 "lat":44.563996,
                 "lng":-123.26244
             },
-            "summary":"Celebrate the art of Ink at Studio262 with opportunities to make art and try out a variety of inking techniques for InkTober.",
-            "description":"Celebrate the art of Ink at Studio262 with opportunities to make art and try out a variety of inking techniques and supplies for InkTober. Leave your masterpieces with us for display or take them home to enjoy. Also on display, it's the last week to enjoy Botanical Abstracts: Collaborative Works by Carrie Tasman & Jennifer Lommers. Enjoy their attention to color and design as their styles overlap in new and exciting ways."
+            "summary":"Our Holiday Show features 35+ artists with Jan O'Banion, Karen Wysopal, Kelly Ensor & Mariana Mace sharing their talents & work for the evening.",
+            "description":"Our Holiday Show features even more local art this year with over 35 artists & artisans from the Willamette Valley and beyond. From ceramics to gourds to wearables, we have the perfect treasure for you or that special someone just in time for the Holidays! For our November art walk we welcome local artists Jan O'Banion (jewelry), Karen Wysopal (ink art), Kelly Ensor (glass) & Mariana Mace (basketry) as they share their talents and work for the evening.",
+            "photoUrl":"studio262.jpg"
         },
         {
             "id":"studio-beatrice",
             "name":"Studio Beatrice",
             "address":"230 NW 6th St",
+            "hours":"4-7 p.m.",
             "geocode":{
                 "lat":44.566827,
                 "lng":-123.263545
             },
-            "summary":"“Happiness Is.....” an exhibit featuring acrylic paintings by Phyllis Johnson. A joyous and colorful experience. Refreshments. 4-8 PM",
-            "description":"Phyllis Johnson is the October featured artist with a show “Happiness Is.....”, a delightful array of colorful acrylic paintings.  The varied subject matter and exciting textures and hues give special appeal to this exhibit. Landscapes, animals, and figures combine to present the viewer with a fun and interesting experience.  Refreshments include wine tasting with Kathi from Spindrift Cellars. CAW reception from 4-8 PM.\n\nStudio Beatrice is open from 11 AM-2 PM on Fridays."
-        },
-        {
-            "id":"arts-center",
-            "name":"The Arts Center",
-            "address":"700 SW Madison Ave",
-            "geocode":{
-                "lat":44.5643109,
-                "lng":-123.266023
-            },
-            "summary":"The Arts Center features Daily Objects, Sarah Fagan, Sandee McGee, Susan Rochester who explore our daily surroundings.",
-            "description":"The Arts Center features Daily Objects, Sarah Fagan, Sandee McGee, Susan Rochester who explore our daily surroundings.\n\nTAC hosts a “print party” where you create low tech, instant prints on a press depicting those elusive daily objects."
+            "summary":"BlessingStones. Jewelry by Jeanmarie Denning is featured this month. Guitar music by Marshall Adams. Refreshments. 4-7 PM.",
+            "description":"BlessingStones\nJeanmarie Denning’s recent expressions have been in the world of drilled stones. Her creations known as BlessingStones can be previewed at blessingstones.net. Jeanmarie’s return to wrought metal has taken a turn back to copper. Enjoy her botanically themed petals and leaves, paired with garnets, ambers and iolite."
         },
         {
             "id":"majestic",
@@ -120,34 +110,46 @@
                 "lat":44.563638,
                 "lng":-123.259978
             },
-            "summary":"Come celebrate the production photography of Aladdin! by Mark Hoffman, and share your “inner monster” with us at our drawing table!",
-            "description":"Everyone has little inner monsters that come out at different times with different people, or ones that just haunt ourselves. The Majestic Theatre invites Corvallis Arts Walkers to share their inner monsters with us! We will have an interactive table for you to recreate your monstrous self and to share lovingly share with those so endure your inner ghoul!\n\nOn display in the  South Lobby is Aladdin! Production photography by Mark Hoffman who captured the rehearsal process for the original production now showing at the Majestic. "
+            "summary":"Pitch & Stark",
+            "description":"In November, the Majestic Theatre welcomes artists and art lovers to rediscover the beauty of mono images in our second community art show of the season.\n\nBlack and White remains a cherished medium for how it’s subtlety of tones can strip down an image to its raw composition in a society of modern technology that flashes a million colors a minute.\n\nMonochrome images sound simplistic, and yet they are anything but dull. It becomes a challenge to the photographer to consider not only black and white, but all the shades in between. The format compliments all types of photography and light, from movement to landscapes, urban landscapes, portrait, architecture, or macro snapshots and creates images bold and powerful or soft and hazy.",
+            "photoUrl":"majestic.jpg"
         },
         {
             "id":"fairbanks",
             "name":"Fairbanks Art Gallery",
             "address":"220 SW 26th St",
-            "hours":"5-6:45 p.m.",
+            "hours":"4:30-6:45 p.m.",
             "geocode":{
                 "lat":44.5648582,
                 "lng":-123.2804139
             },
-            "summary":"Ben Butler. Diverse Dimensions",
-            "description":"In  a  dimension  where  an  art  practice  is  similar  to  the  scientific  method,  lies  the  work  of contemporary sculptor Ben Butler. With an educational background in both art and neuroscience, Butler’s  time  spent  studying  molecular  and  cellular  structures  of  the  nervous  system  seems clearly relatable to his highly complex drawings and sculptures.\n\nButler gives himself the freedom to fully explore materials and their qualities. The large sculpture, Rounds, in his upcoming exhibition Diverse Dimensions is a great example of Butler’s artistic curiosity. The circular sculpture is made entirely from cedar shingles, of which Butler has utilized the intrinsic structure of each shingle allowing the material to dictate the overall form.\n\n“A  way  of  thinking  that  I’m  drawn  to,  is  considering the  natural  sciences  and  the  rigorous dissection or breaking apart of things in order to understand the basic elements and principles underlying everything” Butler states in an interview.",
+            "summary":"Contemporary Japanese Prints Exhibit",
+            "description":"Gallery talk: 5:00 by Yuji Hiratsuka, Professor of Art at OSU. Curated by Miranda K. Metcalf, Director of Contemporary Works of Paper at Davidson Galleries in Seattle, Washington.\n\nThe Japanese aesthetic is one that is both highly distinctive and as a result widely influential. A driving force behind this aesthetic is Japan’s deep appreciation of technical skill and craftsmanship.\n\nThe tools, workshop, esoteric details, and the variety of techniques within printmaking make it an art which is quintessentially process driven. This exhibition brings together works that are the embodiment of these two forces: superb technical ability and the distinctive and alluring Japanese aesthetic. ",
             "photoUrl":"fairbanks.jpg"
         },
         {
-            "id":"humanities",
-            "name":"OSU Center for the Humanities",
-            "address":"811 SW Jefferson Ave",
-            "hours":"4-7 p.m.",
+            "id":"jeff-hess",
+            "name":"Jeff Hess Studio",
+            "address":"460 SW Madison Ave. Suite 16",
             "geocode":{
-                "lat":44.564018,
-                "lng":-123.267411
+                "lat":44.563769,
+                "lng":-123.263193
             },
-            "summary":"Views of the Columbia Coast. Six photographers share their unique perspectives of the Lower Columbia, from Astoria to Oysterville. Drop-in photo editing demos and advice, 5-7pm.",
-            "description":"Views of the Columbia Coast\n\nA multi-faceted portrait of one of the Northwest's most significant historical regions presented by six local photographers: Rich Bergeman, Allan Doerksen, Dave McIntire, Kurt Norlin, John Ritchie and Dan Wise.\n\nMore than 30 color and b+w photographs explore the Lower Columbia Region, from Astoria's historic waterfront and the upriver Brownsmead sloughs, to the mysterious Fort Columbia and the picturesque Washington towns of Ilwaco and Oysterville.\n\nReception with refreshments from 4-7pm; photo editing demos and advice from 5-7pm. You can also bring your questions to ask the experts as they demonstrate techniques from basic image adjustments to more advanced panorama stitching, composites, and HDR.  Bring your own photographs (on paper, thumb drive, pad or phone) for feedback.",
-            "photoUrl":"humanities.jpg"
+            "summary":"Studio Opening Exhibit",
+            "description":"A visual synopsis of where I've been with my art work, where I'm at now, and where I'm aiming to go.",
+            "photoUrl":"jeff-hess.jpg"
+        },
+        {
+            "id":"pegasus",
+            "name":"Pegasus & Old World Deli",
+            "address":"341 SW 2nd St",
+            "geocode":{
+                "lat":44.561185,
+                "lng":-123.261147
+            },
+            "summary":"\"The Spirit Moves Them\"",
+            "description":"\"The Spirit Moves Them\" begins our sentimental holiday exhibition season featuring local art by local artists with gift making during the CAW!",
+            "photoUrl":"pegasus.jpg"
         },
         {
             "id":"poptart",
@@ -157,40 +159,38 @@
                 "lat":44.563778,
                 "lng":-123.263166
             },
-            "summary":"Celebrate CAW's 1st Birthday! Our studio will be decked out with party paraphernalia including a birthday suit photo booth, commemorative $25 tattoos & treats! Also, meet the newest member of the Poptart crew!"
+            "summary":"Ugly Art Room X Poptart Presents “Paradise” Postcard Show",
+            "description":"Brooklyn’s Ugly Art Room has moved to Corvallis. Its first west coast show “Paradise” will display 4x6” artworks from around the world inspired by the history of the Wellsher building.",
+            "photoUrl":"poptart.jpg"
+        },{
+            "id":"urista-thompson",
+            "name":"Rachel Urista/Laurel Thompson's Studio",
+            "address":"340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
+            "geocode":{
+                "lat":44.561314, 
+                "lng":-123.261465
+            },
+            "summary":"Celebrate and Color With Us!",
+            "description":"Celebrate the opening of 2 local artists new studio! Join our GIANT community coloring book project for kids and adults alike. Materials provided.\n\nMixed media artist Rachel, will feature hand drawn coloring book art. Laurel Thompson, illustrator, muralist and watercolorist, will feature original art from her illustrated children's book \"Please Don't Paint Our Planet Pink!\" written by local author Gregg Kleiner.",
+            "photoUrl":"rachel-urista.jpg"
         },
         {
             "id":"arc-insight",
-            "name":"The Arc of Benton InSight Gallery",
+            "name":"The Arc Office",
             "address":"414 NW 4th St",
             "geocode":{
                 "lat":44.568020,
                 "lng":-123.260454
             },
-            "summary":"\"Who Am I?\" Self-portrait drawings, paintings, and more. Refreshments and recorded music. www.arcbenton.org",
-            "description":"Self-portraits and paintings from The Arc Benton’s ArtFocus program. “Who Am I?” features approximately 30 artists who experience intellectual and/or developmental disabilities studying under the instruction of Elizabeth Black, MFA."
-        },
-        {
-            "id":"corvidopolis",
-            "name":"Corvidopolis",
-            "address":"459 SW Madison Ave",
-            "hours":"5-8 p.m.",
-            "geocode":{
-                "lat":44.564167,
-                "lng":-123.263268
-            },
-            "summary":"FALL FUNGUS FIESTA - Visit the CORVIDOPOLIS Studio, view & color some new mushroom prints, draw your favorite fungus and talk fall foraging."
-        },
-        {
-            "id":"corvallis-swing",
-            "name":"Corvallis Swing",
-            "address":"341 SW 2nd St",
-            "hours":"5-6:45 p.m.",
-            "geocode":{
-                "lat":44.561265, 
-                "lng":-123.261012
-            },
-            "summary":"The folks of the Corvallis Arts Walk have graciously invited the Corvallis Swing Dance Society to participate in their 1-year anniversary walk! A handful of swing dancers will be dancing onstage at the Old World Deli, 5:00-6:45pm. This is our opportunity to share our love of swing dance with the broader Corvallis community while supporting a great local event!"
+            "summary":"\"Fantastical Characters\"",
+            "description":" Kyle Ashbaugh has attended The Arc's ArtFocus program since 2007. His imaginative work is now being featured in the InSight Gallery."
+        },{
+            "id":"teal",
+            "name":"Teal Cooperative Gallery",
+            "address":"328 SW 2nd St",
+            "hours":"6-8 p.m.",
+            "summary":"Come & meet the artists of Teal, 6-8 pm. We display all locally made work in glass, wood, pottery, painting, jewelry, fiber, & more.",
+            "photoUrl":"teal.jpg"
         }
     ]
 }
