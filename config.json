@@ -187,6 +187,10 @@
             "id":"teal",
             "name":"Teal Cooperative Gallery",
             "address":"328 SW 2nd St",
+            "geocode":{
+                "lat":44.561531, 
+                "lng":-123.261294
+            },
             "hours":"6-8 p.m.",
             "summary":"Come & meet the artists of Teal, 6-8 pm. We display all locally made work in glass, wood, pottery, painting, jewelry, fiber, & more.",
             "photoUrl":"teal.jpg"
