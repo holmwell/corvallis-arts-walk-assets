@@ -1,0 +1,271 @@
+{
+    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/12/",
+    "destinations": [
+        {
+            "id": 0,
+            "name": "The Corvallis Advocate Loft",
+            "address": "425 SW Madison Ave (upstairs)",
+            "geocode": {
+                "lat": 44.563871,
+                "lng": -123.262889
+            },
+            "summary": "An Artists Garage Sale.",
+            "photoUrl": "advocate.jpg",
+            "isActive": true,
+            "description": "Just in time for the holidays, fresh new pieces and \nartists along with favorites you've come to know.  From urban and fantasy prints to expressionist and surrealist paintings, and quite a bit in between, you will find numerous genres and mediums represented here. \n\nAn opportunity to save while also supporting local talent.  Expect treats of the wintery variety."
+        },
+        {
+            "id": 1,
+            "name": "Art in the Valley",
+            "address": "209 SW 2nd St",
+            "geocode": {
+                "lat": 44.5628093,
+                "lng": -123.2603014
+            },
+            "summary": "Tiny Treasures",
+            "description": "Art in the Valley celebrates the season witha show of \"Tiny Treasures\".  These original works of art are affordably priced for giving.",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "ArtWorks (CEI) Gallery",
+            "address": "408 SW Monroe Ave Suite 110",
+            "geocode": {
+                "lat": 44.564372,
+                "lng": -123.262252
+            },
+            "summary": "CORIVIDOPOLIS POP-UP SHOW",
+            "photoUrl": "artworks.jpg",
+            "isActive": true,
+            "description": "Featuring CORVIDOPOLIS designed t shirt featuring the work of OUTPOST1000/ArtWorks affiliated artist Kurt Fisk"
+        },
+        {
+            "id": "azure",
+            "name": "Azure Fine Art Gallery",
+            "address": "341 SW 2nd St",
+            "geocode": {
+                "lat": 44.561371,
+                "lng": -123.261053
+            },
+            "summary": "Deb Perry-Guetti explores woven patterns, inquisitive creatures and random compilations in December with her new drawn fiber and sewn drawings.",
+            "description": "",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kaleidoscope Studios",
+            "address": "341 SW 2nd St, Suite 2",
+            "geocode": {
+                "lat": 44.561258,
+                "lng": -123.261147
+            },
+            "summary": "Small Art, Big Spirit",
+            "description": "For Nov-Dec, we feature the work of more than 25 jewelry, bead and small gift artists. Our spotlight for December is Jewelry with gold.",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Cyrano's",
+            "address": "361 SW 2nd St",
+            "geocode": {
+                "lat": 44.561122,
+                "lng": -123.260822
+            },
+            "summary": "The Find of the Season",
+            "description": "Find mini items, great for stocking stuffers. Good for Men, Women, and Kids! Come explore Cyrano's Holiday Shop!",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Brittney West",
+            "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
+            "geocode": {
+                "lat": 44.561378,
+                "lng": -123.261429
+            },
+            "summary": "Come see thought-provoking activist art, browse through older work and Eco-Prints for sale--perfect for unique holiday gifts!",
+            "description": "Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain, snoop around and browse through her affordable Eco-Prints for unique holiday gifts! All are welcome!",
+            "photoUrl": "brittney-west.jpg",
+            "isActive": true
+        },
+        {
+            "id": "studio262",
+            "name": "Studio262",
+            "address": "425 SW Madison Ave, Suite H-1",
+            "geocode": {
+                "lat": 44.563996,
+                "lng": -123.26244
+            },
+            "summary": "Holiday Art Sale",
+            "description": "From ceramics to gourds, we have many treasures just in time for the Holidays! Join Rachel McLain (photography), Rinee Merritt (glass), Debi Friedlander (colored pencil), and Sandra Strohmeyer (various media) as they share their talents for the evening.",
+            "photoUrl": "",
+            "isActive": true
+        },
+        {
+            "id": "studio-beatrice",
+            "name": "Studio Beatrice",
+            "address": "230 NW 6th St",
+            "hours": "4-7 p.m.",
+            "geocode": {
+                "lat": 44.566827,
+                "lng": -123.263545
+            },
+            "summary": "Carol Chapel",
+            "description": "Carol Chapel's acryil paintings and hand-pulled prints are legendary.  Those who stopped by in November got a tiny taste.  Her featured show this month promises to be no less than spectacular.  Spindrift will offer wine tasting. Refreshments.  Music.",
+            "isActive": true
+        },
+        {
+            "id": "majestic",
+            "name": "Majestic Theatre",
+            "address": "115 SW 2nd St",
+            "hours": "4-7 p.m.",
+            "geocode": {
+                "lat": 44.563638,
+                "lng": -123.259978
+            },
+            "summary": "Pitch & Stark",
+            "description": "In November, the Majestic Theatre welcomes artists and art lovers to rediscover the beauty of mono images in our second community art show of the season.\n\nBlack and White remains a cherished medium for how it’s subtlety of tones can strip down an image to its raw composition in a society of modern technology that flashes a million colors a minute.\n\nMonochrome images sound simplistic, and yet they are anything but dull. It becomes a challenge to the photographer to consider not only black and white, but all the shades in between. The format compliments all types of photography and light, from movement to landscapes, urban landscapes, portrait, architecture, or macro snapshots and creates images bold and powerful or soft and hazy.",
+            "photoUrl": "majestic.jpg"
+        },
+        {
+            "id": "fairbanks",
+            "name": "Fairbanks Art Gallery",
+            "address": "220 SW 26th St",
+            "hours": "5-6:45 p.m.",
+            "geocode": {
+                "lat": 44.5648582,
+                "lng": -123.2804139
+            },
+            "summary": "Montage Juried Student Art Exhibit",
+            "description": "Montage, the OSU student art club, presents The Montage Juried Student Art Exhibit, which features works by Oregon State University Art Students on display in Fairbanks Gallery. This exhibit was juried by Hester Coucke, Curator of Exhibitions for the Corvallis Arts Center, and was open to all OSU art majors, art minors, and anyone currently enrolled in an OSU art class.  The exhibit showcases the artwork of all levels of OSU art students and reflects a wide variety of media including works in drawing, painting, sculpture, mixed media and photography.",
+            "photoUrl": "fairbanks.jpg",
+            "isActive": true
+        },
+        {
+            "id": "jeff-hess",
+            "name": "Jeff Hess Studio",
+            "address": "460 SW Madison Ave. Suite 16",
+            "geocode": {
+                "lat": 44.563769,
+                "lng": -123.263193
+            },
+            "summary": "In Pursuit of Gravity",
+            "description": "This month I'll be hanging images from an exploratory mapping of photography I made 5 years ago, and a new image from the Boonooloo project.",
+            "photoUrl": "",
+            "hours": "5-8 p.m.",
+            "isActive": true
+        },
+        {
+            "id": "pegasus",
+            "name": "Pegasus & Old World Deli",
+            "address": "341 SW 2nd St",
+            "geocode": {
+                "lat": 44.561185,
+                "lng": -123.261147
+            },
+            "summary": "Movable Feast of Art",
+            "description": "Stop into Pegasus during December for the \"Movable Feast of Art.” Local artists share paintings, prints, ceramics, photography, sculpture, batik eggs, coloring books, gift cards and more. Gift Certificates for art and framing available!",
+            "isActive": true
+        },
+        {
+            "id": "poptart",
+            "name": "PopTart",
+            "address": "460 SW Madison Ave, Suite #7",
+            "geocode": {
+                "lat": 44.563778,
+                "lng": -123.263166
+            },
+            "summary": "Holiday Pop-Up Shop!",
+            "description": "Art & Gifts by artists Yuji Hiratsuka, Betty Turbo, Rebbermade, Jen G. Pywell, Gavi Hahn & Chelsea Foss! Libations by Corvallis Brewing & Supply.",
+            "photoUrl": "",
+            "isActive": true
+        },
+        {
+            "id": "urista-thompson",
+            "name": "Rachel Urista / Laurel Thompson",
+            "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
+            "geocode": {
+                "lat": 44.561314,
+                "lng": -123.261465
+            },
+            "summary": "See new works in progress from both Rachel and Laurel, and add your touch to the on-going GIANT community coloring book project.  This month, Laurel will have in-progress watercolors and ink drawings on display.  Rachel’s imaginative abstract mixed media",
+            "description": "",
+            "photoUrl": "rachel-urista.jpg",
+            "isActive": true
+        },
+        {
+            "id": "arc-insight",
+            "name": "The Arc Office",
+            "address": "414 NW 4th St",
+            "geocode": {
+                "lat": 44.56802,
+                "lng": -123.260454
+            },
+            "summary": "\"Fantastical Characters\"",
+            "description": " Kyle Ashbaugh has attended The Arc's ArtFocus program since 2007. His imaginative work is now being featured in the InSight Gallery."
+        },
+        {
+            "id": "teal",
+            "name": "Teal Cooperative Gallery",
+            "address": "328 SW 2nd St",
+            "geocode": {
+                "lat": 44.561531,
+                "lng": -123.261294
+            },
+            "hours": "5-8 p.m.",
+            "summary": "Come watch Harry McManus demonstrate wood turning. Featuring local handcrafted sweets by Melarova Baking and ginger liqueur by Spiritopia.",
+            "photoUrl": "teal.jpg",
+            "isActive": true
+        },
+        {
+            "id": "arts-center",
+            "name": "The Arts Center",
+            "address": "700 SW Madison Ave",
+            "geocode": {
+                "lat": 44.5643109,
+                "lng": -123.266023
+            },
+            "summary": "Joan Truckenbrod: From Igloo to Nano",
+            "description": "The Arts Center featured Joan Truckenbrod: From Igloo to Nano in an installation of video sculpture. Joan will talk with visitors about her existing work, as well as the three new works she created for this exhibit, about the ins and outs and challenges of video sculpture.",
+            "isActive": true,
+            "photoUrl": "arts-center.jpg"
+        },
+        {
+            "id": "humanities",
+            "name": "OSU Center for the Humanities",
+            "address": "811 SW Jefferson Ave",
+            "hours": "4-7 p.m.",
+            "geocode": {
+                "lat": 44.564018,
+                "lng": -123.267411
+            },
+            "summary": "Views of the Columbia Coast. Six photographers share their unique perspectives of the Lower Columbia, from Astoria to Oysterville. Drop-in photo editing demos and advice, 5-7pm.",
+            "description": "Views of the Columbia Coast\n\nA multi-faceted portrait of one of the Northwest's most significant historical regions presented by six local photographers: Rich Bergeman, Allan Doerksen, Dave McIntire, Kurt Norlin, John Ritchie and Dan Wise.\n\nMore than 30 color and b+w photographs explore the Lower Columbia Region, from Astoria's historic waterfront and the upriver Brownsmead sloughs, to the mysterious Fort Columbia and the picturesque Washington towns of Ilwaco and Oysterville.\n\nReception with refreshments from 4-7pm; photo editing demos and advice from 5-7pm. You can also bring your questions to ask the experts as they demonstrate techniques from basic image adjustments to more advanced panorama stitching, composites, and HDR.  Bring your own photographs (on paper, thumb drive, pad or phone) for feedback.",
+            "photoUrl": "humanities.jpg"
+        },
+        {
+            "id": "corvidopolis",
+            "name": "Corvidopolis",
+            "address": "459 SW Madison Ave",
+            "hours": "5-8 p.m.",
+            "geocode": {
+                "lat": 44.564167,
+                "lng": -123.263268
+            },
+            "summary": "FALL FUNGUS FIESTA - Visit the CORVIDOPOLIS Studio, view & color some new mushroom prints, draw your favorite fungus and talk fall foraging."
+        },
+        {
+            "id": "corvallis-swing",
+            "name": "Corvallis Swing",
+            "address": "341 SW 2nd St",
+            "hours": "5:45-6:45 p.m.",
+            "geocode": {
+                "lat": 44.561265,
+                "lng": -123.261012
+            },
+            "summary": "Swing dancing at Old World Deli",
+            "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
+            "isActive": true
+        }
+    ]
+}
