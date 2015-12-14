@@ -1,5 +1,5 @@
 {
-    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/11/",
+    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/12/",
     "destinations": [
         {
             "id": 0,
@@ -9,8 +9,10 @@
                 "lat": 44.563871,
                 "lng": -123.262889
             },
-            "summary": "Showing this month at The Advocate Loft, painter Sarah Page.  While Page's work sometimes takes on challenging subjects, her work is uncommonly beautiful while remaining accessible. Show includes surrealist Cyrus Peery along with other local artists too.  As always at The Loft, there will be treats.",
-            "photoUrl": "advocate.jpg"
+            "summary": "An Artists Garage Sale.",
+            "photoUrl": "advocate.jpg",
+            "isActive": true,
+            "description": "Just in time for the holidays, fresh new pieces and \nartists along with favorites you've come to know.  From urban and fantasy prints to expressionist and surrealist paintings, and quite a bit in between, you will find numerous genres and mediums represented here. \n\nAn opportunity to save while also supporting local talent.  Expect treats of the wintery variety."
         },
         {
             "id": 1,
@@ -20,7 +22,9 @@
                 "lat": 44.5628093,
                 "lng": -123.2603014
             },
-            "summary": "Robert Moore will showcase his oil paintings @ Art in the Valley. Refreshments and festivities. 4-8 PM"
+            "summary": "Tiny Treasures",
+            "description": "Art in the Valley celebrates the season witha show of \"Tiny Treasures\".  These original works of art are affordably priced for giving.",
+            "isActive": true
         },
         {
             "id": 2,
@@ -30,8 +34,10 @@
                 "lat": 44.564372,
                 "lng": -123.262252
             },
-            "summary": "Mt. Mazama\nPhotos inspired by Crater Lake\nby Kazuhisa Yokoyama\nand\nRock Stackers\nstop by and create your own rock stack",
-            "photoUrl": "artworks.jpg"
+            "summary": "CORIVIDOPOLIS POP-UP SHOW",
+            "photoUrl": "artworks.jpg",
+            "isActive": true,
+            "description": "Featuring CORVIDOPOLIS designed t shirt featuring the work of OUTPOST1000/ArtWorks affiliated artist Kurt Fisk"
         },
         {
             "id": "azure",
@@ -41,8 +47,9 @@
                 "lat": 44.561371,
                 "lng": -123.261053
             },
-            "summary": "Be captivated by Sandra Carlson’s intricate imaginative botany etchings. Each unique hand pulled print conveys authenticity through the use of ambiguous metaphors.",
-            "description": "Come be captivated in Sandra Carlson’s intricately details imaginative botany etchings. Each one of a kind hand pulled print conveys authenticity through the use of ambiguous metaphors. And don’t miss Debi Friedlander’s Capella Art, created with and influenced by musical accompaniment."
+            "summary": "Deb Perry-Guetti explores woven patterns, inquisitive creatures and random compilations in December with her new drawn fiber and sewn drawings.",
+            "description": "",
+            "isActive": true
         },
         {
             "id": 3,
@@ -53,7 +60,8 @@
                 "lng": -123.261147
             },
             "summary": "Small Art, Big Spirit",
-            "description": "For Nov-Dec, we feature the work of 15+ jewelry artists, 10 bead/pendant artists, & 5 small gift artists. Register for the Old World Center drawing!"
+            "description": "For Nov-Dec, we feature the work of more than 25 jewelry, bead and small gift artists. Our spotlight for December is Jewelry with gold.",
+            "isActive": true
         },
         {
             "id": 4,
@@ -63,7 +71,9 @@
                 "lat": 44.561122,
                 "lng": -123.260822
             },
-            "summary": "Cyrano's strives to create the unusual in the land of Books, pop thru the blue door and find something new and exciting that you want to share with your family and friends."
+            "summary": "The Find of the Season",
+            "description": "Find mini items, great for stocking stuffers. Good for Men, Women, and Kids! Come explore Cyrano's Holiday Shop!",
+            "isActive": true
         },
         {
             "id": 5,
@@ -75,7 +85,8 @@
             },
             "summary": "Come see thought-provoking activist art, browse through older work and Eco-Prints for sale--perfect for unique holiday gifts!",
             "description": "Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain, snoop around and browse through her affordable Eco-Prints for unique holiday gifts! All are welcome!",
-            "photoUrl": "brittney-west.jpg"
+            "photoUrl": "brittney-west.jpg",
+            "isActive": true
         },
         {
             "id": "studio262",
@@ -85,9 +96,10 @@
                 "lat": 44.563996,
                 "lng": -123.26244
             },
-            "summary": "Our Holiday Show features 35+ artists with Jan O'Banion, Karen Wysopal, Kelly Ensor & Mariana Mace sharing their talents & work for the evening.",
-            "description": "Our Holiday Show features even more local art this year with over 35 artists & artisans from the Willamette Valley and beyond. From ceramics to gourds to wearables, we have the perfect treasure for you or that special someone just in time for the Holidays! For our November art walk we welcome local artists Jan O'Banion (jewelry), Karen Wysopal (ink art), Kelly Ensor (glass) & Mariana Mace (basketry) as they share their talents and work for the evening.",
-            "photoUrl": "studio262.jpg"
+            "summary": "Holiday Art Sale",
+            "description": "From ceramics to gourds, we have many treasures just in time for the Holidays! Join Rachel McLain (photography), Rinee Merritt (glass), Debi Friedlander (colored pencil), and Sandra Strohmeyer (various media) as they share their talents for the evening.",
+            "photoUrl": "",
+            "isActive": true
         },
         {
             "id": "studio-beatrice",
@@ -98,34 +110,23 @@
                 "lat": 44.566827,
                 "lng": -123.263545
             },
-            "summary": "BlessingStones. Jewelry by Jeanmarie Denning is featured this month. Guitar music by Marshall Adams. Refreshments. 4-7 PM.",
-            "description": "BlessingStones\nJeanmarie Denning’s recent expressions have been in the world of drilled stones. Her creations known as BlessingStones can be previewed at blessingstones.net. Jeanmarie’s return to wrought metal has taken a turn back to copper. Enjoy her botanically themed petals and leaves, paired with garnets, ambers and iolite."
-        },
-        {
-            "id": "majestic",
-            "name": "Majestic Theatre",
-            "address": "115 SW 2nd St",
-            "hours": "4-7 p.m.",
-            "geocode": {
-                "lat": 44.563638,
-                "lng": -123.259978
-            },
-            "summary": "Pitch & Stark",
-            "description": "In November, the Majestic Theatre welcomes artists and art lovers to rediscover the beauty of mono images in our second community art show of the season.\n\nBlack and White remains a cherished medium for how it’s subtlety of tones can strip down an image to its raw composition in a society of modern technology that flashes a million colors a minute.\n\nMonochrome images sound simplistic, and yet they are anything but dull. It becomes a challenge to the photographer to consider not only black and white, but all the shades in between. The format compliments all types of photography and light, from movement to landscapes, urban landscapes, portrait, architecture, or macro snapshots and creates images bold and powerful or soft and hazy.",
-            "photoUrl": "majestic.jpg"
+            "summary": "Carol Chapel",
+            "description": "Carol Chapel's acryil paintings and hand-pulled prints are legendary.  Those who stopped by in November got a tiny taste.  Her featured show this month promises to be no less than spectacular.  Spindrift will offer wine tasting. Refreshments.  Music.",
+            "isActive": true
         },
         {
             "id": "fairbanks",
             "name": "Fairbanks Art Gallery",
             "address": "220 SW 26th St",
-            "hours": "4:30-6:45 p.m.",
+            "hours": "5-6:45 p.m.",
             "geocode": {
                 "lat": 44.5648582,
                 "lng": -123.2804139
             },
-            "summary": "Contemporary Japanese Prints Exhibit",
-            "description": "Gallery talk: 5:00 by Yuji Hiratsuka, Professor of Art at OSU. Curated by Miranda K. Metcalf, Director of Contemporary Works of Paper at Davidson Galleries in Seattle, Washington.\n\nThe Japanese aesthetic is one that is both highly distinctive and as a result widely influential. A driving force behind this aesthetic is Japan’s deep appreciation of technical skill and craftsmanship.\n\nThe tools, workshop, esoteric details, and the variety of techniques within printmaking make it an art which is quintessentially process driven. This exhibition brings together works that are the embodiment of these two forces: superb technical ability and the distinctive and alluring Japanese aesthetic. ",
-            "photoUrl": "fairbanks.jpg"
+            "summary": "Montage Juried Student Art Exhibit",
+            "description": "Montage, the OSU student art club, presents The Montage Juried Student Art Exhibit, which features works by Oregon State University Art Students on display in Fairbanks Gallery. This exhibit was juried by Hester Coucke, Curator of Exhibitions for the Corvallis Arts Center, and was open to all OSU art majors, art minors, and anyone currently enrolled in an OSU art class.  The exhibit showcases the artwork of all levels of OSU art students and reflects a wide variety of media including works in drawing, painting, sculpture, mixed media and photography.",
+            "photoUrl": "fairbanks.jpg",
+            "isActive": true
         },
         {
             "id": "jeff-hess",
@@ -135,9 +136,11 @@
                 "lat": 44.563769,
                 "lng": -123.263193
             },
-            "summary": "Studio Opening Exhibit",
-            "description": "A visual synopsis of where I've been with my art work, where I'm at now, and where I'm aiming to go.",
-            "photoUrl": "jeff-hess.jpg"
+            "summary": "In Pursuit of Gravity",
+            "description": "This month I'll be hanging images from an exploratory mapping of photography I made 5 years ago, and a new image from the Boonooloo project.",
+            "photoUrl": "",
+            "hours": "5-8 p.m.",
+            "isActive": true
         },
         {
             "id": "pegasus",
@@ -147,43 +150,35 @@
                 "lat": 44.561185,
                 "lng": -123.261147
             },
-            "summary": "\"The Spirit Moves Them\"",
-            "description": "\"The Spirit Moves Them\" begins our sentimental holiday exhibition season featuring local art by local artists with gift making during the CAW!"
+            "summary": "Movable Feast of Art",
+            "description": "Stop into Pegasus during December for the \"Movable Feast of Art.” Local artists share paintings, prints, ceramics, photography, sculpture, batik eggs, coloring books, gift cards and more. Gift Certificates for art and framing available!",
+            "isActive": true
         },
         {
             "id": "poptart",
-            "name": "Poptart",
+            "name": "PopTart",
             "address": "460 SW Madison Ave, Suite #7",
             "geocode": {
                 "lat": 44.563778,
                 "lng": -123.263166
             },
-            "summary": "Ugly Art Room X Poptart Presents “Paradise” Postcard Show",
-            "description": "Brooklyn’s Ugly Art Room has moved to Corvallis. Its first west coast show “Paradise” will display 4x6” artworks from around the world inspired by the history of the Wellsher building.",
-            "photoUrl": "poptart.jpg"
+            "summary": "Holiday Pop-Up Shop!",
+            "description": "Art & Gifts by artists Yuji Hiratsuka, Betty Turbo, Rebbermade, Jen G. Pywell, Gavi Hahn & Chelsea Foss! Libations by Corvallis Brewing & Supply.",
+            "photoUrl": "",
+            "isActive": true
         },
         {
             "id": "urista-thompson",
-            "name": "Rachel Urista/Laurel Thompson's Studio",
+            "name": "Rachel Urista / Laurel Thompson",
             "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
             "geocode": {
                 "lat": 44.561314,
                 "lng": -123.261465
             },
-            "summary": "Celebrate and Color With Us!",
-            "description": "Celebrate the opening of 2 local artists new studio! Join our GIANT community coloring book project for kids and adults alike. Materials provided.\n\nMixed media artist Rachel, will feature hand drawn coloring book art. Laurel Thompson, illustrator, muralist and watercolorist, will feature original art from her illustrated children's book \"Please Don't Paint Our Planet Pink!\" written by local author Gregg Kleiner.",
-            "photoUrl": "rachel-urista.jpg"
-        },
-        {
-            "id": "arc-insight",
-            "name": "The Arc Office",
-            "address": "414 NW 4th St",
-            "geocode": {
-                "lat": 44.56802,
-                "lng": -123.260454
-            },
-            "summary": "\"Fantastical Characters\"",
-            "description": " Kyle Ashbaugh has attended The Arc's ArtFocus program since 2007. His imaginative work is now being featured in the InSight Gallery."
+            "summary": "See new works in progress from both Rachel and Laurel, and add your touch to the on-going GIANT community coloring book project.  This month, Laurel will have in-progress watercolors and ink drawings on display.  Rachel’s imaginative abstract mixed media",
+            "description": "",
+            "photoUrl": "rachel-urista.jpg",
+            "isActive": true
         },
         {
             "id": "teal",
@@ -193,9 +188,36 @@
                 "lat": 44.561531,
                 "lng": -123.261294
             },
-            "hours": "6-8 p.m.",
-            "summary": "Come & meet the artists of Teal, 6-8 pm. We display all locally made work in glass, wood, pottery, painting, jewelry, fiber, & more.",
-            "photoUrl": "teal.jpg"
+            "hours": "5-8 p.m.",
+            "summary": "Come watch Harry McManus demonstrate wood turning. Featuring local handcrafted sweets by Melarova Baking and ginger liqueur by Spiritopia.",
+            "photoUrl": "teal.jpg",
+            "isActive": true
+        },
+        {
+            "id": "arts-center",
+            "name": "The Arts Center",
+            "address": "700 SW Madison Ave",
+            "geocode": {
+                "lat": 44.5643109,
+                "lng": -123.266023
+            },
+            "summary": "Joan Truckenbrod: From Igloo to Nano",
+            "description": "The Arts Center featured Joan Truckenbrod: From Igloo to Nano in an installation of video sculpture. Joan will talk with visitors about her existing work, as well as the three new works she created for this exhibit, about the ins and outs and challenges of video sculpture.",
+            "isActive": true,
+            "photoUrl": "arts-center.jpg"
+        },
+        {
+            "id": "corvallis-swing",
+            "name": "Corvallis Swing",
+            "address": "341 SW 2nd St",
+            "hours": "5:45-6:45 p.m.",
+            "geocode": {
+                "lat": 44.561265,
+                "lng": -123.261012
+            },
+            "summary": "Swing dancing at Old World Deli",
+            "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
+            "isActive": true
         }
     ]
 }
