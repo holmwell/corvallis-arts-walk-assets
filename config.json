@@ -1,199 +1,201 @@
 {
-    "assetsUrl":"https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/11/",
-    "destinations":[
+    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/11/",
+    "destinations": [
         {
-            "id":0,
-            "name":"The Corvallis Advocate Loft",
-            "address":"425 SW Madison Ave (upstairs)",
-            "geocode":{
-                "lat":44.563871,
-                "lng":-123.262889
+            "id": 0,
+            "name": "The Corvallis Advocate Loft",
+            "address": "425 SW Madison Ave (upstairs)",
+            "geocode": {
+                "lat": 44.563871,
+                "lng": -123.262889
             },
-            "summary":"Showing this month at The Advocate Loft, painter Sarah Page.  While Page's work sometimes takes on challenging subjects, her work is uncommonly beautiful while remaining accessible. Show includes surrealist Cyrus Peery along with other local artists too.  As always at The Loft, there will be treats.",
-            "photoUrl":"advocate.jpg"
+            "summary": "Showing this month at The Advocate Loft, painter Sarah Page.  While Page's work sometimes takes on challenging subjects, her work is uncommonly beautiful while remaining accessible. Show includes surrealist Cyrus Peery along with other local artists too.  As always at The Loft, there will be treats.",
+            "photoUrl": "advocate.jpg"
         },
         {
-            "id":1,
-            "name":"Art in the Valley",
-            "address":"209 SW 2nd St",
-            "geocode":{
-                "lat":44.5628093,
-                "lng":-123.2603014
+            "id": 1,
+            "name": "Art in the Valley",
+            "address": "209 SW 2nd St",
+            "geocode": {
+                "lat": 44.5628093,
+                "lng": -123.2603014
             },
-            "summary":"Robert Moore will showcase his oil paintings @ Art in the Valley. Refreshments and festivities. 4-8 PM"
+            "summary": "Robert Moore will showcase his oil paintings @ Art in the Valley. Refreshments and festivities. 4-8 PM"
         },
         {
-            "id":2,
-            "name":"ArtWorks (CEI) Gallery",
-            "address":"408 SW Monroe Ave Suite 110",
-            "geocode":{
-                "lat":44.564372,
-                "lng":-123.262252
+            "id": 2,
+            "name": "ArtWorks (CEI) Gallery",
+            "address": "408 SW Monroe Ave Suite 110",
+            "geocode": {
+                "lat": 44.564372,
+                "lng": -123.262252
             },
-            "summary":"Mt. Mazama\nPhotos inspired by Crater Lake\nby Kazuhisa Yokoyama\nand\nRock Stackers\nstop by and create your own rock stack",
-            "photoUrl":"artworks.jpg"
+            "summary": "Mt. Mazama\nPhotos inspired by Crater Lake\nby Kazuhisa Yokoyama\nand\nRock Stackers\nstop by and create your own rock stack",
+            "photoUrl": "artworks.jpg"
         },
         {
-            "id":"azure",
-            "name":"Azure Fine Art Gallery",
-            "address":"341 SW 2nd St",
-            "geocode":{
-                "lat":44.561371,
-                "lng":-123.261053
+            "id": "azure",
+            "name": "Azure Fine Art Gallery",
+            "address": "341 SW 2nd St",
+            "geocode": {
+                "lat": 44.561371,
+                "lng": -123.261053
             },
-            "summary":"Be captivated by Sandra Carlson’s intricate imaginative botany etchings. Each unique hand pulled print conveys authenticity through the use of ambiguous metaphors.",
-            "description":"Come be captivated in Sandra Carlson’s intricately details imaginative botany etchings. Each one of a kind hand pulled print conveys authenticity through the use of ambiguous metaphors. And don’t miss Debi Friedlander’s Capella Art, created with and influenced by musical accompaniment."
+            "summary": "Be captivated by Sandra Carlson’s intricate imaginative botany etchings. Each unique hand pulled print conveys authenticity through the use of ambiguous metaphors.",
+            "description": "Come be captivated in Sandra Carlson’s intricately details imaginative botany etchings. Each one of a kind hand pulled print conveys authenticity through the use of ambiguous metaphors. And don’t miss Debi Friedlander’s Capella Art, created with and influenced by musical accompaniment."
         },
         {
-            "id":3,
-            "name":"Kaleidoscope Studios",
-            "address":"341 SW 2nd St, Suite 2",
-            "geocode":{
-                "lat":44.561258,
-                "lng":-123.261147
+            "id": 3,
+            "name": "Kaleidoscope Studios",
+            "address": "341 SW 2nd St, Suite 2",
+            "geocode": {
+                "lat": 44.561258,
+                "lng": -123.261147
             },
-            "summary":"Small Art, Big Spirit",
-            "description":"For Nov-Dec, we feature the work of 15+ jewelry artists, 10 bead/pendant artists, & 5 small gift artists. Register for the Old World Center drawing!"
+            "summary": "Small Art, Big Spirit",
+            "description": "For Nov-Dec, we feature the work of 15+ jewelry artists, 10 bead/pendant artists, & 5 small gift artists. Register for the Old World Center drawing!"
         },
         {
-            "id":4,
-            "name":"Cyrano's",
-            "address":"361 SW 2nd St",
-            "geocode":{
-                "lat":44.561122,
-                "lng":-123.260822
+            "id": 4,
+            "name": "Cyrano's",
+            "address": "361 SW 2nd St",
+            "geocode": {
+                "lat": 44.561122,
+                "lng": -123.260822
             },
-            "summary":"Cyrano's strives to create the unusual in the land of Books, pop thru the blue door and find something new and exciting that you want to share with your family and friends."
+            "summary": "Cyrano's strives to create the unusual in the land of Books, pop thru the blue door and find something new and exciting that you want to share with your family and friends."
         },
         {
-            "id":5,
-            "name":"Brittney West",
-            "address":"340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
-            "geocode":{
-                "lat":44.561378,
-                "lng":-123.261429
+            "id": 5,
+            "name": "Brittney West",
+            "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
+            "geocode": {
+                "lat": 44.561378,
+                "lng": -123.261429
             },
-            "summary":"Come see thought-provoking activist art, browse through older work and Eco-Prints for sale--perfect for unique holiday gifts!",
-            "description":"Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain, snoop around and browse through her affordable Eco-Prints for unique holiday gifts! All are welcome!",
-            "photoUrl":"brittney-west.jpg"
+            "summary": "Come see thought-provoking activist art, browse through older work and Eco-Prints for sale--perfect for unique holiday gifts!",
+            "description": "Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain, snoop around and browse through her affordable Eco-Prints for unique holiday gifts! All are welcome!",
+            "photoUrl": "brittney-west.jpg"
         },
         {
-            "id":"studio262",
-            "name":"Studio262",
-            "address":"425 SW Madison Ave, Suite H-1",
-            "geocode":{
-                "lat":44.563996,
-                "lng":-123.26244
+            "id": "studio262",
+            "name": "Studio262",
+            "address": "425 SW Madison Ave, Suite H-1",
+            "geocode": {
+                "lat": 44.563996,
+                "lng": -123.26244
             },
-            "summary":"Our Holiday Show features 35+ artists with Jan O'Banion, Karen Wysopal, Kelly Ensor & Mariana Mace sharing their talents & work for the evening.",
-            "description":"Our Holiday Show features even more local art this year with over 35 artists & artisans from the Willamette Valley and beyond. From ceramics to gourds to wearables, we have the perfect treasure for you or that special someone just in time for the Holidays! For our November art walk we welcome local artists Jan O'Banion (jewelry), Karen Wysopal (ink art), Kelly Ensor (glass) & Mariana Mace (basketry) as they share their talents and work for the evening.",
-            "photoUrl":"studio262.jpg"
+            "summary": "Our Holiday Show features 35+ artists with Jan O'Banion, Karen Wysopal, Kelly Ensor & Mariana Mace sharing their talents & work for the evening.",
+            "description": "Our Holiday Show features even more local art this year with over 35 artists & artisans from the Willamette Valley and beyond. From ceramics to gourds to wearables, we have the perfect treasure for you or that special someone just in time for the Holidays! For our November art walk we welcome local artists Jan O'Banion (jewelry), Karen Wysopal (ink art), Kelly Ensor (glass) & Mariana Mace (basketry) as they share their talents and work for the evening.",
+            "photoUrl": "studio262.jpg"
         },
         {
-            "id":"studio-beatrice",
-            "name":"Studio Beatrice",
-            "address":"230 NW 6th St",
-            "hours":"4-7 p.m.",
-            "geocode":{
-                "lat":44.566827,
-                "lng":-123.263545
+            "id": "studio-beatrice",
+            "name": "Studio Beatrice",
+            "address": "230 NW 6th St",
+            "hours": "4-7 p.m.",
+            "geocode": {
+                "lat": 44.566827,
+                "lng": -123.263545
             },
-            "summary":"BlessingStones. Jewelry by Jeanmarie Denning is featured this month. Guitar music by Marshall Adams. Refreshments. 4-7 PM.",
-            "description":"BlessingStones\nJeanmarie Denning’s recent expressions have been in the world of drilled stones. Her creations known as BlessingStones can be previewed at blessingstones.net. Jeanmarie’s return to wrought metal has taken a turn back to copper. Enjoy her botanically themed petals and leaves, paired with garnets, ambers and iolite."
+            "summary": "BlessingStones. Jewelry by Jeanmarie Denning is featured this month. Guitar music by Marshall Adams. Refreshments. 4-7 PM.",
+            "description": "BlessingStones\nJeanmarie Denning’s recent expressions have been in the world of drilled stones. Her creations known as BlessingStones can be previewed at blessingstones.net. Jeanmarie’s return to wrought metal has taken a turn back to copper. Enjoy her botanically themed petals and leaves, paired with garnets, ambers and iolite."
         },
         {
-            "id":"majestic",
-            "name":"Majestic Theatre",
-            "address":"115 SW 2nd St",
-            "hours":"4-7 p.m.",
-            "geocode":{
-                "lat":44.563638,
-                "lng":-123.259978
+            "id": "majestic",
+            "name": "Majestic Theatre",
+            "address": "115 SW 2nd St",
+            "hours": "4-7 p.m.",
+            "geocode": {
+                "lat": 44.563638,
+                "lng": -123.259978
             },
-            "summary":"Pitch & Stark",
-            "description":"In November, the Majestic Theatre welcomes artists and art lovers to rediscover the beauty of mono images in our second community art show of the season.\n\nBlack and White remains a cherished medium for how it’s subtlety of tones can strip down an image to its raw composition in a society of modern technology that flashes a million colors a minute.\n\nMonochrome images sound simplistic, and yet they are anything but dull. It becomes a challenge to the photographer to consider not only black and white, but all the shades in between. The format compliments all types of photography and light, from movement to landscapes, urban landscapes, portrait, architecture, or macro snapshots and creates images bold and powerful or soft and hazy.",
-            "photoUrl":"majestic.jpg"
+            "summary": "Pitch & Stark",
+            "description": "In November, the Majestic Theatre welcomes artists and art lovers to rediscover the beauty of mono images in our second community art show of the season.\n\nBlack and White remains a cherished medium for how it’s subtlety of tones can strip down an image to its raw composition in a society of modern technology that flashes a million colors a minute.\n\nMonochrome images sound simplistic, and yet they are anything but dull. It becomes a challenge to the photographer to consider not only black and white, but all the shades in between. The format compliments all types of photography and light, from movement to landscapes, urban landscapes, portrait, architecture, or macro snapshots and creates images bold and powerful or soft and hazy.",
+            "photoUrl": "majestic.jpg"
         },
         {
-            "id":"fairbanks",
-            "name":"Fairbanks Art Gallery",
-            "address":"220 SW 26th St",
-            "hours":"4:30-6:45 p.m.",
-            "geocode":{
-                "lat":44.5648582,
-                "lng":-123.2804139
+            "id": "fairbanks",
+            "name": "Fairbanks Art Gallery",
+            "address": "220 SW 26th St",
+            "hours": "4:30-6:45 p.m.",
+            "geocode": {
+                "lat": 44.5648582,
+                "lng": -123.2804139
             },
-            "summary":"Contemporary Japanese Prints Exhibit",
-            "description":"Gallery talk: 5:00 by Yuji Hiratsuka, Professor of Art at OSU. Curated by Miranda K. Metcalf, Director of Contemporary Works of Paper at Davidson Galleries in Seattle, Washington.\n\nThe Japanese aesthetic is one that is both highly distinctive and as a result widely influential. A driving force behind this aesthetic is Japan’s deep appreciation of technical skill and craftsmanship.\n\nThe tools, workshop, esoteric details, and the variety of techniques within printmaking make it an art which is quintessentially process driven. This exhibition brings together works that are the embodiment of these two forces: superb technical ability and the distinctive and alluring Japanese aesthetic. ",
-            "photoUrl":"fairbanks.jpg"
+            "summary": "Contemporary Japanese Prints Exhibit",
+            "description": "Gallery talk: 5:00 by Yuji Hiratsuka, Professor of Art at OSU. Curated by Miranda K. Metcalf, Director of Contemporary Works of Paper at Davidson Galleries in Seattle, Washington.\n\nThe Japanese aesthetic is one that is both highly distinctive and as a result widely influential. A driving force behind this aesthetic is Japan’s deep appreciation of technical skill and craftsmanship.\n\nThe tools, workshop, esoteric details, and the variety of techniques within printmaking make it an art which is quintessentially process driven. This exhibition brings together works that are the embodiment of these two forces: superb technical ability and the distinctive and alluring Japanese aesthetic. ",
+            "photoUrl": "fairbanks.jpg"
         },
         {
-            "id":"jeff-hess",
-            "name":"Jeff Hess Studio",
-            "address":"460 SW Madison Ave. Suite 16",
-            "geocode":{
-                "lat":44.563769,
-                "lng":-123.263193
+            "id": "jeff-hess",
+            "name": "Jeff Hess Studio",
+            "address": "460 SW Madison Ave. Suite 16",
+            "geocode": {
+                "lat": 44.563769,
+                "lng": -123.263193
             },
-            "summary":"Studio Opening Exhibit",
-            "description":"A visual synopsis of where I've been with my art work, where I'm at now, and where I'm aiming to go.",
-            "photoUrl":"jeff-hess.jpg"
+            "summary": "Studio Opening Exhibit",
+            "description": "A visual synopsis of where I've been with my art work, where I'm at now, and where I'm aiming to go.",
+            "photoUrl": "jeff-hess.jpg"
         },
         {
-            "id":"pegasus",
-            "name":"Pegasus & Old World Deli",
-            "address":"341 SW 2nd St",
-            "geocode":{
-                "lat":44.561185,
-                "lng":-123.261147
+            "id": "pegasus",
+            "name": "Pegasus & Old World Deli",
+            "address": "341 SW 2nd St",
+            "geocode": {
+                "lat": 44.561185,
+                "lng": -123.261147
             },
-            "summary":"\"The Spirit Moves Them\"",
-            "description":"\"The Spirit Moves Them\" begins our sentimental holiday exhibition season featuring local art by local artists with gift making during the CAW!"
+            "summary": "\"The Spirit Moves Them\"",
+            "description": "\"The Spirit Moves Them\" begins our sentimental holiday exhibition season featuring local art by local artists with gift making during the CAW!"
         },
         {
-            "id":"poptart",
-            "name":"Poptart",
-            "address":"460 SW Madison Ave, Suite #7",
-            "geocode":{
-                "lat":44.563778,
-                "lng":-123.263166
+            "id": "poptart",
+            "name": "Poptart",
+            "address": "460 SW Madison Ave, Suite #7",
+            "geocode": {
+                "lat": 44.563778,
+                "lng": -123.263166
             },
-            "summary":"Ugly Art Room X Poptart Presents “Paradise” Postcard Show",
-            "description":"Brooklyn’s Ugly Art Room has moved to Corvallis. Its first west coast show “Paradise” will display 4x6” artworks from around the world inspired by the history of the Wellsher building.",
-            "photoUrl":"poptart.jpg"
-        },{
-            "id":"urista-thompson",
-            "name":"Rachel Urista/Laurel Thompson's Studio",
-            "address":"340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
-            "geocode":{
-                "lat":44.561314, 
-                "lng":-123.261465
-            },
-            "summary":"Celebrate and Color With Us!",
-            "description":"Celebrate the opening of 2 local artists new studio! Join our GIANT community coloring book project for kids and adults alike. Materials provided.\n\nMixed media artist Rachel, will feature hand drawn coloring book art. Laurel Thompson, illustrator, muralist and watercolorist, will feature original art from her illustrated children's book \"Please Don't Paint Our Planet Pink!\" written by local author Gregg Kleiner.",
-            "photoUrl":"rachel-urista.jpg"
+            "summary": "Ugly Art Room X Poptart Presents “Paradise” Postcard Show",
+            "description": "Brooklyn’s Ugly Art Room has moved to Corvallis. Its first west coast show “Paradise” will display 4x6” artworks from around the world inspired by the history of the Wellsher building.",
+            "photoUrl": "poptart.jpg"
         },
         {
-            "id":"arc-insight",
-            "name":"The Arc Office",
-            "address":"414 NW 4th St",
-            "geocode":{
-                "lat":44.568020,
-                "lng":-123.260454
+            "id": "urista-thompson",
+            "name": "Rachel Urista/Laurel Thompson's Studio",
+            "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
+            "geocode": {
+                "lat": 44.561314,
+                "lng": -123.261465
             },
-            "summary":"\"Fantastical Characters\"",
-            "description":" Kyle Ashbaugh has attended The Arc's ArtFocus program since 2007. His imaginative work is now being featured in the InSight Gallery."
-        },{
-            "id":"teal",
-            "name":"Teal Cooperative Gallery",
-            "address":"328 SW 2nd St",
-            "geocode":{
-                "lat":44.561531, 
-                "lng":-123.261294
+            "summary": "Celebrate and Color With Us!",
+            "description": "Celebrate the opening of 2 local artists new studio! Join our GIANT community coloring book project for kids and adults alike. Materials provided.\n\nMixed media artist Rachel, will feature hand drawn coloring book art. Laurel Thompson, illustrator, muralist and watercolorist, will feature original art from her illustrated children's book \"Please Don't Paint Our Planet Pink!\" written by local author Gregg Kleiner.",
+            "photoUrl": "rachel-urista.jpg"
+        },
+        {
+            "id": "arc-insight",
+            "name": "The Arc Office",
+            "address": "414 NW 4th St",
+            "geocode": {
+                "lat": 44.56802,
+                "lng": -123.260454
             },
-            "hours":"6-8 p.m.",
-            "summary":"Come & meet the artists of Teal, 6-8 pm. We display all locally made work in glass, wood, pottery, painting, jewelry, fiber, & more.",
-            "photoUrl":"teal.jpg"
+            "summary": "\"Fantastical Characters\"",
+            "description": " Kyle Ashbaugh has attended The Arc's ArtFocus program since 2007. His imaginative work is now being featured in the InSight Gallery."
+        },
+        {
+            "id": "teal",
+            "name": "Teal Cooperative Gallery",
+            "address": "328 SW 2nd St",
+            "geocode": {
+                "lat": 44.561531,
+                "lng": -123.261294
+            },
+            "hours": "6-8 p.m.",
+            "summary": "Come & meet the artists of Teal, 6-8 pm. We display all locally made work in glass, wood, pottery, painting, jewelry, fiber, & more.",
+            "photoUrl": "teal.jpg"
         }
     ]
 }
