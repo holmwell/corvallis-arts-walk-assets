@@ -218,6 +218,30 @@
             "summary": "Swing dancing at Old World Deli",
             "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
             "isActive": true
+        },
+        {
+            "id": "karen-wysopal",
+            "name": "Karen Wysopal Studio",
+            "address": "425 SW Madison Ave (upstairs)",
+            "geocode": {
+                "lat": 44.563881,
+                "lng": -123.262926
+            },
+            "summary": "Karen Wysopal | Mixed Media",
+            "isActive": true,
+            "description": "Please welcome a NEW arts walk destination to our event - the studio of Karen Wysopal, mixed media artist."
+        },
+        {
+            "id": "anything-but",
+            "name": "Anything But Ordinary",
+            "address": "425 SW Madison Ave, Suite C",
+            "geocode": {
+                "lat": 44.563967,
+                "lng": -123.262729
+            },
+            "summary": "Featured Artist: Dane Eisenbart",
+            "isActive": true,
+            "description": "Please welcome a NEW arts walk destination to our event featuring the art of Dane Eisenbart."
         }
     ]
 }
