@@ -1,5 +1,5 @@
 {
-    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2015/12/",
+    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/01/",
     "destinations": [
         {
             "id": 0,
@@ -9,10 +9,10 @@
                 "lat": 44.563871,
                 "lng": -123.262889
             },
-            "summary": "An Artists Garage Sale.",
+            "summary": "",
             "photoUrl": "advocate.jpg",
             "isActive": true,
-            "description": "Just in time for the holidays, fresh new pieces and \nartists along with favorites you've come to know.  From urban and fantasy prints to expressionist and surrealist paintings, and quite a bit in between, you will find numerous genres and mediums represented here. \n\nAn opportunity to save while also supporting local talent.  Expect treats of the wintery variety."
+            "description": "Come play. Featured this month is Foundry, an interactive, modular sculpture sandbox system designed to function in both practical and abstract fashion, facilitating users as both a tool and a playground. Paintings this month by Johnny Beaver, Jeremy Smith and Cyrus Peery."
         },
         {
             "id": 1,
@@ -22,8 +22,8 @@
                 "lat": 44.5628093,
                 "lng": -123.2603014
             },
-            "summary": "Tiny Treasures",
-            "description": "Art in the Valley celebrates the season witha show of \"Tiny Treasures\".  These original works of art are affordably priced for giving.",
+            "summary": "Primary Impressions",
+            "description": "Art in the Valley will feature a membership exhibit , \"Primary Impressions\".  Refreshments will be provided. Come celebrate 2016!",
             "isActive": true
         },
         {
@@ -34,10 +34,10 @@
                 "lat": 44.564372,
                 "lng": -123.262252
             },
-            "summary": "CORIVIDOPOLIS POP-UP SHOW",
+            "summary": "Celebrating the First Year",
             "photoUrl": "artworks.jpg",
             "isActive": true,
-            "description": "Featuring CORVIDOPOLIS designed t shirt featuring the work of OUTPOST1000/ArtWorks affiliated artist Kurt Fisk"
+            "description": "A survey/exhibit of artworks by artists participating in the first year of ArtWorks (CEI) programs\n \nAnd the launch of our INDIEGOGO fundraising campaign to purchase a hand built/custom designed “Coffee Pour Over Cart”. *Money raised through the sale of coffee will be used to fund the ArtWorks scholarship fund."
         },
         {
             "id": "azure",
@@ -47,7 +47,7 @@
                 "lat": 44.561371,
                 "lng": -123.261053
             },
-            "summary": "Deb Perry-Guetti explores woven patterns, inquisitive creatures and random compilations in December with her new drawn fiber and sewn drawings.",
+            "summary": "Nothing so shocking as bowling balls flocking.  Don’t miss Jeremy Smith’s life size pendulum which will be in motion during the CAW along with his other unique geometric constructions and puzzles including his cube of chess.  If you miss the pendulum in motion you can catch it again with continuing demonstrations on Saturdays during the installation.",
             "description": "",
             "isActive": true
         },
@@ -59,8 +59,8 @@
                 "lat": 44.561258,
                 "lng": -123.261147
             },
-            "summary": "Small Art, Big Spirit",
-            "description": "For Nov-Dec, we feature the work of more than 25 jewelry, bead and small gift artists. Our spotlight for December is Jewelry with gold.",
+            "summary": "Spiraling into 2016",
+            "description": "The spiral has held significant but diverse meanings for cultures throughout time and from all over the world.   As we begin a new year, the spiral will be our artistic focus. Our featured artist is Jillian Jordan of Spiral Designs.  As always, there will be munchies, the building-wide art drawing, and glorious color in 3-D.  Hot tea or cocoa and a special spiral bead project too!",
             "isActive": true
         },
         {
@@ -72,7 +72,7 @@
                 "lng": -123.260822
             },
             "summary": "The Find of the Season",
-            "description": "Find mini items, great for stocking stuffers. Good for Men, Women, and Kids! Come explore Cyrano's Holiday Shop!",
+            "description": "CYRNAO'S Book binding, starting the New Year Small! Mini Book, Mini Art Journals, Mini Scrolls. Good things, small sizes.  Marbling Demo, come play!",
             "isActive": true
         },
         {
@@ -84,7 +84,7 @@
                 "lng": -123.261429
             },
             "summary": "Come see thought-provoking activist art, browse through older work and Eco-Prints for sale--perfect for unique holiday gifts!",
-            "description": "Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain, snoop around and browse through her affordable Eco-Prints for unique holiday gifts! All are welcome!",
+            "description": "Come view over a decade of Brittney West's oil paintings and mixed-media drawings as well as view her recent activist artwork, exhibiting thought-provoking imagery intended to create a more compassionate coexistence. Enjoy snacks and wine in her ambient studio, pick at the artist's brain, snoop around and browse through her affordable Eco-Prints.",
             "photoUrl": "brittney-west.jpg",
             "isActive": true
         },
@@ -96,9 +96,9 @@
                 "lat": 44.563996,
                 "lng": -123.26244
             },
-            "summary": "Holiday Art Sale",
-            "description": "From ceramics to gourds, we have many treasures just in time for the Holidays! Join Rachel McLain (photography), Rinee Merritt (glass), Debi Friedlander (colored pencil), and Sandra Strohmeyer (various media) as they share their talents for the evening.",
-            "photoUrl": "studio262.jpg",
+            "summary": "Love Notes",
+            "description": "New exhibit \"The Art of Love\" along with an interactive note writing station to share those messages of peace, love, hope, and and joy for the New Year. All happening in the redesigned gallery. Come see what's new!",
+            "photoUrl": "",
             "isActive": true
         },
         {
@@ -110,8 +110,22 @@
                 "lat": 44.566827,
                 "lng": -123.263545
             },
-            "summary": "Carol Chapel",
-            "description": "Carol Chapel's acryil paintings and hand-pulled prints are legendary.  Those who stopped by in November got a tiny taste.  Her featured show this month promises to be no less than spectacular.  Spindrift will offer wine tasting. Refreshments.  Music.",
+            "summary": "Colorful Paintings by Carrie Tasman",
+            "description": "Carrie Tasman will feature her Colorful Paintings. Spindrift Cellars wine tasting, as well as other refreshments will be available.  Marshall Adams will surprise us w/music.",
+            "isActive": true
+        },
+        {
+            "id": "majestic",
+            "name": "Majestic Theatre",
+            "address": "115 SW 2nd St",
+            "hours": "4-8 p.m.",
+            "geocode": {
+                "lat": 44.563638,
+                "lng": -123.259978
+            },
+            "summary": "Mish Mash",
+            "description": "A community art show exploring works of Mixed Media and Collage by local artists.",
+            "photoUrl": "",
             "isActive": true
         },
         {
@@ -123,8 +137,8 @@
                 "lat": 44.5648582,
                 "lng": -123.2804139
             },
-            "summary": "Montage Juried Student Art Exhibit",
-            "description": "Montage, the OSU student art club, presents The Montage Juried Student Art Exhibit, which features works by Oregon State University Art Students on display in Fairbanks Gallery. This exhibit was juried by Hester Coucke, Curator of Exhibitions for the Corvallis Arts Center, and was open to all OSU art majors, art minors, and anyone currently enrolled in an OSU art class.  The exhibit showcases the artwork of all levels of OSU art students and reflects a wide variety of media including works in drawing, painting, sculpture, mixed media and photography.",
+            "summary": "Craig Goodworth, “VČELA: Blood & Honey”",
+            "description": "VČELA: Blood & Honey draws from the forests of the Willamette valley and Central Europe as well as village folklore and ecological concern. With elements of sculpture, installation and poetry/performance, Goodworth’s installation connects to place, memory, object and land. The exhibit is the result of his research and art practice exploring the questions: ‘What is art’s role in helping one feel physically connected to land?’ And, ‘How can aesthetics witness to crises that arise in the natural world?’",
             "photoUrl": "fairbanks.jpg",
             "isActive": true
         },
@@ -136,10 +150,10 @@
                 "lat": 44.563769,
                 "lng": -123.263193
             },
-            "summary": "In Pursuit of Gravity",
-            "description": "This month I'll be hanging images from an exploratory mapping of photography I made 5 years ago, and a new image from the Boonooloo project.",
-            "photoUrl": "",
-            "hours": "5-8 p.m.",
+            "summary": "Aikya (Union with the Divine)",
+            "description": "Welcoming the new year in with at least one new sculpture and a hanging of images from \"aikya\" (a perspective study of Yoga). Art Gods willing I plan to welcome the new year in with at least one new sculpture and some favorite 2D images.",
+            "photoUrl": "jeff-hess.jpg",
+            "hours": "4-8 p.m.",
             "isActive": true
         },
         {
@@ -150,22 +164,10 @@
                 "lat": 44.561185,
                 "lng": -123.261147
             },
-            "summary": "Movable Feast of Art",
-            "description": "Stop into Pegasus during December for the \"Movable Feast of Art.” Local artists share paintings, prints, ceramics, photography, sculpture, batik eggs, coloring books, gift cards and more. Gift Certificates for art and framing available!",
-            "isActive": true
-        },
-        {
-            "id": "poptart",
-            "name": "PopTart",
-            "address": "460 SW Madison Ave, Suite #7",
-            "geocode": {
-                "lat": 44.563778,
-                "lng": -123.263166
-            },
-            "summary": "Holiday Pop-Up Shop!",
-            "description": "Art & Gifts by artists Yuji Hiratsuka, Betty Turbo, Rebbermade, Jen G. Pywell, Gavi Hahn & Chelsea Foss! Libations by Corvallis Brewing & Supply.",
-            "photoUrl": "",
-            "isActive": true
+            "summary": "Inside Looking Out",
+            "description": "During the month of January Pegasus Gallery will strip down to the starker more temporal imagery of winter with a collection of hand made paper, sumi ink and stitch work by South Korean artist Chang Ae Song.",
+            "isActive": true,
+            "photoUrl": "pegasus.jpg"
         },
         {
             "id": "urista-thompson",
@@ -175,22 +177,9 @@
                 "lat": 44.561314,
                 "lng": -123.261465
             },
-            "summary": "See new works in progress from both Rachel and Laurel, and add your touch to the on-going GIANT community coloring book project.  This month, Laurel will have in-progress watercolors and ink drawings on display.  Rachel’s imaginative abstract mixed media",
+            "summary": "With the New Year comes fresh new work from the artists. See NEW coloring book illustrations and paintings on display.",
             "description": "",
-            "photoUrl": "rachel-urista.jpg",
-            "isActive": true
-        },
-        {
-            "id": "teal",
-            "name": "Teal Cooperative Gallery",
-            "address": "328 SW 2nd St",
-            "geocode": {
-                "lat": 44.561531,
-                "lng": -123.261294
-            },
-            "hours": "5-8 p.m.",
-            "summary": "Come watch Harry McManus demonstrate wood turning. Featuring local handcrafted sweets by Melarova Baking and ginger liqueur by Spiritopia.",
-            "photoUrl": "teal.jpg",
+            "photoUrl": "",
             "isActive": true
         },
         {
@@ -201,10 +190,10 @@
                 "lat": 44.5643109,
                 "lng": -123.266023
             },
-            "summary": "Joan Truckenbrod: From Igloo to Nano",
-            "description": "The Arts Center featured Joan Truckenbrod: From Igloo to Nano in an installation of video sculpture. Joan will talk with visitors about her existing work, as well as the three new works she created for this exhibit, about the ins and outs and challenges of video sculpture.",
+            "summary": "ROT, the Afterlife of Trees",
+            "description": "The Arts Center hosts a reception for ROT, the Afterlife of Trees. The exhibit shows work by 24 Oregon artists in a wide variety of media, as photography, painting, sculpture, ceramics and embroidery. The artists based their work on long term tree-decomposition research by Dr. Mark Harmon (OSU) at the H.J. Andrews Forest.",
             "isActive": true,
-            "photoUrl": "arts-center.jpg"
+            "photoUrl": ""
         },
         {
             "id": "corvallis-swing",
@@ -229,19 +218,8 @@
             },
             "summary": "Karen Wysopal | Mixed Media",
             "isActive": true,
-            "description": "Please welcome a NEW arts walk destination to our event - the studio of Karen Wysopal, mixed media artist."
-        },
-        {
-            "id": "anything-but",
-            "name": "Anything But Ordinary",
-            "address": "425 SW Madison Ave, Suite C",
-            "geocode": {
-                "lat": 44.563967,
-                "lng": -123.262729
-            },
-            "summary": "Featured Artist: Dane Eisenbart",
-            "isActive": true,
-            "description": "Please welcome a NEW arts walk destination to our event featuring the art of Dane Eisenbart."
+            "description": "Santa brought me a HUGE roll of yupo paper: 5 feet by 30 feet long!  Come see what happens as I continue to scale LARGE.  With the holidays behind us, treat yourself to some new art!  Lots of prints, cards, and original artwork for sale.",
+            "photoUrl": "karen.jpg"
         }
     ]
 }
