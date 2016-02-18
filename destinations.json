@@ -47,9 +47,9 @@
                 "lat": 44.561371,
                 "lng": -123.261053
             },
-            "summary": "Nothing so shocking as bowling balls flocking.  Don’t miss Jeremy Smith’s life size pendulum which will be in motion during the CAW along with his other unique geometric constructions and puzzles including his cube of chess.  If you miss the pendulum in motion you can catch it again with continuing demonstrations on Saturdays during the installation.",
+            "summary": "Come celebrate the Chinese New Year & the Red Monkey King with amazing discounts on past work and mischievous new Chinese & Monkey inspired work.",
             "description": "",
-            "isActive": false
+            "isActive": true
         },
         {
             "id": 3,
@@ -101,6 +101,18 @@
             "description": "Opening reception for \"Gifts from the Sea\", new intricate glass & ceramic sea inspired works by Rinee Merritt & Annclaire Greig. Also preview a poster compilation of the Studio262 Love Notes installation - continue to share the community thoughts and make 2016 a year of inspiration!",
             "photoUrl": "studio262.jpg",
             "isActive": true
+        },
+        {
+            "id": "foundry-annex",
+            "name": "Foundy Annex",
+            "address": "354 SW Madison Ave",
+            "geocode": {
+                "lat": 44.563465,
+                "lng": -123.262208
+            },
+            "summary": "Opening + Corvidopolis",
+            "isActive": true,
+            "description": "Opening for ouro new creative work space & micro gallery, with work by Christopher Adams / Corvidopolis."
         },
         {
             "id": "studio-beatrice",
@@ -269,7 +281,7 @@
             },
             "summary": "Swing dancing at Old World Deli",
             "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
-            "isActive": false
+            "isActive": true
         },
         {
             "id": "karen-wysopal",
@@ -283,6 +295,18 @@
             "isActive": false,
             "description": "Santa brought me a HUGE roll of yupo paper: 5 feet by 30 feet long!  Come see what happens as I continue to scale LARGE.  With the holidays behind us, treat yourself to some new art!  Lots of prints, cards, and original artwork for sale.",
             "photoUrl": "karen.jpg"
+        },
+        {
+            "id": "living-room",
+            "name": "Living Room Gallery",
+            "address": "425 SW Madison Ave (lower level)",
+            "geocode": {
+                "lat": 44.563881,
+                "lng": -123.262926
+            },
+            "summary": "Debut Exhibit",
+            "isActive": true,
+            "description": "New CAW destination, the \"Living Room Gallery\" is a micro gallery curated by Angela Waetje."
         },
         {
             "id": "anything-but",

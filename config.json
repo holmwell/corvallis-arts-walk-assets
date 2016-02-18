@@ -27,6 +27,18 @@
             "description": "Opening reception for Dana Reason, Ethnographer.  An assemblage of Magnetic tape, paper, ink and plastic."
         },
         {
+            "id": "azure",
+            "name": "Azure Fine Art Gallery",
+            "address": "341 SW 2nd St",
+            "geocode": {
+                "lat": 44.561371,
+                "lng": -123.261053
+            },
+            "summary": "Come celebrate the Chinese New Year & the Red Monkey King with amazing discounts on past work and mischievous new Chinese & Monkey inspired work.",
+            "description": "",
+            "isActive": true
+        },
+        {
             "id": 3,
             "name": "Kaleidoscope Studios",
             "address": "341 SW 2nd St, Suite 2",
@@ -170,6 +182,31 @@
             "description": "Kaitlyn Wittig Mengüç will present her performance art piece “Wake”. She will interpret the ritual of a wake, but now for a tree. All steps of a regular wake are involved: arrival, portraits, a toast, food. Depending on the audience Wittig Mengüç may perform the piece multiple times.\n\nEcologist Dr. Mark Harmon makes wood block research samples available to create an ever-changing interactive mosaic. The mosaic will be time-lapsed photographed and the result posted on TAC’s social media.  Some blocks will be available as mementos.",
             "isActive": true,
             "photoUrl": "artcenter.jpg"
+        },
+        {
+            "id": "corvallis-swing",
+            "name": "Corvallis Swing",
+            "address": "341 SW 2nd St",
+            "hours": "5:45-6:45 p.m.",
+            "geocode": {
+                "lat": 44.561265,
+                "lng": -123.261012
+            },
+            "summary": "Swing dancing at Old World Deli",
+            "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
+            "isActive": true
+        },
+        {
+            "id": "living-room",
+            "name": "Living Room Gallery",
+            "address": "425 SW Madison Ave (lower level)",
+            "geocode": {
+                "lat": 44.563881,
+                "lng": -123.262926
+            },
+            "summary": "Debut Exhibit",
+            "isActive": true,
+            "description": "New CAW destination, the \"Living Room Gallery\" is a micro gallery curated by Angela Waetje."
         }
     ]
 }
