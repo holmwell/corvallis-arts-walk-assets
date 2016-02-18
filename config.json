@@ -90,6 +90,18 @@
             "isActive": true
         },
         {
+            "id": "foundry-annex",
+            "name": "Foundy Annex",
+            "address": "354 SW Madison Ave",
+            "geocode": {
+                "lat": 44.563465,
+                "lng": -123.262208
+            },
+            "summary": "Opening + Corvidopolis",
+            "isActive": true,
+            "description": "Opening for ouro new creative work space & micro gallery, with work by Christopher Adams / Corvidopolis."
+        },
+        {
             "id": "studio-beatrice",
             "name": "Studio Beatrice",
             "address": "230 NW 6th St",
