@@ -153,7 +153,8 @@
             },
             "summary": "A series of new paintings by Angela Waetje",
             "isActive": true,
-            "description": "Celebrate women's history month with a mythic feminist hero cycle in five paintings."
+            "description": "Celebrate women's history month with a mythic feminist hero cycle in five paintings.",
+            "photoUrl": "living-room.jpg"
         },
         {
             "id": "majestic",
@@ -180,7 +181,7 @@
             "summary": "A Plethora of Crows",
             "description": "\"A Plethora of Crows,\" a collaborative exhibit by photographer, Don Ferguson and painter, Bill Shumway. It is a display of photographs, paintings and artwork employing both mediums. They have been engaged in this collaborative process for most of 2015, mostly for the love of it, but also to put an exhibit together and to develop a set of workshops to teach photography and painting students how to produce collaborative imagery. They chose crows as a subject because they are so expressive, mythological and they have both been intrigued by them for years.",
             "isActive": true,
-            "photoUrl": ""
+            "photoUrl": "pegasus.jpg"
         },
         {
             "id": "urista-thompson",
