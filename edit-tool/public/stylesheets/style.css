@@ -4,7 +4,24 @@ body {
 }
 
 a {
-  color: #00B7FF;
+/*  color: #00B7FF;*/
+}
+
+.cover {
+	border: solid 1px #900;
+	padding-bottom: 1.2ex;
+}
+.cover:hover {
+	background-color: #900;
+	color: white;
+	cursor: pointer;
+}
+.cover a {
+	color: inherit;
+}
+
+h3 {
+
 }
 
 .destination {

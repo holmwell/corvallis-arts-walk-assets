@@ -4,31 +4,54 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-  res.render('index', { title: 'Corvallis Arts Walk' });
+    res.render('index', { title: 'Corvallis Arts Walk' });
 });
 
+router.get('/dest/:destId', function (req, res, next) {
+    res.render('dest', { destId: req.params.destId });
+});
 
-router.get('/destinations', function (req, res, next) {
+var readDestinations = function (callback) {
     fs.readFile('../destinations.json', {encoding: 'utf-8'}, function (err, data) {
         if (err) {
-            return res.status(500).send(err);
+            callback(err);
+            return;
         }
 
         var json = JSON.parse(data);
-        res.send(json);
+        callback(null, json);
     });
-});
+};
 
-router.put('/destinations', function (req, res, next) {
-    var data = JSON.stringify(req.body, null, 4);
+var writeDestinations = function (json, callback) {
+    var data = JSON.stringify(json, null, 4);
 
     // // TODO: This is unsafe to call multiple times at the same time.
     fs.writeFile('../destinations.json', data, { encoding: 'utf-8'}, function (err) {
         if (err) {
             console.log(err);
-            return res.status(500).send(err);
+            return callback(err);
         }
 
+        return callback();
+    });
+};
+
+
+router.get('/destinations', function (req, res, next) {
+    readDestinations(function (err, json) {
+        if (err) {
+            return res.status(500).send(err);
+        }
+        res.send(json);
+    });
+});
+
+router.put('/destinations', function (req, res, next) {
+    writeDestinations(req.body, function (err) {
+        if (err) {
+            return res.status(500).send(err);
+        }
         res.status(200).send();
     });
 });
@@ -53,6 +76,35 @@ router.put('/config', function (req, res, next) {
         }
 
         res.status(200).send();
+    });
+});
+
+router.put('/dest', function (req, res, next) {
+    var dest = req.body;
+
+    readDestinations(function (err, json) {
+        if (err) {
+            return res.status(500).send(err);
+        }
+
+        var destinations = json.destinations;
+
+        for (var i=0; i < destinations.length; i++) {
+            if (destinations[i].id.toString() === dest.id.toString()) {
+                destinations[i] = dest;
+            }
+        }
+
+        json.destinations = destinations;
+
+        writeDestinations(json, function (err) {
+            if (err) {
+                return res.status(500).send(err);
+            }
+            res.status(200).send();
+        });
+
+        res.send(json);
     });
 });
 

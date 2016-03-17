@@ -3,23 +3,19 @@ extends layout
 block content
   .container(ng-controller='EditCtrl')
     h1= title
-    p Welcome to #{title}
+    //-    p Welcome to #{title}
+
+    div(ng-repeat="dest in destinations")
+      .col-md-4.col-xs-12.col-sm-6.cover(ng-class='{ isActive: dest.isActive }')
+        a(href="/dest/{{dest.id}}")
+          h3 {{dest.name}}
 
     .row
-      button.btn.btn-default(ng-click="save()") Save
+      &nbsp;
 
     .row
       .col-md-7
         input.form-control(type="text" ng-model="assetsUrl")
-
-    .row.destination(ng-repeat="dest in destinations" ng-class='{ isActive: dest.isActive }')
-      .col-md-7
-        input.form-control(type="text" ng-model="dest.name")
-        input.form-control(type="text" ng-model="dest.address")
-        input.form-control(type="text" ng-model="dest.hours" placeholder="Hours")
-        textarea.form-control.msd-elastic(ng-model="dest.summary" placeholder="Summary" rows="1")
-        textarea.form-control.msd-elastic(ng-model="dest.description" placeholder="Description")
-        input.form-control(type="text" ng-model="dest.photoUrl" placeholder="Photo filename")
-        label Active this month&nbsp;
-          input(type="checkbox" ng-model="dest.isActive")
-
+    .row
+      .col-md-12
+        button.btn.btn-default(ng-click="save()") Save

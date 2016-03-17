@@ -1,0 +1,26 @@
+extends layout
+
+append script
+    script.
+        angular.module('caw-edit').value("destId", "!{destId}");
+
+
+block content
+  .container(ng-controller='DestCtrl')
+    h1 <a href="/">Corvallis Arts Walk</a>
+    p Editing information for {{dest.name}}
+
+    .row.destination(ng-class='{ isActive: dest.isActive }')
+      .col-md-7
+        input.form-control(type="text" ng-model="dest.name")
+        input.form-control(type="text" ng-model="dest.address")
+        input.form-control(type="text" ng-model="dest.hours" placeholder="Hours")
+        textarea.form-control.msd-elastic(ng-model="dest.summary" placeholder="Summary" rows="1")
+        textarea.form-control.msd-elastic(ng-model="dest.description" placeholder="Description")
+        input.form-control(type="text" ng-model="dest.photoUrl" placeholder="Photo filename")
+        label Active this month&nbsp;
+          input(type="checkbox" ng-model="dest.isActive")
+
+    .row
+      .col-md-12
+        button.btn.btn-default(ng-click="save()") Save
