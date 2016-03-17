@@ -32,6 +32,13 @@ angular.module('caw-edit', ['monospaced.elastic'])
             });
         });
 
+        $scope.deactivateAll = function () {
+            for (var i=0; i < $scope.destinations.length; i++) {
+                $scope.destinations[i].isActive = false;
+            }
+            $scope.save();
+        };
+
         $scope.save = function () {
             var data = {
                 assetsUrl: $scope.assetsUrl,
