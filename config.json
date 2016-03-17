@@ -1,5 +1,5 @@
 {
-    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/02/",
+    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/03/",
     "destinations": [
         {
             "id": 1,
@@ -9,8 +9,8 @@
                 "lat": 44.5628093,
                 "lng": -123.2603014
             },
-            "summary": "#30edits",
-            "description": "Guest artist, Kat Sloma  has created a series of 30 works of art from one photographic image.The results are spectacular! Come to Art in the Valley and enjoy the reception while viewing this special exhibit. And check out work by our member artists, as well.",
+            "summary": "Call of the Trees",
+            "description": "Enjoy a show, \"Call of the Trees\", by Cy Stadsvold.  Cy has focused on the subject of trees to express his gratitude with a keen understanding of this subject. Cy serves as director of Art in the Valley Gallery.  He is known for 2D work spanning many mediums, including, of course, watercolor.",
             "isActive": true
         },
         {
@@ -21,10 +21,10 @@
                 "lat": 44.5643109,
                 "lng": -123.266023
             },
-            "summary": "\"Wake\", performance by Kaitlyn Wittig Mengüç",
-            "description": "Kaitlyn Wittig Mengüç will present her performance art piece “Wake”. She will interpret the ritual of a wake, but now for a tree. All steps of a regular wake are involved: arrival, portraits, a toast, food. Depending on the audience Wittig Mengüç may perform the piece multiple times.\n\nEcologist Dr. Mark Harmon makes wood block research samples available to create an ever-changing interactive mosaic. The mosaic will be time-lapsed photographed and the result posted on TAC’s social media.  Some blocks will be available as mementos.",
+            "summary": "Howland Community OPEN",
+            "description": "The Howland Community OPEN Exhibition at The Arts Center is an opportunity for ALL people living in Linn or Benton Counties to show their art, from toddlers to teens, adults who are just starting out to professional artists. This exhibit reflects the joy of artmaking in our community -- just as present in the work of a beginning art maker, as in work by longtime practicing professional artists.",
             "isActive": true,
-            "photoUrl": "artcenter.jpg"
+            "photoUrl": "arts-center.jpg"
         },
         {
             "id": 2,
@@ -34,10 +34,10 @@
                 "lat": 44.564372,
                 "lng": -123.262252
             },
-            "summary": "UNhearD (2000-",
-            "photoUrl": "artworks.jpg",
+            "summary": "OSU Art Department presents: + / -",
+            "photoUrl": "art-works.jpg",
             "isActive": true,
-            "description": "Opening reception for Dana Reason, Ethnographer.  An assemblage of Magnetic tape, paper, ink and plastic."
+            "description": "Under instructor Anna Fidler, OSU art students present work surrounding the modification and repurposing of aged media through both additive and subtractive processes."
         },
         {
             "id": "azure",
@@ -47,22 +47,23 @@
                 "lat": 44.561371,
                 "lng": -123.261053
             },
-            "summary": "Come celebrate the Chinese New Year & the Red Monkey King with amazing discounts on past work and mischievous new Chinese & Monkey inspired work.",
-            "description": "",
-            "isActive": true
+            "summary": "Primitive Futurism",
+            "description": "Connections to animism, wonder of nature and a search for meaning and spirituality are expressed in Christopher Adams’ symmetrical–assumed–future. Iconography of myth and ceremony are tainted with the remnants of a disconnected interim–bridging a simple past with a simple future.",
+            "isActive": true,
+            "photoUrl": "azure.jpg"
         },
         {
-            "id": 5,
-            "name": "Brittney West",
-            "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
+            "id": 0,
+            "name": "The Corvallis Advocate Loft",
+            "address": "425 SW Madison Ave (upstairs)",
             "geocode": {
-                "lat": 44.561378,
-                "lng": -123.261429
+                "lat": 44.563871,
+                "lng": -123.262889
             },
-            "summary": "Come check out West's new oil painting on a silver platter and other recent mixed-media artwork. All are welcome!",
-            "description": "West invites you into her art studio where you can browse over a decade of oil paintings, mixed media drawings and experimental pieces such as her recent oil painting on an antique silver platter. Engage in your right brain, get to know more about her process and inspiration, and browse through her Eco-Prints for sale.",
-            "photoUrl": "brittney-west.jpg",
-            "isActive": true
+            "summary": "Surrealist Cyrus Peery has been quite popular at the loft, so this month he's been asked back to exhibit a mix of new and prior work.",
+            "photoUrl": "advocate.jpg",
+            "isActive": true,
+            "description": "Surrealist Cyrus Peery has been quite popular at the loft, so this month he's been asked back for an exhibit mixing new and prior work. .Check out The Advocate for surprise guests too.\n\nTreats will be served.  Open 4 pm to 8 pm."
         },
         {
             "id": "corvallis-swing",
@@ -78,33 +79,6 @@
             "isActive": true
         },
         {
-            "id": 4,
-            "name": "Cyrano's",
-            "address": "361 SW 2nd St",
-            "geocode": {
-                "lat": 44.561122,
-                "lng": -123.260822
-            },
-            "summary": "Fresh February",
-            "description": "Pushing the beginning of Spring, come in and see bright new journals, fun colors and patterns.  Bright and Light Jewelry for Spring and Summer by Elaine.  Take part in a make and take and learn how to make a paper German bell.",
-            "isActive": true,
-            "photoUrl": "cyranos.jpg"
-        },
-        {
-            "id": "fairbanks",
-            "name": "Fairbanks Art Gallery",
-            "address": "220 SW 26th St",
-            "hours": "5-6:45 p.m.",
-            "geocode": {
-                "lat": 44.5648582,
-                "lng": -123.2804139
-            },
-            "summary": "The San Quentin Prison Report Archive Project",
-            "description": "Doug Nigel Poor, The San Quentin Prison Report Archive Project: A collaboration between artist Nigel Poor and the Men from San Quentin State Prison. Inkjet prints with handwritten text. Feb 8-March 1. Visiting Artists & Scholars Reception, Feb 10 at LaSells Steward Center at 6pm, lecture at 7pm.",
-            "photoUrl": "fairbanks.jpg",
-            "isActive": true
-        },
-        {
             "id": "foundry-annex",
             "name": "Foundry Annex",
             "address": "354 SW Madison Ave",
@@ -112,9 +86,10 @@
                 "lat": 44.563465,
                 "lng": -123.262208
             },
-            "summary": "Opening + Corvidopolis",
+            "summary": "Gunpowder Mapping",
             "isActive": true,
-            "description": "Opening for our new creative work space & micro gallery, with work by Christopher Adams / Corvidopolis."
+            "description": "Mississippi River - Gunpowder and ink on paper. Gunpowder is ignited over a stencil. The project explores the precision and patience required to create a stencil, and the immediacy and chaos of explosives. Collaboration and participation are themes of this map focused exhibit.",
+            "photoUrl": "foundry.jpg"
         },
         {
             "id": "jeff-hess",
@@ -124,23 +99,24 @@
                 "lat": 44.563769,
                 "lng": -123.263193
             },
-            "summary": "The Art of Shannon Weber",
-            "description": "Shannon Weber's work is unique and thought provoking.  I could use words like burnt wood and sea weed in an attempt to describe it but none of that does it justice.  For me, some of her pieces evoke what feel like primitive memories and other pieces look like musical chords. \n\nShe's also a fun person to meet and talk to and I'm excited to host her visit.",
-            "photoUrl": "jeff-hess.jpg",
-            "hours": "4-8 p.m.",
+            "summary": "Invasive Species Potluck - an art show",
+            "description": "Ugly Art Room is proud to present \"Invasive Species Potluck\" an art show alongside a new dandelion sculpture by studio host and artist Jeff Hess.\n\nParticipating artists include: Lisa Bauer, Maren Burck, Martin Esteves, Hannah Lamar, Allison Maletz, Jen G. Pywell & Michael Sherman.  \n\nThe strong, the powerful, the fittest, the survivors, the despised, the hated, the condemned. In this art show potluck, participating artists present a chosen invasive species depicted in all its vilified glory. \n\nSnacks & Libations courtesy of Emerson Vineyards.",
+            "photoUrl": "",
+            "hours": "5-8 p.m.",
             "isActive": true
         },
         {
-            "id": 3,
-            "name": "Kaleidoscope Studios",
-            "address": "341 SW 2nd St, Suite 2",
+            "id": "karen-wysopal",
+            "name": "Karen Wysopal Studio",
+            "address": "425 SW Madison Ave (upstairs)",
             "geocode": {
-                "lat": 44.561258,
-                "lng": -123.261147
+                "lat": 44.563881,
+                "lng": -123.262926
             },
-            "summary": "Passionate about Purple",
-            "description": "Forget pink and red, February is the month for purple!  Mardi Gras, amethyst, even lovely early-blooming crocus.  At Kaleidoscope, we’ll have art on our walls by a variety of local artists, all with purple.  While here, you can vote for your favorite entries in our Passionate about Purple bead challenge, and register to win art from Old World Center artists and receive a free amethyst stone or bead!",
-            "isActive": true
+            "summary": "Tree Bark Studies Past and Present",
+            "isActive": true,
+            "description": "My work on large scale alcohol ink painting continues. This month's show: \"Thick Skinned: Tree Bark Studies Past and Present.\"   While creating recent tree bark studies in alcohol ink, I realized this subject has been a theme in my art for some years.  See the entire collection during this month's open studio.  There will be prints and cards for sale as well as original artwork. Come on by!",
+            "photoUrl": ""
         },
         {
             "id": "living-room",
@@ -150,9 +126,23 @@
                 "lat": 44.563881,
                 "lng": -123.262926
             },
-            "summary": "Debut Exhibit",
+            "summary": "A series of new paintings by Angela Waetje",
             "isActive": true,
-            "description": "New CAW destination, the \"Living Room Gallery\" is a micro gallery curated by Angela Waetje."
+            "description": "Celebrate women's history month with a mythic feminist hero cycle in five paintings."
+        },
+        {
+            "id": "majestic",
+            "name": "Majestic Theatre",
+            "address": "115 SW 2nd St",
+            "hours": "5-8 p.m.",
+            "geocode": {
+                "lat": 44.563638,
+                "lng": -123.259978
+            },
+            "summary": "L'art des Femmes",
+            "description": "Join us as we celebrate Women's History Month with an all-female art show focused on the \"Female Experience\".",
+            "photoUrl": "",
+            "isActive": true
         },
         {
             "id": "pegasus",
@@ -162,24 +152,10 @@
                 "lat": 44.561185,
                 "lng": -123.261147
             },
-            "summary": "The Cascades Workshops Exhibit",
-            "description": "Pegasus Gallery hosts The Cascades Workshops Exhibit with painters Mark Allison and Bill Shumway, celebrating 20 years or workshops in Sisters Oregon near Metolius and Clrar Lake.",
+            "summary": "A Plethora of Crows",
+            "description": "\"A Plethora of Crows,\" a collaborative exhibit by photographer, Don Ferguson and painter, Bill Shumway. It is a display of photographs, paintings and artwork employing both mediums. They have been engaged in this collaborative process for most of 2015, mostly for the love of it, but also to put an exhibit together and to develop a set of workshops to teach photography and painting students how to produce collaborative imagery. They chose crows as a subject because they are so expressive, mythological and they have both been intrigued by them for years.",
             "isActive": true,
             "photoUrl": ""
-        },
-        {
-            "id": "poptart",
-            "name": "PopTart",
-            "address": "460 SW Madison Ave, Suite #7",
-            "geocode": {
-                "lat": 44.563778,
-                "lng": -123.263166
-            },
-            "summary": "Unlucky in Love",
-            "description": "Poptart & Ugly Art Room present an anti Valentine's Day group art show along with $25 tattoos, a photo booth, snacks & libations by Corvallis Brewing Supply. Check out uglyartroom.com for artist information.",
-            "photoUrl": "poptart.jpg",
-            "isActive": true,
-            "hours": "5-8 p.m."
         },
         {
             "id": "urista-thompson",
@@ -189,10 +165,11 @@
                 "lat": 44.561314,
                 "lng": -123.261465
             },
-            "summary": "A Wild Heart for Art",
-            "description": "This month the artists are showing work from their hearts with a new studio Mural and Abstract paintings on display. Rachel will be showcasing “Painting With Wild Abandon,” an ongoing series of intuitive paintings, expressive & abstract, with an edgy quality. Come see her unique style up close. Laurel will be working on a new mural on the studio walls. Mural live-painting, 6-8pm. Watch Laurel bring the studio walls to life!",
-            "photoUrl": "rachel-urista.jpg",
-            "isActive": true
+            "summary": "Watch Laurel continue to develop the studio mural! Live painting and demos during the artwalk 6-8pm.",
+            "description": "View Rachel’s ongoing series of intuitive paintings, expressive & abstract, with an edgy quality. Come see her unique style up close and watch as she demonstrates a few of her techniques throughout the evening. Watch Laurel continue to develop the studio mural as she Live-Paints during the artwalk 6-8pm.",
+            "photoUrl": "",
+            "isActive": true,
+            "hours": "6-8 p.m."
         },
         {
             "id": "studio-beatrice",
@@ -203,8 +180,8 @@
                 "lat": 44.566827,
                 "lng": -123.263545
             },
-            "summary": "Colorful Paintings by Carrie Tasman",
-            "description": "Guest artist, Jenny Armitage  Will show watercolors from places you may have been (or maybe not!)\n\nShe will also bring some whimsical polymer sculptures that will amaze you. Marshall Adams will entertain us with musical surprises.\n\nKathi will offer a taste of Spindrift wine.",
+            "summary": "Celtic Spring - Wearing of the Green",
+            "description": "\"Celtic Spring - Wearing of the Green\" An apparel exhibit featuring Jan E O Jewelry: bold, organic tribal designs inspired by nature, and  Jenanigans: one of a kind straw hats for the garden or the garden party created using traditional millinery techniques. Reception includes music by Marshall Adams.",
             "isActive": true
         },
         {
@@ -215,9 +192,9 @@
                 "lat": 44.563996,
                 "lng": -123.26244
             },
-            "summary": "Gifts from the Sea",
-            "description": "Opening reception for \"Gifts from the Sea\", new intricate glass & ceramic sea inspired works by Rinee Merritt & Annclaire Greig. Also preview a poster compilation of the Studio262 Love Notes installation - continue to share the community thoughts and make 2016 a year of inspiration!",
-            "photoUrl": "studio262.jpg",
+            "summary": "Art is for Everyone",
+            "description": "Sign-up for our community art show, Bicycles & Boards or for our Mini Art Gallery where all art is 5x5x5 inches or smaller - all while enjoying the musical looping talents of Magic Mama!",
+            "photoUrl": "",
             "isActive": true
         }
     ]
