@@ -2,17 +2,27 @@
     "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/02/",
     "destinations": [
         {
-            "id": 0,
-            "name": "The Corvallis Advocate Loft",
-            "address": "425 SW Madison Ave (upstairs)",
+            "id": "anything-but",
+            "name": "Anything But Ordinary",
+            "address": "425 SW Madison Ave, Suite C",
             "geocode": {
-                "lat": 44.563871,
-                "lng": -123.262889
+                "lat": 44.563967,
+                "lng": -123.262729
             },
-            "summary": "",
-            "photoUrl": "advocate.jpg",
+            "summary": "Featured Artist: Dane Eisenbart",
             "isActive": false,
-            "description": "Come play. Featured this month is Foundry, an interactive, modular sculpture sandbox system designed to function in both practical and abstract fashion, facilitating users as both a tool and a playground. Paintings this month by Johnny Beaver, Jeremy Smith and Cyrus Peery."
+            "description": "Please welcome a NEW arts walk destination to our event featuring the art of Dane Eisenbart."
+        },
+        {
+            "id": "arc-insight",
+            "name": "The Arc Office",
+            "address": "414 NW 4th St",
+            "geocode": {
+                "lat": 44.56802,
+                "lng": -123.260454
+            },
+            "summary": "\"Fantastical Characters\"",
+            "description": " Kyle Ashbaugh has attended The Arc's ArtFocus program since 2007. His imaginative work is now being featured in the InSight Gallery."
         },
         {
             "id": 1,
@@ -25,6 +35,19 @@
             "summary": "#30edits",
             "description": "Guest artist, Kat Sloma  has created a series of 30 works of art from one photographic image.The results are spectacular! Come to Art in the Valley and enjoy the reception while viewing this special exhibit. And check out work by our member artists, as well.",
             "isActive": true
+        },
+        {
+            "id": "arts-center",
+            "name": "The Arts Center",
+            "address": "700 SW Madison Ave",
+            "geocode": {
+                "lat": 44.5643109,
+                "lng": -123.266023
+            },
+            "summary": "\"Wake\", performance by Kaitlyn Wittig Mengüç",
+            "description": "Kaitlyn Wittig Mengüç will present her performance art piece “Wake”. She will interpret the ritual of a wake, but now for a tree. All steps of a regular wake are involved: arrival, portraits, a toast, food. Depending on the audience Wittig Mengüç may perform the piece multiple times.\n\nEcologist Dr. Mark Harmon makes wood block research samples available to create an ever-changing interactive mosaic. The mosaic will be time-lapsed photographed and the result posted on TAC’s social media.  Some blocks will be available as mementos.",
+            "isActive": true,
+            "photoUrl": "artcenter.jpg"
         },
         {
             "id": 2,
@@ -52,31 +75,6 @@
             "isActive": true
         },
         {
-            "id": 3,
-            "name": "Kaleidoscope Studios",
-            "address": "341 SW 2nd St, Suite 2",
-            "geocode": {
-                "lat": 44.561258,
-                "lng": -123.261147
-            },
-            "summary": "Passionate about Purple",
-            "description": "Forget pink and red, February is the month for purple!  Mardi Gras, amethyst, even lovely early-blooming crocus.  At Kaleidoscope, we’ll have art on our walls by a variety of local artists, all with purple.  While here, you can vote for your favorite entries in our Passionate about Purple bead challenge, and register to win art from Old World Center artists and receive a free amethyst stone or bead!",
-            "isActive": true
-        },
-        {
-            "id": 4,
-            "name": "Cyrano's",
-            "address": "361 SW 2nd St",
-            "geocode": {
-                "lat": 44.561122,
-                "lng": -123.260822
-            },
-            "summary": "Fresh February",
-            "description": "Pushing the beginning of Spring, come in and see bright new journals, fun colors and patterns.  Bright and Light Jewelry for Spring and Summer by Elaine.  Take part in a make and take and learn how to make a paper German bell.",
-            "isActive": true,
-            "photoUrl": "cyranos.jpg"
-        },
-        {
             "id": 5,
             "name": "Brittney West",
             "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
@@ -90,56 +88,54 @@
             "isActive": true
         },
         {
-            "id": "studio262",
-            "name": "Studio262",
-            "address": "425 SW Madison Ave, Suite H-1",
+            "id": 0,
+            "name": "The Corvallis Advocate Loft",
+            "address": "425 SW Madison Ave (upstairs)",
             "geocode": {
-                "lat": 44.563996,
-                "lng": -123.26244
+                "lat": 44.563871,
+                "lng": -123.262889
             },
-            "summary": "Gifts from the Sea",
-            "description": "Opening reception for \"Gifts from the Sea\", new intricate glass & ceramic sea inspired works by Rinee Merritt & Annclaire Greig. Also preview a poster compilation of the Studio262 Love Notes installation - continue to share the community thoughts and make 2016 a year of inspiration!",
-            "photoUrl": "studio262.jpg",
+            "summary": "",
+            "photoUrl": "advocate.jpg",
+            "isActive": false,
+            "description": "Come play. Featured this month is Foundry, an interactive, modular sculpture sandbox system designed to function in both practical and abstract fashion, facilitating users as both a tool and a playground. Paintings this month by Johnny Beaver, Jeremy Smith and Cyrus Peery."
+        },
+        {
+            "id": "corvallis-swing",
+            "name": "Corvallis Swing",
+            "address": "341 SW 2nd St",
+            "hours": "5:45-6:45 p.m.",
+            "geocode": {
+                "lat": 44.561265,
+                "lng": -123.261012
+            },
+            "summary": "Swing dancing at Old World Deli",
+            "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
             "isActive": true
         },
         {
-            "id": "foundry-annex",
-            "name": "Foundry Annex",
-            "address": "354 SW Madison Ave",
+            "id": "corvidopolis",
+            "name": "Corvidopolis",
+            "address": "459 SW Madison Ave",
+            "hours": "5-8 p.m.",
             "geocode": {
-                "lat": 44.563465,
-                "lng": -123.262208
+                "lat": 44.564167,
+                "lng": -123.263268
             },
-            "summary": "Opening + Corvidopolis",
+            "summary": "FALL FUNGUS FIESTA - Visit the CORVIDOPOLIS Studio, view & color some new mushroom prints, draw your favorite fungus and talk fall foraging."
+        },
+        {
+            "id": 4,
+            "name": "Cyrano's",
+            "address": "361 SW 2nd St",
+            "geocode": {
+                "lat": 44.561122,
+                "lng": -123.260822
+            },
+            "summary": "Fresh February",
+            "description": "Pushing the beginning of Spring, come in and see bright new journals, fun colors and patterns.  Bright and Light Jewelry for Spring and Summer by Elaine.  Take part in a make and take and learn how to make a paper German bell.",
             "isActive": true,
-            "description": "Opening for our new creative work space & micro gallery, with work by Christopher Adams / Corvidopolis."
-        },
-        {
-            "id": "studio-beatrice",
-            "name": "Studio Beatrice",
-            "address": "230 NW 6th St",
-            "hours": "4-7 p.m.",
-            "geocode": {
-                "lat": 44.566827,
-                "lng": -123.263545
-            },
-            "summary": "Colorful Paintings by Carrie Tasman",
-            "description": "Guest artist, Jenny Armitage  Will show watercolors from places you may have been (or maybe not!)\n\nShe will also bring some whimsical polymer sculptures that will amaze you. Marshall Adams will entertain us with musical surprises.\n\nKathi will offer a taste of Spindrift wine.",
-            "isActive": true
-        },
-        {
-            "id": "majestic",
-            "name": "Majestic Theatre",
-            "address": "115 SW 2nd St",
-            "hours": "4-8 p.m.",
-            "geocode": {
-                "lat": 44.563638,
-                "lng": -123.259978
-            },
-            "summary": "Mish Mash",
-            "description": "A community art show exploring works of Mixed Media and Collage by local artists.",
-            "photoUrl": "",
-            "isActive": false
+            "photoUrl": "cyranos.jpg"
         },
         {
             "id": "fairbanks",
@@ -156,6 +152,18 @@
             "isActive": true
         },
         {
+            "id": "foundry-annex",
+            "name": "Foundry Annex",
+            "address": "354 SW Madison Ave",
+            "geocode": {
+                "lat": 44.563465,
+                "lng": -123.262208
+            },
+            "summary": "Opening + Corvidopolis",
+            "isActive": true,
+            "description": "Opening for our new creative work space & micro gallery, with work by Christopher Adams / Corvidopolis."
+        },
+        {
             "id": "jeff-hess",
             "name": "Jeff Hess Studio",
             "address": "460 SW Madison Ave. Suite 16",
@@ -168,6 +176,70 @@
             "photoUrl": "jeff-hess.jpg",
             "hours": "4-8 p.m.",
             "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kaleidoscope Studios",
+            "address": "341 SW 2nd St, Suite 2",
+            "geocode": {
+                "lat": 44.561258,
+                "lng": -123.261147
+            },
+            "summary": "Passionate about Purple",
+            "description": "Forget pink and red, February is the month for purple!  Mardi Gras, amethyst, even lovely early-blooming crocus.  At Kaleidoscope, we’ll have art on our walls by a variety of local artists, all with purple.  While here, you can vote for your favorite entries in our Passionate about Purple bead challenge, and register to win art from Old World Center artists and receive a free amethyst stone or bead!",
+            "isActive": true
+        },
+        {
+            "id": "karen-wysopal",
+            "name": "Karen Wysopal Studio",
+            "address": "425 SW Madison Ave (upstairs)",
+            "geocode": {
+                "lat": 44.563881,
+                "lng": -123.262926
+            },
+            "summary": "Karen Wysopal | Mixed Media",
+            "isActive": false,
+            "description": "Santa brought me a HUGE roll of yupo paper: 5 feet by 30 feet long!  Come see what happens as I continue to scale LARGE.  With the holidays behind us, treat yourself to some new art!  Lots of prints, cards, and original artwork for sale.",
+            "photoUrl": "karen.jpg"
+        },
+        {
+            "id": "living-room",
+            "name": "Living Room Gallery",
+            "address": "425 SW Madison Ave (lower level)",
+            "geocode": {
+                "lat": 44.563881,
+                "lng": -123.262926
+            },
+            "summary": "Debut Exhibit",
+            "isActive": true,
+            "description": "New CAW destination, the \"Living Room Gallery\" is a micro gallery curated by Angela Waetje."
+        },
+        {
+            "id": "majestic",
+            "name": "Majestic Theatre",
+            "address": "115 SW 2nd St",
+            "hours": "4-8 p.m.",
+            "geocode": {
+                "lat": 44.563638,
+                "lng": -123.259978
+            },
+            "summary": "Mish Mash",
+            "description": "A community art show exploring works of Mixed Media and Collage by local artists.",
+            "photoUrl": "",
+            "isActive": false
+        },
+        {
+            "id": "humanities",
+            "name": "OSU Center for the Humanities",
+            "address": "811 SW Jefferson Ave",
+            "hours": "4-7 p.m.",
+            "geocode": {
+                "lat": 44.564018,
+                "lng": -123.267411
+            },
+            "summary": "Views of the Columbia Coast. Six photographers share their unique perspectives of the Lower Columbia, from Astoria to Oysterville. Drop-in photo editing demos and advice, 5-7pm.",
+            "description": "Views of the Columbia Coast\n\nA multi-faceted portrait of one of the Northwest's most significant historical regions presented by six local photographers: Rich Bergeman, Allan Doerksen, Dave McIntire, Kurt Norlin, John Ritchie and Dan Wise.\n\nMore than 30 color and b+w photographs explore the Lower Columbia Region, from Astoria's historic waterfront and the upriver Brownsmead sloughs, to the mysterious Fort Columbia and the picturesque Washington towns of Ilwaco and Oysterville.\n\nReception with refreshments from 4-7pm; photo editing demos and advice from 5-7pm. You can also bring your questions to ask the experts as they demonstrate techniques from basic image adjustments to more advanced panorama stitching, composites, and HDR.  Bring your own photographs (on paper, thumb drive, pad or phone) for feedback.",
+            "photoUrl": "humanities.jpg"
         },
         {
             "id": "pegasus",
@@ -210,15 +282,30 @@
             "isActive": true
         },
         {
-            "id": "arc-insight",
-            "name": "The Arc Office",
-            "address": "414 NW 4th St",
+            "id": "studio-beatrice",
+            "name": "Studio Beatrice",
+            "address": "230 NW 6th St",
+            "hours": "4-7 p.m.",
             "geocode": {
-                "lat": 44.56802,
-                "lng": -123.260454
+                "lat": 44.566827,
+                "lng": -123.263545
             },
-            "summary": "\"Fantastical Characters\"",
-            "description": " Kyle Ashbaugh has attended The Arc's ArtFocus program since 2007. His imaginative work is now being featured in the InSight Gallery."
+            "summary": "Colorful Paintings by Carrie Tasman",
+            "description": "Guest artist, Jenny Armitage  Will show watercolors from places you may have been (or maybe not!)\n\nShe will also bring some whimsical polymer sculptures that will amaze you. Marshall Adams will entertain us with musical surprises.\n\nKathi will offer a taste of Spindrift wine.",
+            "isActive": true
+        },
+        {
+            "id": "studio262",
+            "name": "Studio262",
+            "address": "425 SW Madison Ave, Suite H-1",
+            "geocode": {
+                "lat": 44.563996,
+                "lng": -123.26244
+            },
+            "summary": "Gifts from the Sea",
+            "description": "Opening reception for \"Gifts from the Sea\", new intricate glass & ceramic sea inspired works by Rinee Merritt & Annclaire Greig. Also preview a poster compilation of the Studio262 Love Notes installation - continue to share the community thoughts and make 2016 a year of inspiration!",
+            "photoUrl": "studio262.jpg",
+            "isActive": true
         },
         {
             "id": "teal",
@@ -232,93 +319,6 @@
             "summary": "Come watch Harry McManus demonstrate wood turning. Featuring local handcrafted sweets by Melarova Baking and ginger liqueur by Spiritopia.",
             "photoUrl": "teal.jpg",
             "isActive": false
-        },
-        {
-            "id": "arts-center",
-            "name": "The Arts Center",
-            "address": "700 SW Madison Ave",
-            "geocode": {
-                "lat": 44.5643109,
-                "lng": -123.266023
-            },
-            "summary": "\"Wake\", performance by Kaitlyn Wittig Mengüç",
-            "description": "Kaitlyn Wittig Mengüç will present her performance art piece “Wake”. She will interpret the ritual of a wake, but now for a tree. All steps of a regular wake are involved: arrival, portraits, a toast, food. Depending on the audience Wittig Mengüç may perform the piece multiple times.\n\nEcologist Dr. Mark Harmon makes wood block research samples available to create an ever-changing interactive mosaic. The mosaic will be time-lapsed photographed and the result posted on TAC’s social media.  Some blocks will be available as mementos.",
-            "isActive": true,
-            "photoUrl": "artcenter.jpg"
-        },
-        {
-            "id": "humanities",
-            "name": "OSU Center for the Humanities",
-            "address": "811 SW Jefferson Ave",
-            "hours": "4-7 p.m.",
-            "geocode": {
-                "lat": 44.564018,
-                "lng": -123.267411
-            },
-            "summary": "Views of the Columbia Coast. Six photographers share their unique perspectives of the Lower Columbia, from Astoria to Oysterville. Drop-in photo editing demos and advice, 5-7pm.",
-            "description": "Views of the Columbia Coast\n\nA multi-faceted portrait of one of the Northwest's most significant historical regions presented by six local photographers: Rich Bergeman, Allan Doerksen, Dave McIntire, Kurt Norlin, John Ritchie and Dan Wise.\n\nMore than 30 color and b+w photographs explore the Lower Columbia Region, from Astoria's historic waterfront and the upriver Brownsmead sloughs, to the mysterious Fort Columbia and the picturesque Washington towns of Ilwaco and Oysterville.\n\nReception with refreshments from 4-7pm; photo editing demos and advice from 5-7pm. You can also bring your questions to ask the experts as they demonstrate techniques from basic image adjustments to more advanced panorama stitching, composites, and HDR.  Bring your own photographs (on paper, thumb drive, pad or phone) for feedback.",
-            "photoUrl": "humanities.jpg"
-        },
-        {
-            "id": "corvidopolis",
-            "name": "Corvidopolis",
-            "address": "459 SW Madison Ave",
-            "hours": "5-8 p.m.",
-            "geocode": {
-                "lat": 44.564167,
-                "lng": -123.263268
-            },
-            "summary": "FALL FUNGUS FIESTA - Visit the CORVIDOPOLIS Studio, view & color some new mushroom prints, draw your favorite fungus and talk fall foraging."
-        },
-        {
-            "id": "corvallis-swing",
-            "name": "Corvallis Swing",
-            "address": "341 SW 2nd St",
-            "hours": "5:45-6:45 p.m.",
-            "geocode": {
-                "lat": 44.561265,
-                "lng": -123.261012
-            },
-            "summary": "Swing dancing at Old World Deli",
-            "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
-            "isActive": true
-        },
-        {
-            "id": "karen-wysopal",
-            "name": "Karen Wysopal Studio",
-            "address": "425 SW Madison Ave (upstairs)",
-            "geocode": {
-                "lat": 44.563881,
-                "lng": -123.262926
-            },
-            "summary": "Karen Wysopal | Mixed Media",
-            "isActive": false,
-            "description": "Santa brought me a HUGE roll of yupo paper: 5 feet by 30 feet long!  Come see what happens as I continue to scale LARGE.  With the holidays behind us, treat yourself to some new art!  Lots of prints, cards, and original artwork for sale.",
-            "photoUrl": "karen.jpg"
-        },
-        {
-            "id": "living-room",
-            "name": "Living Room Gallery",
-            "address": "425 SW Madison Ave (lower level)",
-            "geocode": {
-                "lat": 44.563881,
-                "lng": -123.262926
-            },
-            "summary": "Debut Exhibit",
-            "isActive": true,
-            "description": "New CAW destination, the \"Living Room Gallery\" is a micro gallery curated by Angela Waetje."
-        },
-        {
-            "id": "anything-but",
-            "name": "Anything But Ordinary",
-            "address": "425 SW Madison Ave, Suite C",
-            "geocode": {
-                "lat": 44.563967,
-                "lng": -123.262729
-            },
-            "summary": "Featured Artist: Dane Eisenbart",
-            "isActive": false,
-            "description": "Please welcome a NEW arts walk destination to our event featuring the art of Dane Eisenbart."
         }
     ]
 }

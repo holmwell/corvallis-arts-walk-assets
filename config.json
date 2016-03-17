@@ -14,6 +14,19 @@
             "isActive": true
         },
         {
+            "id": "arts-center",
+            "name": "The Arts Center",
+            "address": "700 SW Madison Ave",
+            "geocode": {
+                "lat": 44.5643109,
+                "lng": -123.266023
+            },
+            "summary": "\"Wake\", performance by Kaitlyn Wittig Mengüç",
+            "description": "Kaitlyn Wittig Mengüç will present her performance art piece “Wake”. She will interpret the ritual of a wake, but now for a tree. All steps of a regular wake are involved: arrival, portraits, a toast, food. Depending on the audience Wittig Mengüç may perform the piece multiple times.\n\nEcologist Dr. Mark Harmon makes wood block research samples available to create an ever-changing interactive mosaic. The mosaic will be time-lapsed photographed and the result posted on TAC’s social media.  Some blocks will be available as mementos.",
+            "isActive": true,
+            "photoUrl": "artcenter.jpg"
+        },
+        {
             "id": 2,
             "name": "ArtWorks (CEI) Gallery",
             "address": "408 SW Monroe Ave Suite 110",
@@ -39,15 +52,29 @@
             "isActive": true
         },
         {
-            "id": 3,
-            "name": "Kaleidoscope Studios",
-            "address": "341 SW 2nd St, Suite 2",
+            "id": 5,
+            "name": "Brittney West",
+            "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
             "geocode": {
-                "lat": 44.561258,
-                "lng": -123.261147
+                "lat": 44.561378,
+                "lng": -123.261429
             },
-            "summary": "Passionate about Purple",
-            "description": "Forget pink and red, February is the month for purple!  Mardi Gras, amethyst, even lovely early-blooming crocus.  At Kaleidoscope, we’ll have art on our walls by a variety of local artists, all with purple.  While here, you can vote for your favorite entries in our Passionate about Purple bead challenge, and register to win art from Old World Center artists and receive a free amethyst stone or bead!",
+            "summary": "Come check out West's new oil painting on a silver platter and other recent mixed-media artwork. All are welcome!",
+            "description": "West invites you into her art studio where you can browse over a decade of oil paintings, mixed media drawings and experimental pieces such as her recent oil painting on an antique silver platter. Engage in your right brain, get to know more about her process and inspiration, and browse through her Eco-Prints for sale.",
+            "photoUrl": "brittney-west.jpg",
+            "isActive": true
+        },
+        {
+            "id": "corvallis-swing",
+            "name": "Corvallis Swing",
+            "address": "341 SW 2nd St",
+            "hours": "5:45-6:45 p.m.",
+            "geocode": {
+                "lat": 44.561265,
+                "lng": -123.261012
+            },
+            "summary": "Swing dancing at Old World Deli",
+            "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
             "isActive": true
         },
         {
@@ -64,29 +91,17 @@
             "photoUrl": "cyranos.jpg"
         },
         {
-            "id": 5,
-            "name": "Brittney West",
-            "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
+            "id": "fairbanks",
+            "name": "Fairbanks Art Gallery",
+            "address": "220 SW 26th St",
+            "hours": "5-6:45 p.m.",
             "geocode": {
-                "lat": 44.561378,
-                "lng": -123.261429
+                "lat": 44.5648582,
+                "lng": -123.2804139
             },
-            "summary": "Come check out West's new oil painting on a silver platter and other recent mixed-media artwork. All are welcome!",
-            "description": "West invites you into her art studio where you can browse over a decade of oil paintings, mixed media drawings and experimental pieces such as her recent oil painting on an antique silver platter. Engage in your right brain, get to know more about her process and inspiration, and browse through her Eco-Prints for sale.",
-            "photoUrl": "brittney-west.jpg",
-            "isActive": true
-        },
-        {
-            "id": "studio262",
-            "name": "Studio262",
-            "address": "425 SW Madison Ave, Suite H-1",
-            "geocode": {
-                "lat": 44.563996,
-                "lng": -123.26244
-            },
-            "summary": "Gifts from the Sea",
-            "description": "Opening reception for \"Gifts from the Sea\", new intricate glass & ceramic sea inspired works by Rinee Merritt & Annclaire Greig. Also preview a poster compilation of the Studio262 Love Notes installation - continue to share the community thoughts and make 2016 a year of inspiration!",
-            "photoUrl": "studio262.jpg",
+            "summary": "The San Quentin Prison Report Archive Project",
+            "description": "Doug Nigel Poor, The San Quentin Prison Report Archive Project: A collaboration between artist Nigel Poor and the Men from San Quentin State Prison. Inkjet prints with handwritten text. Feb 8-March 1. Visiting Artists & Scholars Reception, Feb 10 at LaSells Steward Center at 6pm, lecture at 7pm.",
+            "photoUrl": "fairbanks.jpg",
             "isActive": true
         },
         {
@@ -102,33 +117,6 @@
             "description": "Opening for our new creative work space & micro gallery, with work by Christopher Adams / Corvidopolis."
         },
         {
-            "id": "studio-beatrice",
-            "name": "Studio Beatrice",
-            "address": "230 NW 6th St",
-            "hours": "4-7 p.m.",
-            "geocode": {
-                "lat": 44.566827,
-                "lng": -123.263545
-            },
-            "summary": "Colorful Paintings by Carrie Tasman",
-            "description": "Guest artist, Jenny Armitage  Will show watercolors from places you may have been (or maybe not!)\n\nShe will also bring some whimsical polymer sculptures that will amaze you. Marshall Adams will entertain us with musical surprises.\n\nKathi will offer a taste of Spindrift wine.",
-            "isActive": true
-        },
-        {
-            "id": "fairbanks",
-            "name": "Fairbanks Art Gallery",
-            "address": "220 SW 26th St",
-            "hours": "5-6:45 p.m.",
-            "geocode": {
-                "lat": 44.5648582,
-                "lng": -123.2804139
-            },
-            "summary": "The San Quentin Prison Report Archive Project",
-            "description": "Doug Nigel Poor, The San Quentin Prison Report Archive Project: A collaboration between artist Nigel Poor and the Men from San Quentin State Prison. Inkjet prints with handwritten text. Feb 8-March 1. Visiting Artists & Scholars Reception, Feb 10 at LaSells Steward Center at 6pm, lecture at 7pm.",
-            "photoUrl": "fairbanks.jpg",
-            "isActive": true
-        },
-        {
             "id": "jeff-hess",
             "name": "Jeff Hess Studio",
             "address": "460 SW Madison Ave. Suite 16",
@@ -141,6 +129,30 @@
             "photoUrl": "jeff-hess.jpg",
             "hours": "4-8 p.m.",
             "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kaleidoscope Studios",
+            "address": "341 SW 2nd St, Suite 2",
+            "geocode": {
+                "lat": 44.561258,
+                "lng": -123.261147
+            },
+            "summary": "Passionate about Purple",
+            "description": "Forget pink and red, February is the month for purple!  Mardi Gras, amethyst, even lovely early-blooming crocus.  At Kaleidoscope, we’ll have art on our walls by a variety of local artists, all with purple.  While here, you can vote for your favorite entries in our Passionate about Purple bead challenge, and register to win art from Old World Center artists and receive a free amethyst stone or bead!",
+            "isActive": true
+        },
+        {
+            "id": "living-room",
+            "name": "Living Room Gallery",
+            "address": "425 SW Madison Ave (lower level)",
+            "geocode": {
+                "lat": 44.563881,
+                "lng": -123.262926
+            },
+            "summary": "Debut Exhibit",
+            "isActive": true,
+            "description": "New CAW destination, the \"Living Room Gallery\" is a micro gallery curated by Angela Waetje."
         },
         {
             "id": "pegasus",
@@ -183,42 +195,30 @@
             "isActive": true
         },
         {
-            "id": "arts-center",
-            "name": "The Arts Center",
-            "address": "700 SW Madison Ave",
+            "id": "studio-beatrice",
+            "name": "Studio Beatrice",
+            "address": "230 NW 6th St",
+            "hours": "4-7 p.m.",
             "geocode": {
-                "lat": 44.5643109,
-                "lng": -123.266023
+                "lat": 44.566827,
+                "lng": -123.263545
             },
-            "summary": "\"Wake\", performance by Kaitlyn Wittig Mengüç",
-            "description": "Kaitlyn Wittig Mengüç will present her performance art piece “Wake”. She will interpret the ritual of a wake, but now for a tree. All steps of a regular wake are involved: arrival, portraits, a toast, food. Depending on the audience Wittig Mengüç may perform the piece multiple times.\n\nEcologist Dr. Mark Harmon makes wood block research samples available to create an ever-changing interactive mosaic. The mosaic will be time-lapsed photographed and the result posted on TAC’s social media.  Some blocks will be available as mementos.",
-            "isActive": true,
-            "photoUrl": "artcenter.jpg"
-        },
-        {
-            "id": "corvallis-swing",
-            "name": "Corvallis Swing",
-            "address": "341 SW 2nd St",
-            "hours": "5:45-6:45 p.m.",
-            "geocode": {
-                "lat": 44.561265,
-                "lng": -123.261012
-            },
-            "summary": "Swing dancing at Old World Deli",
-            "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
+            "summary": "Colorful Paintings by Carrie Tasman",
+            "description": "Guest artist, Jenny Armitage  Will show watercolors from places you may have been (or maybe not!)\n\nShe will also bring some whimsical polymer sculptures that will amaze you. Marshall Adams will entertain us with musical surprises.\n\nKathi will offer a taste of Spindrift wine.",
             "isActive": true
         },
         {
-            "id": "living-room",
-            "name": "Living Room Gallery",
-            "address": "425 SW Madison Ave (lower level)",
+            "id": "studio262",
+            "name": "Studio262",
+            "address": "425 SW Madison Ave, Suite H-1",
             "geocode": {
-                "lat": 44.563881,
-                "lng": -123.262926
+                "lat": 44.563996,
+                "lng": -123.26244
             },
-            "summary": "Debut Exhibit",
-            "isActive": true,
-            "description": "New CAW destination, the \"Living Room Gallery\" is a micro gallery curated by Angela Waetje."
+            "summary": "Gifts from the Sea",
+            "description": "Opening reception for \"Gifts from the Sea\", new intricate glass & ceramic sea inspired works by Rinee Merritt & Annclaire Greig. Also preview a poster compilation of the Studio262 Love Notes installation - continue to share the community thoughts and make 2016 a year of inspiration!",
+            "photoUrl": "studio262.jpg",
+            "isActive": true
         }
     ]
 }
