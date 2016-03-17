@@ -66,6 +66,18 @@
             "description": "Surrealist Cyrus Peery has been quite popular at the loft, so this month he's been asked back for an exhibit mixing new and prior work. .Check out The Advocate for surprise guests too.\n\nTreats will be served.  Open 4 pm to 8 pm."
         },
         {
+            "id": "corvallis-multi-lit-center",
+            "name": "Corvallis Multicultural Literacy Center",
+            "address": "128 SW 9th Street",
+            "geocode": {
+                "lat": 44.565473,
+                "lng": -123.267686
+            },
+            "summary": "New Location",
+            "description": "\"Wearing the World, 2016\" - CMLC's multicultural textile exhibit. A collection of colorful textiles and clothing from across the globe.",
+            "isActive": true
+        },
+        {
             "id": "corvallis-swing",
             "name": "Corvallis Swing",
             "address": "341 SW 2nd St",
@@ -77,6 +89,19 @@
             "summary": "Swing dancing at Old World Deli",
             "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
             "isActive": true
+        },
+        {
+            "id": "footwise",
+            "name": "Footwise Storefront Window",
+            "address": "301 SW Madison Ave, #100",
+            "geocode": {
+                "lat": 44.563561,
+                "lng": -123.261447
+            },
+            "summary": "Walk by the Footwise Window Display",
+            "isActive": true,
+            "description": "Walk by the window display at Footwise to see Brittney West's most recent series of oil paintings and sculptures exploring our relationship with animals. (Note that her art studio will not be on this month's walk)",
+            "photoUrl": "brittney-west.jpg"
         },
         {
             "id": "foundry-annex",
