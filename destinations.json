@@ -241,7 +241,8 @@
             },
             "summary": "A series of new paintings by Angela Waetje",
             "isActive": true,
-            "description": "Celebrate women's history month with a mythic feminist hero cycle in five paintings."
+            "description": "Celebrate women's history month with a mythic feminist hero cycle in five paintings.",
+            "photoUrl": "living-room.jpg"
         },
         {
             "id": "majestic",
