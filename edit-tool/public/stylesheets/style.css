@@ -7,11 +7,11 @@ a {
 /*  color: #00B7FF;*/
 }
 
-.cover {
-	border: solid 1px #900;
+.cover-inner {
+/*	border: solid 1px #900;*/
 	padding-bottom: 1.2ex;
 }
-.cover:hover {
+.cover-inner:hover {
 	background-color: #900;
 	color: white;
 	cursor: pointer;
@@ -20,8 +20,8 @@ a {
 	color: inherit;
 }
 
-h3 {
-
+h4 {
+	padding-top: 2.3em;
 }
 
 .destination {

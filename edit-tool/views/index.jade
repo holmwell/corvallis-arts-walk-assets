@@ -5,9 +5,18 @@ block content
     h1= title
     //-    p Welcome to #{title}
 
-    div(ng-repeat="dest in destinations")
-      .col-md-4.col-xs-12.col-sm-6.cover(ng-class='{ isActive: dest.isActive }')
-        a(href="/dest/{{dest.id}}")
+    .cover(ng-repeat="dest in destinations")
+      a(href="/dest/{{dest.id}}")
+        .col-md-6.col-xs-12.col-sm-6.cover-inner(ng-if='dest.isActive')
+          h3 {{dest.name}}
+
+    .row
+      &nbsp;
+
+    h4 Destinations that are not active this month
+    .cover(ng-repeat="dest in destinations")
+      a(href="/dest/{{dest.id}}")
+        .col-md-6.col-xs-12.col-sm-6.cover-inner(ng-if='!dest.isActive')
           h3 {{dest.name}}
 
     .row
