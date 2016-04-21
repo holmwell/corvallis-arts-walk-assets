@@ -1,5 +1,5 @@
 {
-    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/03/",
+    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/04/",
     "destinations": [
         {
             "id": 1,
@@ -9,8 +9,8 @@
                 "lat": 44.5628093,
                 "lng": -123.2603014
             },
-            "summary": "Call of the Trees",
-            "description": "Enjoy a show, \"Call of the Trees\", by Cy Stadsvold.  Cy has focused on the subject of trees to express his gratitude with a keen understanding of this subject. Cy serves as director of Art in the Valley Gallery.  He is known for 2D work spanning many mediums, including, of course, watercolor.",
+            "summary": "Jenny Armitage",
+            "description": "Jenny Armitage is a former Art in the Valley member who is our featured artist in April.  She has developed a method of pouring watercolors to provide a basis for her hauntingly beautiful watercolors.  Stop by to enjoy the show and reception with treats and festivities. Also check out art by Art In the Valley members and consignment artists.",
             "isActive": true
         },
         {
@@ -21,8 +21,8 @@
                 "lat": 44.5643109,
                 "lng": -123.266023
             },
-            "summary": "Howland Community OPEN",
-            "description": "The Howland Community OPEN Exhibition at The Arts Center is an opportunity for ALL people living in Linn or Benton Counties to show their art, from toddlers to teens, adults who are just starting out to professional artists. This exhibit reflects the joy of artmaking in our community -- just as present in the work of a beginning art maker, as in work by longtime practicing professional artists.",
+            "summary": "3 Narratives reception",
+            "description": "The Arts Center hosts a reception for 3 Narratives: Larry Calkins, Georgiana Nehl and Liisa Rahkonen. Larry Calkins has roots in outsider art and uses nontraditional mixed media for seemingly innocent looking imagery. Georgiana Nehl works in tempera and creates elegant precise paintings based on the I Ching, enhanced with small altars below. Liisa Rahkonen shows her ceramic figural work inspired by ancient cultures.",
             "isActive": true,
             "photoUrl": "arts-center.jpg"
         },
@@ -34,10 +34,10 @@
                 "lat": 44.564372,
                 "lng": -123.262252
             },
-            "summary": "OSU Art Department presents: + / -",
+            "summary": "Aisha Rose McCoy",
             "photoUrl": "art-works.jpg",
             "isActive": true,
-            "description": "Under instructor Anna Fidler, OSU art students present work surrounding the modification and repurposing of aged media through both additive and subtractive processes."
+            "description": "Many people look to journaling to capture important, sad, joyous, and routine parts of their life. Instead of writing in depth about my experiences, I often try to capture a moment that gave a particular feeling good or bad through art. I recall my memories through mostly sensory characteristics which naturally draws me to relive them through art."
         },
         {
             "id": "azure",
@@ -47,23 +47,23 @@
                 "lat": 44.561371,
                 "lng": -123.261053
             },
-            "summary": "Primitive Futurism",
-            "description": "Connections to animism, wonder of nature and a search for meaning and spirituality are expressed in Christopher Adams’ symmetrical–assumed–future. Iconography of myth and ceremony are tainted with the remnants of a disconnected interim–bridging a simple past with a simple future.",
+            "summary": "Will you step up?",
+            "description": "Deb Perry-Guetti continues to explore the grid in her new ladder series.  As April is art and poetry month, she brings her drawings, poetry and sculptures together considering the concept of where a ladder can lead us.  The highs and the lows.  The hidden and the obvious.  The explored and the mysterious.  She is excited to have her husband Nick Perry-Guetti accompany her work this month through his poetry.  The night promises to bring poetry readings and a special guest performance from Celeste King on the cello.",
             "isActive": true,
             "photoUrl": "azure.jpg"
         },
         {
-            "id": 0,
-            "name": "The Corvallis Advocate Loft",
-            "address": "425 SW Madison Ave (upstairs)",
+            "id": 5,
+            "name": "Brittney West",
+            "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
             "geocode": {
-                "lat": 44.563871,
-                "lng": -123.262889
+                "lat": 44.561378,
+                "lng": -123.261429
             },
-            "summary": "Surrealist Cyrus Peery has been quite popular at the loft, so this month he's been asked back to exhibit a mix of new and prior work.",
-            "photoUrl": "advocate.jpg",
-            "isActive": true,
-            "description": "Surrealist Cyrus Peery has been quite popular at the loft, so this month he's been asked back for an exhibit mixing new and prior work. .Check out The Advocate for surprise guests too.\n\nTreats will be served.  Open 4 pm to 8 pm."
+            "summary": "New oil paintings & glittery sculptures await you at Britt's studio. All are welcome!",
+            "description": "Activist artist Brittney West invites you into her art studio where you can browse over a decade of oil paintings, mixed media drawings and recent sculptures. Engage in your right brain, get to know more about her process and inspiration, and browse through her Eco-Prints for sale.",
+            "photoUrl": "brittney-west.jpg",
+            "isActive": true
         },
         {
             "id": "corvallis-multi-lit-center",
@@ -73,9 +73,10 @@
                 "lat": 44.565473,
                 "lng": -123.267686
             },
-            "summary": "New Location",
-            "description": "\"Wearing the World, 2016\" - CMLC's multicultural textile exhibit. A collection of colorful textiles and clothing from across the globe.",
-            "isActive": true
+            "summary": "CMLC Multicultural Textile Exhibit",
+            "description": "WEARING THE WORLD, 2016 - a multicultural textile exhibit at the Corvallis Multicultural Literacy Center.  Come and get inspired - see a collection of colorful clothing and intricate textiles gathered from around the globe, both vintage and contemporary.  Many hand sewn, hand dyed and embroidered pieces demonstrating a wealth of traditions and techniques, from ceremonial to utilitarian.  The exhibit features pieces from 20 countries, and is enhanced by a continuously running slide show.  Information on the pieces was created for the show by a world-wide, on-line volunteer research program.   The exhibit is curated by CMLC volunteer textile archivist and OSU graduate Ivy She, and was sponsored in part by the Benton County Cultural Coalition.  Exhibit runs through May 31.  Opening 4:00pm – 8:00pm, with a reception and live music from 6:00pm – 8:00pm",
+            "isActive": true,
+            "photoUrl": "cmlc.jpg"
         },
         {
             "id": "corvallis-swing",
@@ -91,6 +92,20 @@
             "isActive": true
         },
         {
+            "id": "fairbanks",
+            "name": "Fairbanks Art Gallery",
+            "address": "220 SW 26th St",
+            "hours": "5-6:45 p.m.",
+            "geocode": {
+                "lat": 44.5648582,
+                "lng": -123.2804139
+            },
+            "summary": "Michael Boonstra: Transitory Surface",
+            "description": "Transitory Surface,an exhibit of prints, paintings, and drawings by Michael Boonstra opensto the public Monday, April 4 in Fairbanks Gallery, on the Oregon State University campus, in Corvallis, Oregon. There will be a reception with a gallery talk by the artist at 4:30-5:30, Tuesday, April 5.The event is free andopento the public. \n\nWith an interest in both the visual and psychological variables in the transfer of perspective, Michael Boonstra questions how our experience is changing as the way we view landscape shifts from a horizon-based perspective toan aerial viewpoint. Transitory Surface is the result of his art practice exploring landscape and the increasing clarity of understanding our world through perspective and the visual markings generated by human development. \n\nWith elements of video, photography, and drawing, Boonstra connects to the way we think aboutlandscape. Starting from the overly ethereal transcendent views from space to a middle zone that is abstract and breaks down to formal characteristics. The surface of the planet you see is the shapes and visual information that signifies humanness, the vast marks as a planetary drawing, “a vast drawing we are all creating.”\n\nOne element in this show includes an ongoing series of drawings utilizing evaporated inkas a base layer, then manipulated with graphite, ink, and acrylic. The drawings are invented aerial landscapes meant to similarly embody the vernacular of satellite images. Boonstra’s process ofevaporating ink is parallel to the  to the geologic forces that form the surface ofour planet and the geometry overlaid is a proxy for the human made marks upon the landscape. These etherial abstractions are harmonized by the formal characteristics and content that symbolizes the impact and expansion of human development. \n\nMichael Boonstra received his BFA from the University of Michigan and his MFA from the University of Oregon. Recent awards include a Career Opportunity Grant from the Oregon Arts Commission, project funding from the Ford Family Foundation, and a residency at the Djerassi Resident Artist Program. Boonstra’s drawings and photo-based work have been exhibited nationally andhehas created site-specific projects in Michigan, California, andat numerous venues in the Pacific Northwest. Boonstra currently teaches at Oregon State University. His studio practice is based outof Eugene, Oregon where he lives with his wife and two children.\n  \nFairbanks Gallery at Oregon State University is free andopento the public. Hours are Monday-Friday from 8am-5pm. The exhibit concludes on April 27.",
+            "photoUrl": "fairbanks.jpg",
+            "isActive": true
+        },
+        {
             "id": "footwise",
             "name": "Footwise Storefront Window",
             "address": "301 SW Madison Ave, #100",
@@ -98,10 +113,10 @@
                 "lat": 44.563561,
                 "lng": -123.261447
             },
-            "summary": "Walk by the Footwise Window Display",
+            "summary": "Window On Art",
             "isActive": true,
-            "description": "Walk by the window display at Footwise to see Brittney West's most recent series of oil paintings and sculptures exploring our relationship with animals. (Note that her art studio will not be on this month's walk)",
-            "photoUrl": "brittney-west.jpg"
+            "description": "For the Window on Art project, Madelaine Corbin's SHOWROOM IV project explores the notion of display and the perceived public and private worlds displays exist in. The two spheres of the public and the private, and the space between the two, is intensely curated, altered, and disguised. Objects are used as items on display to describe, suggest, or project a lifestyle or an identity. Instead of looking at the objects however, SHOWROOM IV examines the hidden and constructed lifestyle by placing that very life on display. What happens when a private life is placed in a public context?",
+            "photoUrl": "footwise.jpg"
         },
         {
             "id": "foundry-annex",
@@ -111,10 +126,10 @@
                 "lat": 44.563465,
                 "lng": -123.262208
             },
-            "summary": "Gunpowder Mapping",
+            "summary": "Gunpowder Collaborative",
             "isActive": true,
-            "description": "Mississippi River - Gunpowder and ink on paper. Gunpowder is ignited over a stencil. The project explores the precision and patience required to create a stencil, and the immediacy and chaos of explosives. Collaboration and participation are themes of this map focused exhibit.",
-            "photoUrl": "foundry.jpg"
+            "description": "Nick Martinelli & Christopher Adams have teamed up to create screen printing + gunpowder prints depicting NW volcanoes.",
+            "photoUrl": ""
         },
         {
             "id": "jeff-hess",
@@ -124,11 +139,24 @@
                 "lat": 44.563769,
                 "lng": -123.263193
             },
-            "summary": "Invasive Species Potluck - an art show",
-            "description": "Ugly Art Room is proud to present \"Invasive Species Potluck\" an art show alongside a new dandelion sculpture by studio host and artist Jeff Hess.\n\nParticipating artists include: Lisa Bauer, Maren Burck, Martin Esteves, Hannah Lamar, Allison Maletz, Jen G. Pywell & Michael Sherman.  \n\nThe strong, the powerful, the fittest, the survivors, the despised, the hated, the condemned. In this art show potluck, participating artists present a chosen invasive species depicted in all its vilified glory. \n\nSnacks & Libations courtesy of Emerson Vineyards.",
-            "photoUrl": "",
+            "summary": "Self-Portrait",
+            "description": "Artwork mailed in for Ugly Art Room's monthly mail art challenge will be displayed. UAR curator Jen G. Pywell and The Arts Center's curator Hester Coucke have opened all work on camera and created a online video commenting on each chosen piece. The work sent in from artists all over the country as well as international pieces are not seen by the curators beforehand so there is a sense of surprise as well as on the spot in real time conversation as each piece is opened.",
+            "photoUrl": "jeff-hess.jpg",
             "hours": "5-8 p.m.",
             "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kaleidoscope Studios",
+            "address": "341 SW 2nd St, Suite 2",
+            "geocode": {
+                "lat": 44.561258,
+                "lng": -123.261147
+            },
+            "summary": "Art & Poetry",
+            "description": "Kaleidoscope Studios jumps in on the play between poets and visual artists and invites them to toss in a dash of levity!",
+            "isActive": true,
+            "photoUrl": "kaleidoscope.jpg"
         },
         {
             "id": "karen-wysopal",
@@ -138,10 +166,10 @@
                 "lat": 44.563881,
                 "lng": -123.262926
             },
-            "summary": "Tree Bark Studies Past and Present",
+            "summary": "Alcohol Ink Paintings",
             "isActive": true,
-            "description": "My work on large scale alcohol ink painting continues. This month's show: \"Thick Skinned: Tree Bark Studies Past and Present.\"   While creating recent tree bark studies in alcohol ink, I realized this subject has been a theme in my art for some years.  See the entire collection during this month's open studio.  There will be prints and cards for sale as well as original artwork. Come on by!",
-            "photoUrl": ""
+            "description": "I enjoy the lack of predictability and control inherent in the combination of alcohol ink on yupo paper.  No brushwork is used in my process.  Inks are applied directly from bottle to paper, then blended and moved using plastic straws, paper towels, breeze, and gravity.  My goal is to allow the ink to move and blend organically, while finding the right moment to impose myself upon it.  I experience the process as a dance, and a meditation, the desired balance of give and take with the medium being a metaphor for life.  I can’t imagine a more rewarding way to spend my time!",
+            "photoUrl": "karen-wysopal.jpg"
         },
         {
             "id": "living-room",
@@ -151,9 +179,9 @@
                 "lat": 44.563881,
                 "lng": -123.262926
             },
-            "summary": "A series of new paintings by Angela Waetje",
+            "summary": "Pretty in Bleak",
             "isActive": true,
-            "description": "Celebrate women's history month with a mythic feminist hero cycle in five paintings.",
+            "description": "Funny, morbid, surreal, and deeply moving works created with various printmaking techniques by Corvallis resident, Vesper White. A retrospective.",
             "photoUrl": "living-room.jpg"
         },
         {
@@ -165,9 +193,9 @@
                 "lat": 44.563638,
                 "lng": -123.259978
             },
-            "summary": "L'art des Femmes",
-            "description": "Join us as we celebrate Women's History Month with an all-female art show focused on the \"Female Experience\".",
-            "photoUrl": "",
+            "summary": "Wonderland",
+            "description": "Take a walk through Wonderland and explore new and original works inspired by the literary classics, Alice in Wonderland and Through the Looking Glass. Wonderland engages the imagination through new interpretations of the much loved story and kicks off two months of Alice in Wonderland themed events in celebration of our upcoming production.",
+            "photoUrl": "majestic.jpg",
             "isActive": true
         },
         {
@@ -178,8 +206,8 @@
                 "lat": 44.561185,
                 "lng": -123.261147
             },
-            "summary": "A Plethora of Crows",
-            "description": "\"A Plethora of Crows,\" a collaborative exhibit by photographer, Don Ferguson and painter, Bill Shumway. It is a display of photographs, paintings and artwork employing both mediums. They have been engaged in this collaborative process for most of 2015, mostly for the love of it, but also to put an exhibit together and to develop a set of workshops to teach photography and painting students how to produce collaborative imagery. They chose crows as a subject because they are so expressive, mythological and they have both been intrigued by them for years.",
+            "summary": "Annual Art & Poetry Exhibit",
+            "description": "Each year artists and poets gather at the gallery to share how they experience the world around them and the synergy of artists articulating in many mediums.",
             "isActive": true,
             "photoUrl": "pegasus.jpg"
         },
@@ -191,11 +219,11 @@
                 "lat": 44.561314,
                 "lng": -123.261465
             },
-            "summary": "Watch Laurel continue to develop the studio mural! Live painting and demos during the artwalk 6-8pm.",
-            "description": "View Rachel’s ongoing series of intuitive paintings, expressive & abstract, with an edgy quality. Come see her unique style up close and watch as she demonstrates a few of her techniques throughout the evening. Watch Laurel continue to develop the studio mural as she Live-Paints during the artwalk 6-8pm.",
+            "summary": "Down the Rabbit Hole",
+            "description": "Take a trip down the rabbit hole, and visit Laurel and Rachel in their own little Wonderland! The arrival of spring has been an incredible inspiration to both artists, and new paintings and mural art will be waiting. The giant coloring pages will also be back, and need your help coloring them in.",
             "photoUrl": "",
             "isActive": true,
-            "hours": "6-8 p.m."
+            "hours": ""
         },
         {
             "id": "studio-beatrice",
@@ -206,8 +234,8 @@
                 "lat": 44.566827,
                 "lng": -123.263545
             },
-            "summary": "Celtic Spring - Wearing of the Green",
-            "description": "\"Celtic Spring - Wearing of the Green\" An apparel exhibit featuring Jan E O Jewelry: bold, organic tribal designs inspired by nature, and  Jenanigans: one of a kind straw hats for the garden or the garden party created using traditional millinery techniques. Reception includes music by Marshall Adams.",
+            "summary": "Acryllic paintings by Donna Beverly and Sculture by Skip Horton.  Music by Marshall Adams, libations by Spindrift Cellars.",
+            "description": "Donna Beverly and Husband Skip Horton will display her 2D and His 3D art, while Marshall Adams entertain us with music.  Refreshments include wine-tasting by Kathi from Spindrift Cellars.",
             "isActive": true
         },
         {
@@ -218,9 +246,9 @@
                 "lat": 44.563996,
                 "lng": -123.26244
             },
-            "summary": "Art is for Everyone",
-            "description": "Sign-up for our community art show, Bicycles & Boards or for our Mini Art Gallery where all art is 5x5x5 inches or smaller - all while enjoying the musical looping talents of Magic Mama!",
-            "photoUrl": "",
+            "summary": "Boards & Bicycles",
+            "description": "Artist reception for \"Boards & Bicycles\", an open community art show with guest artist Nicholas Dudek talking about his work and Hooda LMTD clothing, art, and culture.",
+            "photoUrl": "studio262.jpg",
             "isActive": true
         }
     ]
