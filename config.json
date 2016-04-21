@@ -250,6 +250,19 @@
             "description": "Artist reception for \"Boards & Bicycles\", an open community art show with guest artist Nicholas Dudek talking about his work and Hooda LMTD clothing, art, and culture.",
             "photoUrl": "studio262.jpg",
             "isActive": true
+        },
+        {
+            "id": "voices-gallery",
+            "name": "Voices Gallery",
+            "address": "425 SW Madison Ave (upstairs)",
+            "geocode": {
+                "lat": 44.563871,
+                "lng": -123.262889
+            },
+            "summary": "Purple",
+            "photoUrl": "",
+            "isActive": true,
+            "description": "7 Artists will be featured in the PURPLE show.   Works will include a watercolor landscapes from Sharon Rackham King & Trey Phillips, acrylic sea life painting by Marnie Ernst Zoa, a few unique creations from Guinan;s gallery out of Portland, Xion Zoa will showcase his handmade instruments and Llloyd Braunberger will have a table of beautiful handmade wearable chain-mail art. Come explore PURPLE with us!"
         }
     ]
 }

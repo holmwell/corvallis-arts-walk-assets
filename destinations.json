@@ -90,19 +90,6 @@
             "isActive": true
         },
         {
-            "id": 0,
-            "name": "The Corvallis Advocate Loft",
-            "address": "425 SW Madison Ave (upstairs)",
-            "geocode": {
-                "lat": 44.563871,
-                "lng": -123.262889
-            },
-            "summary": "Surrealist Cyrus Peery has been quite popular at the loft, so this month he's been asked back to exhibit a mix of new and prior work.",
-            "photoUrl": "advocate.jpg",
-            "isActive": false,
-            "description": "Surrealist Cyrus Peery has been quite popular at the loft, so this month he's been asked back for an exhibit mixing new and prior work. .Check out The Advocate for surprise guests too.\n\nTreats will be served.  Open 4 pm to 8 pm."
-        },
-        {
             "id": "corvallis-multi-lit-center",
             "name": "Corvallis Multicultural Literacy Center",
             "address": "128 SW 9th Street",
@@ -353,6 +340,19 @@
             "summary": "Come watch Harry McManus demonstrate wood turning. Featuring local handcrafted sweets by Melarova Baking and ginger liqueur by Spiritopia.",
             "photoUrl": "teal.jpg",
             "isActive": false
+        },
+        {
+            "id": "voices-gallery",
+            "name": "Voices Gallery",
+            "address": "425 SW Madison Ave (upstairs)",
+            "geocode": {
+                "lat": 44.563871,
+                "lng": -123.262889
+            },
+            "summary": "Purple",
+            "photoUrl": "",
+            "isActive": true,
+            "description": "7 Artists will be featured in the PURPLE show.   Works will include a watercolor landscapes from Sharon Rackham King & Trey Phillips, acrylic sea life painting by Marnie Ernst Zoa, a few unique creations from Guinan;s gallery out of Portland, Xion Zoa will showcase his handmade instruments and Llloyd Braunberger will have a table of beautiful handmade wearable chain-mail art. Come explore PURPLE with us!"
         }
     ]
 }
