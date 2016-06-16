@@ -33,8 +33,8 @@
                 "lat": 44.5628093,
                 "lng": -123.2603014
             },
-            "summary": "Natural Woman",
-            "description": "\"Natural Woman\" is an exciting new show by Katheryn Byram featuring sculptures created from found objects. Katheryn's work is inspired by nature, and created with her extraordinary imagination.  Art in the Valley will host a tasty reception.",
+            "summary": "Coast to Coast Landscape",
+            "description": "Russ was trained as an electrical engineer and started his career with Southern Cal Edison Power Company. He shortly realized that this would not be his life's work, and was soon hired as a physics professor with the LA Community College system. After 27 years teaching, Russ retired, moved to Corvallis and worked as an artistic blacksmith, creating drawer pulls, drapery rods and other ironwork art. \n\nIn 1986 Russ discovered Vistas and Vineyards and was soon doing pen and pencil drawings. Russ tried watercolor, and has found his passion in oil painting. He has served 11 years as artist in residence at Tumacacori National Historical Park in southern Arizona.",
             "isActive": true
         },
         {
@@ -45,10 +45,10 @@
                 "lat": 44.5643109,
                 "lng": -123.266023
             },
-            "summary": "Sumi Ink Club",
-            "description": "Back by popular demand: Sumi Ink Club: a fun shared unplanned drawing with sumi ink, made with small brushes on a long roll of paper, everybody \"owns\" the drawing/painting. Build on what others did before, creating new beginnings, it is an ever changing, ever evolving communal work of art. Although it is mostly about the process, it also gives an amazing result!",
+            "summary": "IMAGINE",
+            "description": "TAC will host a reception for artists from IMAGINE exhibit, Wes Cropper, Jim Hockenhull and Lorraine Richey. They are showing prints made with digital tools in very different processes, and consequently with different feel in the work.  They are –still- presenting limited prints, traditionally framed and presented in the same manner as intaglio prints and serigraphs historically have been.",
             "isActive": true,
-            "photoUrl": "arts-center.jpg"
+            "photoUrl": ""
         },
         {
             "id": 2,
@@ -58,10 +58,10 @@
                 "lat": 44.564372,
                 "lng": -123.262252
             },
-            "summary": "Telepathy Quilt and Two Stars",
-            "photoUrl": "art-works.jpg",
+            "summary": "Francisco Morales",
+            "photoUrl": "",
             "isActive": true,
-            "description": "Anna Fidler\n​Telepathy Quilt and Two Stars\nOpening Reception Thursday May 19, 4-8pm (a part of the CAW)\n​ArtWorks (CEI) Gallery\n​408 SW Monroe Ave/161, Corvallis OR\n​Project Space: \"Dessert Desert\" by Tropical Contemporary"
+            "description": "Francisco Morales  Serie de Expansi`on ArtWorks (CEI) Gallery June 16-july 11 408 SW Monroe Ave, Suite 110  More info: bruce@cieworks.org"
         },
         {
             "id": "azure",
@@ -71,8 +71,8 @@
                 "lat": 44.561371,
                 "lng": -123.261053
             },
-            "summary": "Rime and Reason",
-            "description": "In May we welcome Portland based artist and curator Chris Haberman and his recent works based on songs, poems and prose.",
+            "summary": "At the Heat of it All",
+            "description": "Batik & encaustic artist Shari Carlson breaks the rules of tradition to achieve vibrant colors, minute details & flowing lines culminating in a story that will touch you.  Every animal has a story and each batik and encaustic sculpture includes the narrative of her experience with it.",
             "isActive": true,
             "photoUrl": ""
         },
@@ -87,7 +87,7 @@
             "summary": "Nature-Inspired Art",
             "description": "View Britt's new artwork created at an art retreat at Shotpouch Creek Cabin inspired by the land and wildlife, including works painted with grass, moss and horsetail. See vintage material created into mixed media paintings featuring lush overgrowth!",
             "photoUrl": "brittney-west.jpg",
-            "isActive": true
+            "isActive": false
         },
         {
             "id": "corvallis-multi-lit-center",
@@ -113,7 +113,7 @@
             },
             "summary": "Swing dancing at Old World Deli",
             "description": "We will be dancing on stage at the Old World Deli as part of the monthly Corvallis Arts Walk!! \n\nOur time will be short but sweet. Let's dance and celebrate together!!",
-            "isActive": true
+            "isActive": false
         },
         {
             "id": "corvidopolis",
@@ -135,8 +135,8 @@
                 "lat": 44.561122,
                 "lng": -123.260822
             },
-            "summary": "OHNA:  Japanese dyed silks",
-            "description": "Cyrano's Hosts Artist Siobhan Clancy-Burns, Silk scarves dyed in the tradition of Japanese Shibori patterns of Arashi and Itajime. Multiple colors and patterns, come get wrapped up in this artist medium!",
+            "summary": "Favorite Games",
+            "description": "Cyrano's, taking on favorite games and transforming them into …. books, jewelry, prints,  and sculptures.  Come in and throw the dice or  spin the wheel to see what you might win!",
             "isActive": true,
             "photoUrl": ""
         },
@@ -149,9 +149,9 @@
                 "lat": 44.5648582,
                 "lng": -123.2804139
             },
-            "summary": "Ben Buswell   \"No Sky\"",
-            "description": "Ben Buswell, award-winning sculptor and multimedia artist, will exhibit embellished photographs, mixed media drawings, sculpture and acrylic on canvas in the Fairbanks Gallery on the OSU campus in Corvallis May 2 through May 25.\n\nOn Wednesday, May 4, he will give a talk in Fairbanks Gallery at 5 p.m. A reception will be held prior to the talk at 4:30 p.m. The event is free and open to the public. Buswell also will speak in art classes and critique student work that day.\n\nBuswell, a native of Dallas, Oregon, received a bachelor of fine arts from OSU in 2001. He went on to study at the University of Wisconsin, Madison, where he earned a master’s degree in 2004 and a master’s in fine art in 2005.\n\nHis work is temporal in nature, spanning a variety of media, from ceramics to incised photographs, using processes such as doubling and repetitive mark-making.",
-            "photoUrl": "fairbanks.jpg",
+            "summary": "OSU Art Faculty",
+            "description": "A diversity of styles and approaches to art, with faculty members working in the areas of photography, painting, drawing, mixed media, printmaking, installation & video. Evan Baden, Michael Boonstra, Julia Bradshaw, Kay Campbell, Anna Fidler, Julie Green, Stephen Hayes, Yuji Hiratsuka, Shelley Jordon, Andy Myers, John Whitten and Kerry Skarbakka are included in this exhibit. Fairbanks Gallery is located in Fairbanks Hall, at the corner of SW Jefferson Way and 26th Street on the OSU campus.  Gallery hours are 8am-5pm, Monday through Friday. The exhibit closes after the closing reception on September 28.",
+            "photoUrl": "",
             "isActive": true
         },
         {
@@ -175,10 +175,10 @@
                 "lat": 44.563465,
                 "lng": -123.262208
             },
-            "summary": "Juliet Shen | WuXing",
+            "summary": "Hannah Lamar Koelbl",
             "isActive": true,
-            "description": "WuXing refers to the five interacting forces of Chinese cosmology. By basing each painting on one of these forces—wood, fire, earth, metal or water—I am free to experiment with abstract texture and pattern, color and connotation. The little size is important to my process, not only because I like to work with small brushes and richly pigmented inks, but because the snapshot composition is so liberating.\n\nJuliet Shen is a Seattle painter. She holds a Master's in typeface design from the University of Reading, England and creates work that utilizes a symbiosis between her drawing and typographic skills.",
-            "photoUrl": "foundry.jpg"
+            "description": "Ugly Art Room will present a solo show featuring the anatomical stitchings of NYC-based artist, Hannah Lamar Koelbl.\n\nHannah has been embroidering photographs, newspaper, and wax papers since 2007.\n\nIn 2012 she began a Master’s Program in Occupational Therapy and completed a gross anatomy dissection, an experience which inspired the recreation of illustrations from her textbook, Netter’s Anatomy, in drawing and embroidery.\n\nBased on an aesthetic preference, she has chosen to work with the female reproductive anatomy in particular, and to explore the many textural & visual layers, as well as the associations we draw upon.",
+            "photoUrl": ""
         },
         {
             "id": "jeff-hess",
@@ -188,9 +188,9 @@
                 "lat": 44.563769,
                 "lng": -123.263193
             },
-            "summary": "Temporal Painting",
-            "description": "Flowers, leaves, nuts and grain are treated like brushstrokes of light, texture & color in this exhibit of temporal painting photographs.  Using motors, pulleys and compressed air as \"brushes\", the unique qualities of natural materials are captured via photography.",
-            "photoUrl": "jeff-hess.jpg",
+            "summary": "Beth Barnett",
+            "description": "Feature exhibit - A selection of eclectic landscape oil paintings & quirky block printed work by local artist Beth Barnett.   Some new work by Jeff Hess on display as well.",
+            "photoUrl": "",
             "hours": "5-8 p.m.",
             "isActive": true
         },
@@ -202,10 +202,10 @@
                 "lat": 44.561258,
                 "lng": -123.261147
             },
-            "summary": "Art & Poetry",
-            "description": "Kaleidoscope Studios jumps in on the play between poets and visual artists and invites them to toss in a dash of levity!",
-            "isActive": false,
-            "photoUrl": "kaleidoscope.jpg"
+            "summary": "Summer of Play",
+            "description": "Kaleidoscope Studio will have mazes puzzles games hide and seek fun creative exercises and challenges throughout the month and during the Art Walk",
+            "isActive": true,
+            "photoUrl": ""
         },
         {
             "id": "karen-wysopal",
@@ -215,9 +215,9 @@
                 "lat": 44.563881,
                 "lng": -123.262926
             },
-            "summary": "that landscape lady",
+            "summary": "Summer Color",
             "isActive": true,
-            "description": "Karen's delightful studio is holding an open house, down the hall from Voices Gallery.",
+            "description": "Colorful works in alcohol ink and acrylic. Stop by to see Karen's first 5-ft by 7-ft alcohol ink painting. New works in alcohol ink and acrylic texture studies on display and for sale.  Sign up for an alcohol ink painting workshop!",
             "photoUrl": ""
         },
         {
@@ -229,7 +229,7 @@
                 "lng": -123.262926
             },
             "summary": "Alice Marshall",
-            "isActive": true,
+            "isActive": false,
             "description": "Drawings by the accomplished local artist Alice Marshall",
             "photoUrl": ""
         },
@@ -269,10 +269,10 @@
                 "lat": 44.561185,
                 "lng": -123.261147
             },
-            "summary": "The Other Oregon",
-            "description": "Pegasus Gallery looks east to views of Oregon just beyond the valley bowl to big skies and deep valleys and breathtaking topography and wild horses rendered appreciatively b y artists Karen Miller, Sarah Strohmeyer, Bill Shumway and several local photographers.",
+            "summary": "A Playful Mind",
+            "description": "Pegasus Gallery hosts the aesthetically stunning digital illustrations by K Lars Lohn as he bravely explores his creative process with contemporary tools and includes some embedded playfulness for the mind.  Art and play are inescapable companions in his work and the outcome of his process results in a beautiful, thought-provoking and surprisingly satisfying visual experience. Kaleidoscope Studios, Cyrano's and the Old World Deli will be joining Pegasus to explore Art and Play with games, mazes, puzzles, mysteries throughout the month and some nifty creative challenges during the CAW.",
             "isActive": true,
-            "photoUrl": "pegasus.jpg"
+            "photoUrl": ""
         },
         {
             "id": "poptart",
@@ -296,8 +296,8 @@
                 "lat": 44.561314,
                 "lng": -123.261465
             },
-            "summary": "Dance-Painting",
-            "description": "Special performance art event this month: Local blues dancers will be joining us from 7-8pm to get their feet a little dirty... with paint!\n\nRachel Urista's colorful paintings, finished and unfinished, will also be on display.",
+            "summary": "When Mirrors Chase Sky",
+            "description": "Featuring Rachel's small paintings from  \"When Mirrors Chase Sky\" Series. Stroll in and view small paintings packed full of intense color, expressive line work and writing.\n\nExperience these small abstract paintings up close and personal as the pieces are paired with poems and notes from the artist.\n\nThe studio will also have original coloring books, prints and cards for sale.",
             "photoUrl": "",
             "isActive": true,
             "hours": ""
@@ -311,8 +311,8 @@
                 "lat": 44.566827,
                 "lng": -123.263545
             },
-            "summary": "Inky Fingers",
-            "description": "\"inky Fingers\" features an array of original, hand-pulled prints from a diverse group of printmakers (no giclees or reproductions).  A special surprise from the Cascade Print Exchange will be displayed, as we enjoy music by Marshall Adams and refreshment including libations by Kathi from Spindrift.",
+            "summary": "Local Color",
+            "description": "Studio Beatrice features local watercolor artist Molly Perry, showing her landscapes, florals and local attractions.  The work of many artists in a salon setting.  Marshall Adams adds music, Kathi brings libations from Spindrift Cellars.\n\nStudio Beatrice is also open Fridays 11-2 and by appointment\n beatrice.artwork@gmail.com",
             "isActive": true
         },
         {
@@ -323,9 +323,9 @@
                 "lat": 44.563996,
                 "lng": -123.26244
             },
-            "summary": "From Our View",
-            "description": "Opening Reception for our Photography Show, \"From Our View\" featuring the work of local 6-12 grade students! Music provided by local High School musicians. Come support the next generation of artists!",
-            "photoUrl": "studio262.jpg",
+            "summary": "The NeverEnding Story",
+            "description": "Local artist and Studio262 owner, Jennifer Lommers, is bringing back her NeverEnding Story series of 128 blocks of little art forming one large tree to be completed over the duration of the show, June 7 - July 27. Come watch her progress as she demonstrates during the Arts Walk!",
+            "photoUrl": "",
             "isActive": true
         },
         {
@@ -349,10 +349,10 @@
                 "lat": 44.563871,
                 "lng": -123.262889
             },
-            "summary": "Green",
-            "photoUrl": "voices.jpg",
+            "summary": "BLUE",
+            "photoUrl": "",
             "isActive": true,
-            "description": "Color inspires us - it surrounds us.  Each color has its own mood. \nVoices is exploring the color wheel in a 7 month long series.  May brings GREEN into focus.\nGreen Grass...Green Trees..Green flecks in the eyes of the people we see...New growth...\nfresh perspective...green is a color that should be respected!\n7 Artist will be exhibiting works - Please join the celebration!"
+            "description": "June brings blue into focus at Voices Gallery.  Blue in the sky, blue in the water.  Blue jays...blue bonnets...blue eye...blue jeans - Come to Voices in June and make the Blue Scene.  Voices is a 7 member galley on the third floor of Madison Square."
         }
     ]
 }
