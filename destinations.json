@@ -1,5 +1,5 @@
 {
-    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/05/",
+    "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/07/",
     "destinations": [
         {
             "id": "anything-but",
@@ -35,7 +35,7 @@
             },
             "summary": "Coast to Coast Landscape",
             "description": "Russ was trained as an electrical engineer and started his career with Southern Cal Edison Power Company. He shortly realized that this would not be his life's work, and was soon hired as a physics professor with the LA Community College system. After 27 years teaching, Russ retired, moved to Corvallis and worked as an artistic blacksmith, creating drawer pulls, drapery rods and other ironwork art. \n\nIn 1986 Russ discovered Vistas and Vineyards and was soon doing pen and pencil drawings. Russ tried watercolor, and has found his passion in oil painting. He has served 11 years as artist in residence at Tumacacori National Historical Park in southern Arizona.",
-            "isActive": true
+            "isActive": false
         },
         {
             "id": "arts-center",
@@ -45,8 +45,8 @@
                 "lat": 44.5643109,
                 "lng": -123.266023
             },
-            "summary": "IMAGINE",
-            "description": "TAC will host a reception for artists from IMAGINE exhibit, Wes Cropper, Jim Hockenhull and Lorraine Richey. They are showing prints made with digital tools in very different processes, and consequently with different feel in the work.  They are –still- presenting limited prints, traditionally framed and presented in the same manner as intaglio prints and serigraphs historically have been.",
+            "summary": "Imagine artist reception",
+            "description": "The Arts Center hosts a reception for IMAGINE.  The exhibit shows prints by Wes Cropper, Jim Hockenhull and Loraine Richey. All use digital tools to come to their end result, with Cropper working purely digital, Richey much more photo based and Hockenhull as a hybrid between the two approaches.",
             "isActive": true,
             "photoUrl": ""
         },
@@ -58,10 +58,10 @@
                 "lat": 44.564372,
                 "lng": -123.262252
             },
-            "summary": "Francisco Morales",
+            "summary": "Larry Hurst, What He Sees",
             "photoUrl": "",
             "isActive": true,
-            "description": "Francisco Morales  Serie de Expansi`on ArtWorks (CEI) Gallery June 16-july 11 408 SW Monroe Ave, Suite 110  More info: bruce@cieworks.org"
+            "description": "Larry Hurst                                                                                                                                                                   What He Sees                                                                                                                                                                   \nWorks by Eugene artist Larry Hurst at ArtWorks (CEI)                                                                                    Opening Reception: Thursday July 21, 4-8pm (part of CAW)                                                                                       408 SW Monroe Ave/161 Corvallis, OR                                                                                                                  Info: Bruce@ceiworks.org                                                                                                                                                                                                               outpost1000.weebly.com/larry-hurst.html                                                                                   artsandcultureeugene.org\nThanks to OSLP Arts & Culture for photo and support                                                                                                   and to guest curator Kris Askew"
         },
         {
             "id": "azure",
@@ -71,23 +71,23 @@
                 "lat": 44.561371,
                 "lng": -123.261053
             },
-            "summary": "At the Heat of it All",
-            "description": "Batik & encaustic artist Shari Carlson breaks the rules of tradition to achieve vibrant colors, minute details & flowing lines culminating in a story that will touch you.  Every animal has a story and each batik and encaustic sculpture includes the narrative of her experience with it.",
+            "summary": "Window on Art 2016",
+            "description": "Art and artists from the Window on Art project.  Ranging from exploratory to practiced and performance to photo this exhibit spans the entirety.  Artists include Christopher Adams, Tanner Henderson, Francisco Morales, Madelaine Corbin, Lauren Ohlgren, Katrina Henry and Lauren Sharpton.",
             "isActive": true,
             "photoUrl": ""
         },
         {
             "id": 5,
-            "name": "Brittney West",
+            "name": "Brittney West Studio",
             "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
             "geocode": {
                 "lat": 44.561378,
                 "lng": -123.261429
             },
-            "summary": "Nature-Inspired Art",
-            "description": "View Britt's new artwork created at an art retreat at Shotpouch Creek Cabin inspired by the land and wildlife, including works painted with grass, moss and horsetail. See vintage material created into mixed media paintings featuring lush overgrowth!",
-            "photoUrl": "brittney-west.jpg",
-            "isActive": false
+            "summary": "ABSURD ACTIVIST ARTWORK",
+            "description": "What happens when you mix absurdity, activism and artwork? Come see Britt's new paintings for yourselves! Spoiler: There will be googly eyes.",
+            "photoUrl": "",
+            "isActive": true
         },
         {
             "id": "corvallis-multi-lit-center",
@@ -137,20 +137,20 @@
             },
             "summary": "Favorite Games",
             "description": "Cyrano's, taking on favorite games and transforming them into …. books, jewelry, prints,  and sculptures.  Come in and throw the dice or  spin the wheel to see what you might win!",
-            "isActive": true,
+            "isActive": false,
             "photoUrl": ""
         },
         {
             "id": "fairbanks",
             "name": "Fairbanks Art Gallery",
             "address": "220 SW 26th St",
-            "hours": "5-6:45 p.m.",
+            "hours": "",
             "geocode": {
                 "lat": 44.5648582,
                 "lng": -123.2804139
             },
-            "summary": "OSU Art Faculty",
-            "description": "A diversity of styles and approaches to art, with faculty members working in the areas of photography, painting, drawing, mixed media, printmaking, installation & video. Evan Baden, Michael Boonstra, Julia Bradshaw, Kay Campbell, Anna Fidler, Julie Green, Stephen Hayes, Yuji Hiratsuka, Shelley Jordon, Andy Myers, John Whitten and Kerry Skarbakka are included in this exhibit. Fairbanks Gallery is located in Fairbanks Hall, at the corner of SW Jefferson Way and 26th Street on the OSU campus.  Gallery hours are 8am-5pm, Monday through Friday. The exhibit closes after the closing reception on September 28.",
+            "summary": "OSU Art Faculty Exhibit",
+            "description": "Oregon State University’s Fairbanks Gallery is hosting a summer-long art faculty exhibit at Fairbanks Gallery from June 14 through September 28.\n\nThe exhibit will be in Fairbanks Hall, 220 S.W. 26th St., on the OSU campus. It will include work by Evan Baden, Michael Boonstra, Julia Bradshaw, Kay Campbell, Anna Fidler, Julie Green, Stephen Hayes, Yuji Hiratsuka, Shelley Jordon, Andy Myers, Kerry Skarbakka and John Whitten.\n\nA broad array of styles and approaches to creating art will be featured, in photography, painting, drawing, mixed media, printmaking and video.\n\nGallery hours are 8 a.m. to 5 p.m., Monday through Friday, with extra hours during the Corvallis Arts Walk. A closing reception, open to the public, will be held from 4:30-5:30 p.m. on Sept. 28.",
             "photoUrl": "",
             "isActive": true
         },
@@ -176,7 +176,7 @@
                 "lng": -123.262208
             },
             "summary": "Hannah Lamar Koelbl",
-            "isActive": true,
+            "isActive": false,
             "description": "Ugly Art Room will present a solo show featuring the anatomical stitchings of NYC-based artist, Hannah Lamar Koelbl.\n\nHannah has been embroidering photographs, newspaper, and wax papers since 2007.\n\nIn 2012 she began a Master’s Program in Occupational Therapy and completed a gross anatomy dissection, an experience which inspired the recreation of illustrations from her textbook, Netter’s Anatomy, in drawing and embroidery.\n\nBased on an aesthetic preference, she has chosen to work with the female reproductive anatomy in particular, and to explore the many textural & visual layers, as well as the associations we draw upon.",
             "photoUrl": ""
         },
@@ -192,7 +192,7 @@
             "description": "Feature exhibit - A selection of eclectic landscape oil paintings & quirky block printed work by local artist Beth Barnett.   Some new work by Jeff Hess on display as well.",
             "photoUrl": "",
             "hours": "5-8 p.m.",
-            "isActive": true
+            "isActive": false
         },
         {
             "id": 3,
@@ -204,7 +204,7 @@
             },
             "summary": "Summer of Play",
             "description": "Kaleidoscope Studio will have mazes puzzles games hide and seek fun creative exercises and challenges throughout the month and during the Art Walk",
-            "isActive": true,
+            "isActive": false,
             "photoUrl": ""
         },
         {
@@ -215,9 +215,9 @@
                 "lat": 44.563881,
                 "lng": -123.262926
             },
-            "summary": "Summer Color",
+            "summary": "New Works",
             "isActive": true,
-            "description": "Colorful works in alcohol ink and acrylic. Stop by to see Karen's first 5-ft by 7-ft alcohol ink painting. New works in alcohol ink and acrylic texture studies on display and for sale.  Sign up for an alcohol ink painting workshop!",
+            "description": "New works in Alcohol Ink and High Textured Acrylic Paintings",
             "photoUrl": ""
         },
         {
@@ -228,9 +228,9 @@
                 "lat": 44.563881,
                 "lng": -123.262926
             },
-            "summary": "Alice Marshall",
-            "isActive": false,
-            "description": "Drawings by the accomplished local artist Alice Marshall",
+            "summary": "Long Distance",
+            "isActive": true,
+            "description": "Two lovers, united over 1300 miles in the town where they first met.  Paintings by Grace Noel and Nicholas Campbell.",
             "photoUrl": ""
         },
         {
@@ -242,10 +242,10 @@
                 "lat": 44.563638,
                 "lng": -123.259978
             },
-            "summary": "Wonderland",
-            "description": "Take a walk through Wonderland and explore new and original works inspired by the literary classics, Alice in Wonderland and Through the Looking Glass. Wonderland engages the imagination through new interpretations of the much loved story and kicks off two months of Alice in Wonderland themed events in celebration of our upcoming production.",
-            "photoUrl": "majestic.jpg",
-            "isActive": false
+            "summary": "ART•BORETUM",
+            "description": "For centuries, plant-life has captured the hearts and minds of artists. Flora has been used as symbols, decorative elements, and subjects of masterpieces. During the month of July, we turn our attention to the green lives that grow all around us. We call upon local artists to help us turn our gallery into a botanical art garden.",
+            "photoUrl": "",
+            "isActive": true
         },
         {
             "id": "humanities",
@@ -263,14 +263,14 @@
         },
         {
             "id": "pegasus",
-            "name": "Pegasus Gallery",
+            "name": "Pegasus",
             "address": "341 SW 2nd St",
             "geocode": {
                 "lat": 44.561185,
                 "lng": -123.261147
             },
-            "summary": "A Playful Mind",
-            "description": "Pegasus Gallery hosts the aesthetically stunning digital illustrations by K Lars Lohn as he bravely explores his creative process with contemporary tools and includes some embedded playfulness for the mind.  Art and play are inescapable companions in his work and the outcome of his process results in a beautiful, thought-provoking and surprisingly satisfying visual experience. Kaleidoscope Studios, Cyrano's and the Old World Deli will be joining Pegasus to explore Art and Play with games, mazes, puzzles, mysteries throughout the month and some nifty creative challenges during the CAW.",
+            "summary": "Window on Art 2016",
+            "description": "Art and artists from the Window on Art project.  Ranging from exploratory to practiced and performance to photo this exhibit spans the entirety.  Artists include Christopher Adams, Tanner Henderson, Francisco Morales, Madelaine Corbin, Lauren Ohlgren, Katrina Henry and Lauren Sharpton.",
             "isActive": true,
             "photoUrl": ""
         },
@@ -297,7 +297,7 @@
                 "lng": -123.261465
             },
             "summary": "When Mirrors Chase Sky",
-            "description": "Featuring Rachel's small paintings from  \"When Mirrors Chase Sky\" Series. Stroll in and view small paintings packed full of intense color, expressive line work and writing.\n\nExperience these small abstract paintings up close and personal as the pieces are paired with poems and notes from the artist.\n\nThe studio will also have original coloring books, prints and cards for sale.",
+            "description": "View Rachel’s small paintings from  \"When Mirrors Chase Sky\" Series, packed with intense color & writing & New huge coloring pages from Laurel!",
             "photoUrl": "",
             "isActive": true,
             "hours": ""
@@ -311,8 +311,8 @@
                 "lat": 44.566827,
                 "lng": -123.263545
             },
-            "summary": "Local Color",
-            "description": "Studio Beatrice features local watercolor artist Molly Perry, showing her landscapes, florals and local attractions.  The work of many artists in a salon setting.  Marshall Adams adds music, Kathi brings libations from Spindrift Cellars.\n\nStudio Beatrice is also open Fridays 11-2 and by appointment\n beatrice.artwork@gmail.com",
+            "summary": "Porcelain Pottery",
+            "description": "Dale Donovan has an array of new porcelain pottery fresh out of the kiln to show us this month.  Music by Marshall Adams and Wine tasting by Spindrift Cellars.  And plenty of surprises you won't want to miss!",
             "isActive": true
         },
         {
@@ -324,9 +324,10 @@
                 "lng": -123.26244
             },
             "summary": "The NeverEnding Story",
-            "description": "Local artist and Studio262 owner, Jennifer Lommers, is bringing back her NeverEnding Story series of 128 blocks of little art forming one large tree to be completed over the duration of the show, June 7 - July 27. Come watch her progress as she demonstrates during the Arts Walk!",
+            "description": "Watch the NeverEnding story by Studio262 owner, Jennifer Lommers, come to a close as the final pieces of her latest series fill the gallery wall with 128 pieces of art. Painting, music, and treats to celebrate the evening. Stop in and enjoy her story and the sight of her big, magical tree!",
             "photoUrl": "",
-            "isActive": true
+            "isActive": true,
+            "hours": "4-9 p.m."
         },
         {
             "id": "teal",
@@ -349,10 +350,10 @@
                 "lat": 44.563871,
                 "lng": -123.262889
             },
-            "summary": "BLUE",
+            "summary": "RED",
             "photoUrl": "",
             "isActive": true,
-            "description": "June brings blue into focus at Voices Gallery.  Blue in the sky, blue in the water.  Blue jays...blue bonnets...blue eye...blue jeans - Come to Voices in June and make the Blue Scene.  Voices is a 7 member galley on the third floor of Madison Square."
+            "description": "Red is the color of Passion and the artists of Voices Gallery are excited to share their red inspirations with you."
         }
     ]
 }
