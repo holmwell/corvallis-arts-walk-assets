@@ -347,8 +347,8 @@
             "name": "Voices Gallery",
             "address": "301 SW 4th St, Suite 160",
             "geocode": {
-                "lat": 44.562171,
-                "lng": -123.2633522
+                "lat": 44.562193, 
+                "lng": -123.262859
             },
             "summary": "RED",
             "photoUrl": "",
