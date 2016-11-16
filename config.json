@@ -164,10 +164,10 @@
         {
             "id": "voices-gallery",
             "name": "Voices Gallery",
-            "address": "425 SW Madison Ave (upstairs)",
+            "address": "301 SW 4th St, Suite 160",
             "geocode": {
-                "lat": 44.563871,
-                "lng": -123.262889
+                "lat": 44.562171,
+                "lng": -123.2633522
             },
             "summary": "RED",
             "photoUrl": "",
