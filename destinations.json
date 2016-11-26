@@ -210,10 +210,10 @@
         {
             "id": "karen-wysopal",
             "name": "Karen Wysopal Studio",
-            "address": "425 SW Madison Ave (upstairs)",
+            "address": "230 SW 3rd St., #208A (upstairs)",
             "geocode": {
-                "lat": 44.563881,
-                "lng": -123.262926
+                "lat": 44.562877, 
+                "lng": -123.261796
             },
             "summary": "New Works",
             "isActive": true,
