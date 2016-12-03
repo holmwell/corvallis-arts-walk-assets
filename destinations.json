@@ -33,8 +33,8 @@
                 "lat": 44.5628093,
                 "lng": -123.2603014
             },
-            "summary": "Coast to Coast Landscape",
-            "description": "Russ was trained as an electrical engineer and started his career with Southern Cal Edison Power Company. He shortly realized that this would not be his life's work, and was soon hired as a physics professor with the LA Community College system. After 27 years teaching, Russ retired, moved to Corvallis and worked as an artistic blacksmith, creating drawer pulls, drapery rods and other ironwork art. \n\nIn 1986 Russ discovered Vistas and Vineyards and was soon doing pen and pencil drawings. Russ tried watercolor, and has found his passion in oil painting. He has served 11 years as artist in residence at Tumacacori National Historical Park in southern Arizona.",
+            "summary": "\"Imagine\"",
+            "description": "\"Art in the Valley offers a shop full of \"\"eye candy\"\" this holiday season. Treats from local artists abound. \n\nFeatured  exhibit, \"\"Imagine\"\", showcases new work by oil painter Beatrice Rubenfeld, who delights in the beauty that's out there and translates it into her own vision. Color and nature inspire, the medium is her muse.\"",
             "isActive": true
         },
         {
@@ -45,8 +45,8 @@
                 "lat": 44.5643109,
                 "lng": -123.266023
             },
-            "summary": "Imagine artist reception",
-            "description": "The Arts Center hosts a reception for IMAGINE.  The exhibit shows prints by Wes Cropper, Jim Hockenhull and Loraine Richey. All use digital tools to come to their end result, with Cropper working purely digital, Richey much more photo based and Hockenhull as a hybrid between the two approaches.",
+            "summary": "Playing With Wings and Things",
+            "description": "Interactive Activities at With Wings and Tails:\n\nWhy are we drawn to Animals? We marvel at images of animals in nature. The Arts Center presents an opportunity for hands on art & collage making at CAW event. For the rest of the year collages, drawings and paintings made at CAW will be exhibited in an impromptu exhibit With Wings and Tails Annex in the Corrine Woodman Gallery II through Saturday December 31. (pick up January3)\n\nArt supplies provided.\n\nResearchers at Caltech found that our brains “fire” when we see an animal — a dog, a spider, a mouse — but not a person, place or object. The region in the brain is the amygdala, an almond-shaped area associated with emotions. To see if the scientific research is correct, to engage you with animal life of all sorts, to create a moment of that emotion in your brain\n\nSome of the work in With Wings and Tails is sweet and endearing; some addresses animal life in a more realistic way. They can all serve as inspiration for active participation and engagement\n\nLocal and regional artists were invited to share their animal friends. They connect and depict animals in a range of media and styles.",
             "isActive": true,
             "photoUrl": ""
         },
@@ -58,10 +58,10 @@
                 "lat": 44.564372,
                 "lng": -123.262252
             },
-            "summary": "Larry Hurst, What He Sees",
+            "summary": "Cara Tomlinson: Props and Propositions",
             "photoUrl": "",
             "isActive": true,
-            "description": "Larry Hurst                                                                                                                                                                   What He Sees                                                                                                                                                                   \nWorks by Eugene artist Larry Hurst at ArtWorks (CEI)                                                                                    Opening Reception: Thursday July 21, 4-8pm (part of CAW)                                                                                       408 SW Monroe Ave/161 Corvallis, OR                                                                                                                  Info: Bruce@ceiworks.org                                                                                                                                                                                                               outpost1000.weebly.com/larry-hurst.html                                                                                   artsandcultureeugene.org\nThanks to OSLP Arts & Culture for photo and support                                                                                                   and to guest curator Kris Askew"
+            "description": "My work has a variety of overlapping concerns, exploring construction and evolution of self, boundaries of subjectivity, and the interconnection of self and environment through a grounding in material, process and the history of painting.  \n\nIn dialog with the long and varied tradition of modernist abstraction, I explore the intersection between painting and sculpture and the extension of painterly language into dimensional applications. \n\nThe role the studio plays in my work is both structural and theoretical—it becomes the subject of the work as well as the frame for the process. Much of my recent work arises out of paying attention to the ecology, evolution and residue of the studio process and reusing and re-purposing material left over from other processes. \n\nThis work is formally driven and playful-- studio objects co-exist with painted surfaces. These forms interbreed and engage each other. Objects influence paintings and paintings become inspiration for objects."
         },
         {
             "id": "azure",
@@ -77,6 +77,20 @@
             "photoUrl": ""
         },
         {
+            "id": "bison-bison",
+            "name": "Bison bison!",
+            "address": "354 SW Madison Ave",
+            "geocode": {
+                "lat": 44.563465,
+                "lng": -123.262208
+            },
+            "summary": "Muriel Condon | Recent Works",
+            "isActive": true,
+            "description": "The Micro Gallery at Bison bison! will be hosting (recently) local artist Muriel Condon with a collection of small works in graphite and colored pencil. \n\nHer work creates scenes without context,  focusing on unexpected juxtapositions of everyday objects. With seeming intention, Muriel works between realistic and impressionist representation, placing and choosing objects with a purpose–though imparting meaning is left to the observer. \n\nArtist reception will be during the Arts Walk from 5-9 pm.",
+            "photoUrl": "",
+            "hours": "5-9 p.m."
+        },
+        {
             "id": 5,
             "name": "Brittney West Studio",
             "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
@@ -84,8 +98,8 @@
                 "lat": 44.561378,
                 "lng": -123.261429
             },
-            "summary": "ABSURD ACTIVIST ARTWORK",
-            "description": "What happens when you mix absurdity, activism and artwork? Come see Britt's new paintings for yourselves! Spoiler: There will be googly eyes.",
+            "summary": "New Activist Artwork",
+            "description": "Affordable Eco-Prints starting at just $15 and original art for sale--perfect for holiday gifts! Come see new additions to West's “Animal Activist Artwork” series as well. Pick the artist's brain, enjoy the ambiance and good company—all are welcome!",
             "photoUrl": "",
             "isActive": true
         },
@@ -149,8 +163,8 @@
                 "lat": 44.5648582,
                 "lng": -123.2804139
             },
-            "summary": "OSU Art Faculty Exhibit",
-            "description": "Oregon State University’s Fairbanks Gallery is hosting a summer-long art faculty exhibit at Fairbanks Gallery from June 14 through September 28.\n\nThe exhibit will be in Fairbanks Hall, 220 S.W. 26th St., on the OSU campus. It will include work by Evan Baden, Michael Boonstra, Julia Bradshaw, Kay Campbell, Anna Fidler, Julie Green, Stephen Hayes, Yuji Hiratsuka, Shelley Jordon, Andy Myers, Kerry Skarbakka and John Whitten.\n\nA broad array of styles and approaches to creating art will be featured, in photography, painting, drawing, mixed media, printmaking and video.\n\nGallery hours are 8 a.m. to 5 p.m., Monday through Friday, with extra hours during the Corvallis Arts Walk. A closing reception, open to the public, will be held from 4:30-5:30 p.m. on Sept. 28.",
+            "summary": "Montage",
+            "description": "Montage Collective is a student-run arts organization of Oregon State University that seeks to both foster camaraderie among artists, as well as promote the arts on and off campus. The annual Montage juried exhibit draws from a pool of OSU students of all majors, traditionally providing a wide spectrum of work in matters of genre, background and intention. \n\nThis year features juror Bruce Burris, who has made a career of establishing programs that provide various supports for artists who are considered to be at risk or considered to be/have disabilities. Burris is the current Director of CEI Artworks in downtown Corvallis, whose storefront exhibition space regularly features work from Oregon artists.",
             "photoUrl": "",
             "isActive": true
         },
@@ -166,19 +180,6 @@
             "isActive": false,
             "description": "For the Window on Art project, Madelaine Corbin's SHOWROOM IV project explores the notion of display and the perceived public and private worlds displays exist in. The two spheres of the public and the private, and the space between the two, is intensely curated, altered, and disguised. Objects are used as items on display to describe, suggest, or project a lifestyle or an identity. Instead of looking at the objects however, SHOWROOM IV examines the hidden and constructed lifestyle by placing that very life on display. What happens when a private life is placed in a public context?",
             "photoUrl": "footwise.jpg"
-        },
-        {
-            "id": "foundry-annex",
-            "name": "Foundry Annex",
-            "address": "354 SW Madison Ave",
-            "geocode": {
-                "lat": 44.563465,
-                "lng": -123.262208
-            },
-            "summary": "Hannah Lamar Koelbl",
-            "isActive": false,
-            "description": "Ugly Art Room will present a solo show featuring the anatomical stitchings of NYC-based artist, Hannah Lamar Koelbl.\n\nHannah has been embroidering photographs, newspaper, and wax papers since 2007.\n\nIn 2012 she began a Master’s Program in Occupational Therapy and completed a gross anatomy dissection, an experience which inspired the recreation of illustrations from her textbook, Netter’s Anatomy, in drawing and embroidery.\n\nBased on an aesthetic preference, she has chosen to work with the female reproductive anatomy in particular, and to explore the many textural & visual layers, as well as the associations we draw upon.",
-            "photoUrl": ""
         },
         {
             "id": "jeff-hess",
@@ -215,9 +216,9 @@
                 "lat": 44.562877,
                 "lng": -123.261796
             },
-            "summary": "New Works",
+            "summary": "NEW LOCATION, NEW ART!",
             "isActive": true,
-            "description": "New works in Alcohol Ink and High Textured Acrylic Paintings",
+            "description": "After a hiatus from last month's Arts Walk to regroup in my new larger downtown studio, I'm excited to open for December Arts Walk with many new, larger alcohol ink paintings to share with you.  Also colorful holiday cards, small originals, and lots and lots of prints!",
             "photoUrl": ""
         },
         {
@@ -263,14 +264,14 @@
         },
         {
             "id": "pegasus",
-            "name": "Pegasus",
+            "name": "Pegasus Gallery",
             "address": "341 SW 2nd St",
             "geocode": {
                 "lat": 44.561185,
                 "lng": -123.261147
             },
-            "summary": "Window on Art 2016",
-            "description": "Art and artists from the Window on Art project.  Ranging from exploratory to practiced and performance to photo this exhibit spans the entirety.  Artists include Christopher Adams, Tanner Henderson, Francisco Morales, Madelaine Corbin, Lauren Ohlgren, Katrina Henry and Lauren Sharpton.",
+            "summary": "The Movable Feast of Art",
+            "description": "Pegasus Gallery hosts an annual rotating exhibit of local and regional artwork - paintings, prints, photography, ceramics, fiber arts and so much more for holiday shoppers enjoyment. Pegasus shares an supports this community, its local makers and the causes that sustain them, and there are several collections for whom a percentage of the proceed are tithed to support organizations that matter to this area. \n\nThis year's exhibit features paintings and mixed media by Bill Shumway, Rachel Urista, Debi Friedlander and Paige Shumway, prints by Kevin Clark, Bonnie Hall and Jim Howland, photography by John Ginn, Don Ferguson, Jeff Hess, Ben McReynolds, Denise Gholsen and Corwin Willard, ceramics by Jan Dymond, Barbara Markello, Becca Lemon, Dale Donovan and Jay Widmer and so much more. Come enjoy the arts and the season and shop local!",
             "isActive": true,
             "photoUrl": ""
         },
@@ -289,15 +290,15 @@
             "hours": "5-8 p.m."
         },
         {
-            "id": "urista-thompson",
+            "id": "urista-studio",
             "name": "Rachel Urista Studio",
             "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
             "geocode": {
                 "lat": 44.561314,
                 "lng": -123.261465
             },
-            "summary": "When Mirrors Chase Sky",
-            "description": "View Rachel’s small paintings from  \"When Mirrors Chase Sky\" Series, packed with intense color & writing & New huge coloring pages from Laurel!",
+            "summary": "Oversized Abstraction",
+            "description": "Come view the beginning of rather BIG abstract painting - spanning 7.5ft by 5ft, while you browse the Holiday Sale. Original art, fine art prints and coloring books from the artist will be on sale for the gift giving season.",
             "photoUrl": "",
             "isActive": true,
             "hours": ""
@@ -323,8 +324,8 @@
                 "lat": 44.563996,
                 "lng": -123.26244
             },
-            "summary": "The NeverEnding Story",
-            "description": "Watch the NeverEnding story by Studio262 owner, Jennifer Lommers, come to a close as the final pieces of her latest series fill the gallery wall with 128 pieces of art. Painting, music, and treats to celebrate the evening. Stop in and enjoy her story and the sight of her big, magical tree!",
+            "summary": "Goodbye Bash",
+            "description": "Please join Studio262 in our final arts walk as we finish out the year with our Holiday Show and cake! More surprises too, with 40% or more off all art supplies during our one last big community party. Huge thanks to everyone for your support of Studio262 these past few years - We look forward to seeing you during the arts walk!",
             "photoUrl": "",
             "isActive": true,
             "hours": "4-9 p.m."
@@ -350,10 +351,10 @@
                 "lat": 44.562193,
                 "lng": -123.262859
             },
-            "summary": "RED",
+            "summary": "CLOSURE",
             "photoUrl": "",
             "isActive": true,
-            "description": "Red is the color of Passion and the artists of Voices Gallery are excited to share their red inspirations with you."
+            "description": "As the year ends, the Artist of Voices creatively depict CLOSURE & RENEWAL."
         }
     ]
 }
