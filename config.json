@@ -81,6 +81,20 @@
             "isActive": true
         },
         {
+            "id": "fred-amos",
+            "name": "Fred Amos Art Gallery",
+            "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
+            "geocode": {
+                "lat": 44.561329,
+                "lng": -123.261658
+            },
+            "summary": "December Holiday Specials",
+            "description": "Portraits make great Christmas presents, I have special pricing for portraits that will be finished early next year. Ask about reasonable rates and payments. I have landscapes and floral paintings ready for framing that make great last minute purchases for Christmas.",
+            "photoUrl": "",
+            "isActive": true,
+            "hours": ""
+        },
+        {
             "id": "karen-wysopal",
             "name": "Karen Wysopal Studio",
             "address": "230 SW 3rd St., #208A (upstairs)",
