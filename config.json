@@ -2,6 +2,18 @@
     "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/07/",
     "destinations": [
         {
+            "id": 1,
+            "name": "Art in the Valley",
+            "address": "209 SW 2nd St",
+            "geocode": {
+                "lat": 44.5628093,
+                "lng": -123.2603014
+            },
+            "summary": "Coast to Coast Landscape",
+            "description": "Russ was trained as an electrical engineer and started his career with Southern Cal Edison Power Company. He shortly realized that this would not be his life's work, and was soon hired as a physics professor with the LA Community College system. After 27 years teaching, Russ retired, moved to Corvallis and worked as an artistic blacksmith, creating drawer pulls, drapery rods and other ironwork art. \n\nIn 1986 Russ discovered Vistas and Vineyards and was soon doing pen and pencil drawings. Russ tried watercolor, and has found his passion in oil painting. He has served 11 years as artist in residence at Tumacacori National Historical Park in southern Arizona.",
+            "isActive": true
+        },
+        {
             "id": "arts-center",
             "name": "The Arts Center",
             "address": "700 SW Madison Ave",
@@ -26,19 +38,6 @@
             "photoUrl": "",
             "isActive": true,
             "description": "Larry Hurst                                                                                                                                                                   What He Sees                                                                                                                                                                   \nWorks by Eugene artist Larry Hurst at ArtWorks (CEI)                                                                                    Opening Reception: Thursday July 21, 4-8pm (part of CAW)                                                                                       408 SW Monroe Ave/161 Corvallis, OR                                                                                                                  Info: Bruce@ceiworks.org                                                                                                                                                                                                               outpost1000.weebly.com/larry-hurst.html                                                                                   artsandcultureeugene.org\nThanks to OSLP Arts & Culture for photo and support                                                                                                   and to guest curator Kris Askew"
-        },
-        {
-            "id": "azure",
-            "name": "Azure Fine Art Gallery",
-            "address": "341 SW 2nd St",
-            "geocode": {
-                "lat": 44.561371,
-                "lng": -123.261053
-            },
-            "summary": "Window on Art 2016",
-            "description": "Art and artists from the Window on Art project.  Ranging from exploratory to practiced and performance to photo this exhibit spans the entirety.  Artists include Christopher Adams, Tanner Henderson, Francisco Morales, Madelaine Corbin, Lauren Ohlgren, Katrina Henry and Lauren Sharpton.",
-            "isActive": true,
-            "photoUrl": ""
         },
         {
             "id": 5,
@@ -72,25 +71,12 @@
             "name": "Karen Wysopal Studio",
             "address": "230 SW 3rd St., #208A (upstairs)",
             "geocode": {
-                "lat": 44.562877, 
+                "lat": 44.562877,
                 "lng": -123.261796
             },
             "summary": "New Works",
             "isActive": true,
             "description": "New works in Alcohol Ink and High Textured Acrylic Paintings",
-            "photoUrl": ""
-        },
-        {
-            "id": "living-room",
-            "name": "Living Room Gallery",
-            "address": "425 SW Madison Ave (lower level)",
-            "geocode": {
-                "lat": 44.563881,
-                "lng": -123.262926
-            },
-            "summary": "Long Distance",
-            "isActive": true,
-            "description": "Two lovers, united over 1300 miles in the town where they first met.  Paintings by Grace Noel and Nicholas Campbell.",
             "photoUrl": ""
         },
         {
@@ -122,7 +108,7 @@
         },
         {
             "id": "urista-thompson",
-            "name": "The Rabbit Hole",
+            "name": "Rachel Urista Studio",
             "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
             "geocode": {
                 "lat": 44.561314,
@@ -133,19 +119,6 @@
             "photoUrl": "",
             "isActive": true,
             "hours": ""
-        },
-        {
-            "id": "studio-beatrice",
-            "name": "Studio Beatrice",
-            "address": "230 NW 6th St",
-            "hours": "4-7 p.m.",
-            "geocode": {
-                "lat": 44.566827,
-                "lng": -123.263545
-            },
-            "summary": "Porcelain Pottery",
-            "description": "Dale Donovan has an array of new porcelain pottery fresh out of the kiln to show us this month.  Music by Marshall Adams and Wine tasting by Spindrift Cellars.  And plenty of surprises you won't want to miss!",
-            "isActive": true
         },
         {
             "id": "studio262",
@@ -166,7 +139,7 @@
             "name": "Voices Gallery",
             "address": "301 SW 4th St, Suite 160",
             "geocode": {
-                "lat": 44.562193, 
+                "lat": 44.562193,
                 "lng": -123.262859
             },
             "summary": "RED",
