@@ -94,20 +94,6 @@
             "photoUrl": ""
         },
         {
-            "id": "majestic",
-            "name": "Majestic Theatre",
-            "address": "115 SW 2nd St",
-            "hours": "5-8 p.m.",
-            "geocode": {
-                "lat": 44.563638,
-                "lng": -123.259978
-            },
-            "summary": "ART•BORETUM",
-            "description": "For centuries, plant-life has captured the hearts and minds of artists. Flora has been used as symbols, decorative elements, and subjects of masterpieces. During the month of July, we turn our attention to the green lives that grow all around us. We call upon local artists to help us turn our gallery into a botanical art garden.",
-            "photoUrl": "",
-            "isActive": true
-        },
-        {
             "id": "pegasus",
             "name": "Pegasus Gallery",
             "address": "341 SW 2nd St",
