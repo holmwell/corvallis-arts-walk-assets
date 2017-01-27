@@ -12,9 +12,11 @@ block content
 
     .row.destination(ng-class='{ isActive: dest.isActive }')
       .col-md-7
-        input.form-control(type="text" ng-model="dest.name")
-        input.form-control(type="text" ng-model="dest.address")
-        input.form-control(type="text" ng-model="dest.hours" placeholder="Hours")
+        input.form-control(type="text" ng-model="dest.name" placeholder="Name")
+        input.form-control(type="text" ng-model="dest.address" placeholder="Address")
+        input.form-control(type="text" ng-model="dest.hours" placeholder="Hours (leave empty for default hours)")
+        input.form-control(type="text" ng-model="dest.geocode.lat" placeholder="Latitude")
+        input.form-control(type="text" ng-model="dest.geocode.lng" placeholder="Longitude")
         textarea.form-control.msd-elastic(ng-model="dest.summary" placeholder="Summary" rows="1")
         textarea.form-control.msd-elastic(ng-model="dest.description" placeholder="Description")
         input.form-control(type="text" ng-model="dest.photoUrl" placeholder="Photo filename")
