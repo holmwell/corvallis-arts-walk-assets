@@ -24,10 +24,22 @@ block content
 
     .row
       .col-md-12
+        h3 Ready to publish?
+        ol 
+          li Save your destinations, above, then press this button to update your image 
+           | location and save the config files to your computer.
+          li Make a commit with git.
+          li On GitHub, submit a 'pull request' to <a href="https://github.com/holmwell/corvallis-arts-walk-assets">https://github.com/holmwell/corvallis-arts-walk-assets</a>. 
+          li After the pull request is approved, restart the app to see changes.
         button.btn.btn-default(ng-click="save()") Save
 
     .row
       .col-md-7
+        h3 Uploading images?
+        p Put them in this public location. You can edit this location
+         | as you see fit.
         input.form-control(type="text" ng-model="assetsUrl")
       .col-md-7
+        h3 New month?
+        p Remove all of the destinations from the list with this button:
         button.btn.btn-default(ng-click="deactivateAll()") Deactivate All
