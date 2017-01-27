@@ -8,12 +8,12 @@ block content
     form(name="form" novalidate)
       .row.destination(ng-class='{ isActive: dest.isActive }')
         .col-md-7
-          div Note, the ID should be unique, and maybe don't put any spaces or punctuation in it.
+          div Note, the ID should be unique, and please don't put any spaces or punctuation in it, except dashes.
           input.form-control(type="text" ng-model="dest.id" placeholder="ID (e.g. arts-center)" required)
           input.form-control(type="text" ng-model="dest.name" placeholder="Name (e.g. The Arts Center)" required)
           input.form-control(type="text" ng-model="dest.address" placeholder="Address")
-          input.form-control(type="text" ng-model="dest.geocode.lat" placeholder="Latitude")
-          input.form-control(type="text" ng-model="dest.geocode.lng" placeholder="Longitude")
+          input.form-control(type="text" ng-model="dest.geocode.lat" placeholder="Latitude" required)
+          input.form-control(type="text" ng-model="dest.geocode.lng" placeholder="Longitude" required)
           input.form-control(type="text" ng-model="dest.hours" placeholder="Hours (leave empty for default hours)")
           textarea.form-control.msd-elastic(ng-model="dest.summary" placeholder="Summary" rows="1")
           textarea.form-control.msd-elastic(ng-model="dest.description" placeholder="Description")

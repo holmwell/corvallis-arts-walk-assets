@@ -91,6 +91,8 @@ router.post('/dest', function (req, res, next) {
             return res.status(500).send(err);
         }
 
+        var destinations = json.destinations;
+
         for (var i=0; i < destinations.length; i++) {
             if (destinations[i].id.toString() === dest.id.toString()) {
                 return res.status(401).send("Destination ID already exists.")

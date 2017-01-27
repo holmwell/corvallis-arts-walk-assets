@@ -91,7 +91,7 @@ angular.module('caw-edit', ['monospaced.elastic'])
         };
 
     })
-    .controller('NewDestCtrl', function ($scope, $http, $window, destId) {
+    .controller('NewDestCtrl', function ($scope, $http, $window) {
         var destinations;
 
         $scope.save = function () {

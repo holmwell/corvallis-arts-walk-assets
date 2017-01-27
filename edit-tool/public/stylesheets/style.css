@@ -37,3 +37,7 @@ p,
 label {
 	margin-top: 1em;
 }
+
+.ng-invalid.ng-touched {
+	border-color: red;
+}
