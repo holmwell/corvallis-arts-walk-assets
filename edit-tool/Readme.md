@@ -6,7 +6,8 @@ Prerequisites
  3. Open a GitHub account
 
 One time:
- 1. Download this codebase: git clone https://github.com/holmwell/corvallis-arts-walk-assets.git
+ 1. Use GitHub to 'Fork' this project
+ 1. Download your new project to your computer via 'git clone'
  2. Go to the directory where the you downloaded this.
  3. cd edit-tool
  4. npm install
