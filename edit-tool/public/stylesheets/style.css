@@ -32,3 +32,8 @@ h4 {
 .isActive {
     background-color: gold;
 }
+
+p,
+label {
+	margin-top: 1em;
+}

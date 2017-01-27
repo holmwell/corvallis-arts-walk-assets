@@ -7,6 +7,10 @@ router.get('/', function (req, res, next) {
     res.render('index', { title: 'Corvallis Arts Walk' });
 });
 
+router.get('/new', function (req, res, next) {
+    res.render('new');
+});
+
 router.get('/dest/:destId', function (req, res, next) {
     res.render('dest', { destId: req.params.destId });
 });
@@ -76,6 +80,33 @@ router.put('/config', function (req, res, next) {
         }
 
         res.status(200).send();
+    });
+});
+
+router.post('/dest', function (req, res, next) {
+    var dest = req.body;
+
+    readDestinations(function (err, json) {
+        if (err) {
+            return res.status(500).send(err);
+        }
+
+        for (var i=0; i < destinations.length; i++) {
+            if (destinations[i].id.toString() === dest.id.toString()) {
+                return res.status(401).send("Destination ID already exists.")
+            }
+        }
+
+        json.destinations.push(dest);
+
+        writeDestinations(json, function (err) {
+            if (err) {
+                return res.status(500).send(err);
+            }
+            res.status(200).send();
+        });
+
+        res.send(json);
     });
 });
 

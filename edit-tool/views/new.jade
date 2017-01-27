@@ -1,0 +1,28 @@
+extends layout
+
+block content
+  .container(ng-controller='NewDestCtrl')
+    h1 <a href="/">Corvallis Arts Walk</a>
+    h2 Add new destination
+
+    form(name="form" novalidate)
+      .row.destination(ng-class='{ isActive: dest.isActive }')
+        .col-md-7
+          div Note, the ID should be unique, and maybe don't put any spaces or punctuation in it.
+          input.form-control(type="text" ng-model="dest.id" placeholder="ID (e.g. arts-center)" required)
+          input.form-control(type="text" ng-model="dest.name" placeholder="Name (e.g. The Arts Center)" required)
+          input.form-control(type="text" ng-model="dest.address" placeholder="Address")
+          input.form-control(type="text" ng-model="dest.geocode.lat" placeholder="Latitude")
+          input.form-control(type="text" ng-model="dest.geocode.lng" placeholder="Longitude")
+          input.form-control(type="text" ng-model="dest.hours" placeholder="Hours (leave empty for default hours)")
+          textarea.form-control.msd-elastic(ng-model="dest.summary" placeholder="Summary" rows="1")
+          textarea.form-control.msd-elastic(ng-model="dest.description" placeholder="Description")
+          input.form-control(type="text" ng-model="dest.photoUrl" placeholder="Photo filename")
+          label Active this month&nbsp;
+            input(type="checkbox" ng-model="dest.isActive")
+
+      .row
+        .col-md-12
+          div(ng-if="errorMessage")
+            pre {{errorMessage}}
+          button.btn.btn-default(ng-click="save()") Create destination

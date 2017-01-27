@@ -76,11 +76,43 @@ angular.module('caw-edit', ['monospaced.elastic'])
         $scope.save = function () {
             var data = $scope.dest;
 
+            if (data.geocode) {
+                data.geocode.lat = data.geocode.lat * 1;
+                data.geocode.lng = data.geocode.lng * 1;
+            }
+
             $http.put('/dest', data).success(function () {
                 // We're ok! Go back.
                 $window.location.href = '/';
             })
             .error(function (err) {
+                console.log(err);
+            });
+        };
+
+    })
+    .controller('NewDestCtrl', function ($scope, $http, $window, destId) {
+        var destinations;
+
+        $scope.save = function () {
+            var data = $scope.dest;
+
+            if ($scope.form.$invalid) {
+                $scope.errorMessage = "Please fill out the required fields.";
+                return;
+            }
+
+            if (data.geocode) {
+                data.geocode.lat = data.geocode.lat * 1;
+                data.geocode.lng = data.geocode.lng * 1;
+            }
+
+            $http.post('/dest', data).success(function () {
+                // We're ok! Go back.
+                $window.location.href = '/';
+            })
+            .error(function (err) {
+                $scope.errorMessage = err;
                 console.log(err);
             });
         };
