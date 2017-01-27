@@ -60,7 +60,7 @@ angular.module('caw-edit', ['monospaced.elastic'])
             });            
         }
     })
-    .controller('DestCtrl', function ($scope, $http, destId) {
+    .controller('DestCtrl', function ($scope, $http, $window, destId) {
         var destinations;
 
         getDestinations($http, function (config) {
@@ -77,7 +77,8 @@ angular.module('caw-edit', ['monospaced.elastic'])
             var data = $scope.dest;
 
             $http.put('/dest', data).success(function () {
-                // We're ok!
+                // We're ok! Go back.
+                $window.location.href = '/';
             })
             .error(function (err) {
                 console.log(err);
