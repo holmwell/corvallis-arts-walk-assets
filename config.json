@@ -2,164 +2,17 @@
     "assetsUrl": "https://raw.githubusercontent.com/holmwell/corvallis-arts-walk-assets/master/2016/07/",
     "destinations": [
         {
-            "id": 1,
-            "name": "Art in the Valley",
-            "address": "209 SW 2nd St",
-            "geocode": {
-                "lat": 44.5628093,
-                "lng": -123.2603014
-            },
-            "summary": "\"Imagine\"",
-            "description": "\"Art in the Valley offers a shop full of \"\"eye candy\"\" this holiday season. Treats from local artists abound. \n\nFeatured  exhibit, \"\"Imagine\"\", showcases new work by oil painter Beatrice Rubenfeld, who delights in the beauty that's out there and translates it into her own vision. Color and nature inspire, the medium is her muse.\"",
-            "isActive": true
-        },
-        {
             "id": "arts-center",
-            "name": "The Arts Center",
-            "address": "700 SW Madison Ave",
+            "name": "Walking the CAW",
+            "address": "Downtown Corvallis",
             "geocode": {
                 "lat": 44.5643109,
                 "lng": -123.266023
             },
-            "summary": "Playing With Wings and Things",
-            "description": "Interactive Activities at With Wings and Tails:\n\nWhy are we drawn to Animals? We marvel at images of animals in nature. The Arts Center presents an opportunity for hands on art & collage making at CAW event. For the rest of the year collages, drawings and paintings made at CAW will be exhibited in an impromptu exhibit With Wings and Tails Annex in the Corrine Woodman Gallery II through Saturday December 31. (pick up January3)\n\nArt supplies provided.\n\nResearchers at Caltech found that our brains “fire” when we see an animal — a dog, a spider, a mouse — but not a person, place or object. The region in the brain is the amygdala, an almond-shaped area associated with emotions. To see if the scientific research is correct, to engage you with animal life of all sorts, to create a moment of that emotion in your brain\n\nSome of the work in With Wings and Tails is sweet and endearing; some addresses animal life in a more realistic way. They can all serve as inspiration for active participation and engagement\n\nLocal and regional artists were invited to share their animal friends. They connect and depict animals in a range of media and styles.",
+            "summary": "Every 3rd Thursday in Corvallis",
+            "description": "The Corvallis Arts Walk app has been sunset. Thank you for walking the CAW!\n\nCAW is a grass-roots organized art walk that takes place on the 3rd Thursday of each month in downtown Corvallis. Galleries, studios, arts/crafts stores and the occasional pop-up keep their doors open late to host an art related event or demonstration.  Walking maps of the event can be picked up at any of the storefront members or viewed here on our CAW Map page.\n\nHave a question? Want to know how you can support the CAW? Contact us at corvallisartswalk@gmail.com",
             "isActive": true,
             "photoUrl": ""
-        },
-        {
-            "id": 2,
-            "name": "ArtWorks (CEI) Gallery",
-            "address": "408 SW Monroe Ave Suite 110",
-            "geocode": {
-                "lat": 44.564372,
-                "lng": -123.262252
-            },
-            "summary": "Cara Tomlinson: Props and Propositions",
-            "photoUrl": "",
-            "isActive": true,
-            "description": "My work has a variety of overlapping concerns, exploring construction and evolution of self, boundaries of subjectivity, and the interconnection of self and environment through a grounding in material, process and the history of painting.  \n\nIn dialog with the long and varied tradition of modernist abstraction, I explore the intersection between painting and sculpture and the extension of painterly language into dimensional applications. \n\nThe role the studio plays in my work is both structural and theoretical—it becomes the subject of the work as well as the frame for the process. Much of my recent work arises out of paying attention to the ecology, evolution and residue of the studio process and reusing and re-purposing material left over from other processes. \n\nThis work is formally driven and playful-- studio objects co-exist with painted surfaces. These forms interbreed and engage each other. Objects influence paintings and paintings become inspiration for objects."
-        },
-        {
-            "id": "bison-bison",
-            "name": "Bison bison!",
-            "address": "354 SW Madison Ave",
-            "geocode": {
-                "lat": 44.563465,
-                "lng": -123.262208
-            },
-            "summary": "Muriel Condon | Recent Works",
-            "isActive": true,
-            "description": "The Micro Gallery at Bison bison! will be hosting (recently) local artist Muriel Condon with a collection of small works in graphite and colored pencil. \n\nHer work creates scenes without context,  focusing on unexpected juxtapositions of everyday objects. With seeming intention, Muriel works between realistic and impressionist representation, placing and choosing objects with a purpose–though imparting meaning is left to the observer. \n\nArtist reception will be during the Arts Walk from 5-9 pm.",
-            "photoUrl": "",
-            "hours": "5-9 p.m."
-        },
-        {
-            "id": 5,
-            "name": "Brittney West Studio",
-            "address": "340 SW 2nd St., Studio #3 (Above Corvallis Cyclery)",
-            "geocode": {
-                "lat": 44.561378,
-                "lng": -123.261429
-            },
-            "summary": "New Activist Artwork",
-            "description": "Affordable Eco-Prints starting at just $15 and original art for sale--perfect for holiday gifts! Come see new additions to West's “Animal Activist Artwork” series as well. Pick the artist's brain, enjoy the ambiance and good company—all are welcome!",
-            "photoUrl": "",
-            "isActive": true
-        },
-        {
-            "id": "fairbanks",
-            "name": "Fairbanks Art Gallery",
-            "address": "220 SW 26th St",
-            "hours": "",
-            "geocode": {
-                "lat": 44.5648582,
-                "lng": -123.2804139
-            },
-            "summary": "Montage",
-            "description": "Montage Collective is a student-run arts organization of Oregon State University that seeks to both foster camaraderie among artists, as well as promote the arts on and off campus. The annual Montage juried exhibit draws from a pool of OSU students of all majors, traditionally providing a wide spectrum of work in matters of genre, background and intention. \n\nThis year features juror Bruce Burris, who has made a career of establishing programs that provide various supports for artists who are considered to be at risk or considered to be/have disabilities. Burris is the current Director of CEI Artworks in downtown Corvallis, whose storefront exhibition space regularly features work from Oregon artists.",
-            "photoUrl": "",
-            "isActive": true
-        },
-        {
-            "id": "fred-amos",
-            "name": "Fred Amos Art Gallery",
-            "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
-            "geocode": {
-                "lat": 44.561329,
-                "lng": -123.261658
-            },
-            "summary": "December Holiday Specials",
-            "description": "Portraits make great Christmas presents, I have special pricing for portraits that will be finished early next year. Ask about reasonable rates and payments. I have landscapes and floral paintings ready for framing that make great last minute purchases for Christmas.",
-            "photoUrl": "",
-            "isActive": true,
-            "hours": ""
-        },
-        {
-            "id": "karen-wysopal",
-            "name": "Karen Wysopal Studio",
-            "address": "230 SW 3rd St., #208A (upstairs)",
-            "geocode": {
-                "lat": 44.562877,
-                "lng": -123.261796
-            },
-            "summary": "NEW LOCATION, NEW ART!",
-            "isActive": true,
-            "description": "After a hiatus from last month's Arts Walk to regroup in my new larger downtown studio, I'm excited to open for December Arts Walk with many new, larger alcohol ink paintings to share with you.  Also colorful holiday cards, small originals, and lots and lots of prints!",
-            "photoUrl": ""
-        },
-        {
-            "id": "pegasus",
-            "name": "Pegasus Gallery",
-            "address": "341 SW 2nd St",
-            "geocode": {
-                "lat": 44.561185,
-                "lng": -123.261147
-            },
-            "summary": "The Movable Feast of Art",
-            "description": "Pegasus Gallery hosts an annual rotating exhibit of local and regional artwork - paintings, prints, photography, ceramics, fiber arts and so much more for holiday shoppers enjoyment. Pegasus shares an supports this community, its local makers and the causes that sustain them, and there are several collections for whom a percentage of the proceed are tithed to support organizations that matter to this area. \n\nThis year's exhibit features paintings and mixed media by Bill Shumway, Rachel Urista, Debi Friedlander and Paige Shumway, prints by Kevin Clark, Bonnie Hall and Jim Howland, photography by John Ginn, Don Ferguson, Jeff Hess, Ben McReynolds, Denise Gholsen and Corwin Willard, ceramics by Jan Dymond, Barbara Markello, Becca Lemon, Dale Donovan and Jay Widmer and so much more. Come enjoy the arts and the season and shop local!",
-            "isActive": true,
-            "photoUrl": ""
-        },
-        {
-            "id": "urista-studio",
-            "name": "Rachel Urista Studio",
-            "address": "340 SW 2nd St., Studio #12 (Above Corvallis Cyclery)",
-            "geocode": {
-                "lat": 44.561314,
-                "lng": -123.261465
-            },
-            "summary": "Oversized Abstraction",
-            "description": "Come view the beginning of rather BIG abstract painting - spanning 7.5ft by 5ft, while you browse the Holiday Sale. Original art, fine art prints and coloring books from the artist will be on sale for the gift giving season.",
-            "photoUrl": "",
-            "isActive": true,
-            "hours": ""
-        },
-        {
-            "id": "studio262",
-            "name": "Studio262",
-            "address": "425 SW Madison Ave, Suite H-1",
-            "geocode": {
-                "lat": 44.563996,
-                "lng": -123.26244
-            },
-            "summary": "Goodbye Bash",
-            "description": "Please join Studio262 in our final arts walk as we finish out the year with our Holiday Show and cake! More surprises too, with 40% or more off all art supplies during our one last big community party. Huge thanks to everyone for your support of Studio262 these past few years - We look forward to seeing you during the arts walk!",
-            "photoUrl": "",
-            "isActive": true,
-            "hours": "4-9 p.m."
-        },
-        {
-            "id": "voices-gallery",
-            "name": "Voices Gallery",
-            "address": "301 SW 4th St, Suite 160",
-            "geocode": {
-                "lat": 44.562193,
-                "lng": -123.262859
-            },
-            "summary": "CLOSURE",
-            "photoUrl": "",
-            "isActive": true,
-            "description": "As the year ends, the Artist of Voices creatively depict CLOSURE & RENEWAL."
         }
     ]
 }
